@@ -11,24 +11,15 @@
             "id": "34187546b607c48b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a32bdcbd7bba4c7b",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "🏡 Olá Mariana!.md",
+                "file": "🆘 Ajuda.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏡 Olá Mariana!.md",
+                "file": "🆘 Ajuda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏡 Olá Mariana!.md",
+                "file": "🆘 Ajuda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏡 Olá Mariana!.md"
+                "file": "🆘 Ajuda.md"
               }
             }
           }
@@ -159,14 +150,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a32bdcbd7bba4c7b",
+  "active": "34187546b607c48b",
   "lastOpenFiles": [
     "🏡 Olá Mariana!.md",
+    "🆘 Ajuda.md",
+    "Novo Documento de Texto.txt",
+    "Nova pasta",
     "Home.md",
     "📝 Notas/Descobrimentos e Globalização.md",
     "📝 Notas/Poder e Instituições em Portugal (séculos XV-XVIII).md",
     "📝 Notas/Sistema de Saberes na Época Moderna.md",
-    "🆘.md",
     "🖼️ Imagens/liuSpatialTemporalScales2021_8MLKENHY.png",
     "🖼️ Imagens/liuSpatialTemporalScales2021_MX2ZJM2B.png",
     "🖼️ Imagens/liuSpatialTemporalScales2021_2Z27I9RR.png",
