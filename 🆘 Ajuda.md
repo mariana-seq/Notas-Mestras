@@ -6,6 +6,7 @@
 # Atalhos úteis
 - Nova nota: Ctrl + N
 - Mover linha acima/abaixo: Ctrl + seta cima/baixo
+- Mover seleção de texto acima/abaixo: Ctrl + seta cima/baixo
 - Selecionar palavra com:
 	- Cursor à frente da palavra: Ctrl+Shift+Home (seta esquerda)
 	- Cursor atrás da palavra: Ctrl+Shift+End (seta direita)
