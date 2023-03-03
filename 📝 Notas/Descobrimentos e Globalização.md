@@ -3,7 +3,7 @@
 
 **Método de avaliação**:
 - Assiduidade e participação nas aulas práticas (10%) - contínuo
-- Recensão crítica (20%) de um capítulo/artigo, máx. 5 páginas – 16 de maio 
+- Recensão crítica (20%) de um capítulo/artigo, máx. 5 páginas – 16 de maio. 
 - Apresentação de trabalho (20%). Resumo de um capítulo do livro *The Cambridge World History. Volume VI. The Construction of a Global World, 1400-1800* – 16 de maio 
 - Ensaio escrito (50%), com uma fonte histórica e bibliografia associada, máx. 15 páginas – 11 de junho
 
