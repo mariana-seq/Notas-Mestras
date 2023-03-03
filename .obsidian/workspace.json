@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "a5e6c62aaf5d86aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "97cd2ee7c4c519df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34187546b607c48b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a32bdcbd7bba4c7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🏡 Olá Mariana!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "310c062ec6a959a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "19abd30e6f85452b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb60f30fe3346ec5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea065eddbe10a4e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b17f72bf72bb7384",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c195449eb9a13397",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3115f7757d9c591",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3102e08746168dcb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🏡 Olá Mariana!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5fe913ad3b1d5d92",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🏡 Olá Mariana!.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e4f7007382c288d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "88877ee6e65ecb94",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🏡 Olá Mariana!.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "workspaces:Manage workspace layouts": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "a32bdcbd7bba4c7b",
+  "lastOpenFiles": [
+    "🏡 Olá Mariana!.md",
+    "Home.md",
+    "📝 Notas/Descobrimentos e Globalização.md",
+    "📝 Notas/Poder e Instituições em Portugal (séculos XV-XVIII).md",
+    "📝 Notas/Sistema de Saberes na Época Moderna.md",
+    "🆘.md",
+    "🖼️ Imagens/liuSpatialTemporalScales2021_8MLKENHY.png",
+    "🖼️ Imagens/liuSpatialTemporalScales2021_MX2ZJM2B.png",
+    "🖼️ Imagens/liuSpatialTemporalScales2021_2Z27I9RR.png",
+    "🪶 Citações/liuSpatialTemporalScales2021.md"
+  ]
+}

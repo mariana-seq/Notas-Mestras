@@ -1,0 +1,220 @@
+{
+  "config": {
+    "id": "36a3b0b5-bad0-4a04-b79b-441c7cef77db",
+    "label": "BetterBibTeX JSON",
+    "preferences": {
+      "ascii": "",
+      "asciiBibLaTeX": false,
+      "asciiBibTeX": true,
+      "autoAbbrev": false,
+      "autoAbbrevStyle": "",
+      "autoExport": "immediate",
+      "autoExportDelay": 5,
+      "autoExportIdleWait": 10,
+      "autoExportPathReplaceDiacritics": false,
+      "autoExportPathReplaceDirSep": "-",
+      "autoExportPathReplaceSpace": " ",
+      "automaticTags": true,
+      "autoPinDelay": 0,
+      "auxImport": false,
+      "baseAttachmentPath": "",
+      "biblatexExtendedDateFormat": true,
+      "biblatexExtendedNameFormat": false,
+      "biblatexExtractEprint": true,
+      "bibtexParticleNoOp": false,
+      "bibtexURL": "off",
+      "cache": true,
+      "cacheFlushInterval": 5,
+      "charmap": "",
+      "citeCommand": "cite",
+      "citekeyFold": true,
+      "citekeyFormat": "auth.lower + shorttitle(3,3) + year",
+      "citekeyFormatBackup": "auth.lower + shorttitle(3,3) + year",
+      "citekeySearch": true,
+      "citekeyUnsafeChars": "\\\"#%'(),={}~",
+      "csquotes": "",
+      "DOIandURL": "both",
+      "exportBibTeXStrings": "off",
+      "exportBraceProtection": true,
+      "exportTitleCase": true,
+      "extraMergeCitekeys": false,
+      "extraMergeCSL": false,
+      "extraMergeTeX": false,
+      "git": "config",
+      "import": true,
+      "importBibTeXStrings": true,
+      "importCaseProtection": "as-needed",
+      "importCitationKey": true,
+      "importExtra": true,
+      "importJabRefAbbreviations": true,
+      "importJabRefStrings": true,
+      "importNoteToExtra": "",
+      "importSentenceCase": "on+guess",
+      "importUnknownTexCommand": "ignore",
+      "itemObserverDelay": 5,
+      "jabrefFormat": 0,
+      "jieba": false,
+      "keyConflictPolicy": "keep",
+      "keyScope": "library",
+      "kuroshiro": false,
+      "language": "langid",
+      "mapMath": "",
+      "mapText": "",
+      "mapUnicode": "conservative",
+      "parseParticles": true,
+      "patchDates": "dateadded=dateAdded, date-added=dateAdded, datemodified=dateModified, date-modified=dateModified",
+      "platform": "win",
+      "postscript": "",
+      "postscriptOverride": "",
+      "preferencesOverride": "",
+      "qualityReport": false,
+      "quickCopyEta": "",
+      "quickCopyMode": "latex",
+      "quickCopyOrgMode": "zotero",
+      "quickCopyPandocBrackets": false,
+      "quickCopySelectLink": "zotero",
+      "rawImports": false,
+      "rawLaTag": "#LaTeX",
+      "relativeFilePaths": false,
+      "retainCache": false,
+      "scrubDatabase": false,
+      "separatorList": "and",
+      "separatorNames": "and",
+      "skipFields": "",
+      "skipWords": "a,ab,aboard,about,above,across,after,against,al,along,amid,among,an,and,anti,around,as,at,before,behind,below,beneath,beside,besides,between,beyond,but,by,d,da,das,de,del,dell,dello,dei,degli,della,dell,delle,dem,den,der,des,despite,die,do,down,du,during,ein,eine,einem,einen,einer,eines,el,en,et,except,for,from,gli,i,il,in,inside,into,is,l,la,las,le,les,like,lo,los,near,nor,of,off,on,onto,or,over,past,per,plus,round,save,since,so,some,sur,than,the,through,to,toward,towards,un,una,unas,under,underneath,une,unlike,uno,unos,until,up,upon,versus,via,von,while,with,within,without,yet,zu,zum",
+      "startupProgress": "popup",
+      "strings": "",
+      "stringsOverride": "",
+      "testing": false,
+      "verbatimFields": "url,doi,file,pdf,ids,eprint,/^verb[a-z]$/,groups,/^citeulike-linkout-[0-9]+$/, /^bdsk-url-[0-9]+$/",
+      "warnBulkModify": 10,
+      "warnTitleCased": false,
+      "texmap": {}
+    },
+    "options": {
+      "exportNotes": true,
+      "exportFileData": false,
+      "keepUpdated": false,
+      "worker": true
+    }
+  },
+  "version": {
+    "zotero": "6.0.22",
+    "bbt": "6.7.54"
+  },
+  "collections": {
+    "KGH943TE": {
+      "key": "KGH943TE",
+      "parent": "",
+      "name": "exemplo",
+      "collections": [],
+      "items": [
+        2
+      ]
+    }
+  },
+  "items": [
+    {
+      "key": "JKGIHJVV",
+      "version": 0,
+      "itemType": "bookSection",
+      "title": "A vida sexual dos casais na antiga sociedade: da doutrina da Igreja \u00e0 realidade de comportamentos",
+      "date": "1985",
+      "place": "Lisboa",
+      "publisher": "Contexto",
+      "edition": "3\u00aa",
+      "creators": [
+        {
+          "firstName": "Jean",
+          "lastName": "FLANDRIN",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-03-01T19:45:43Z",
+      "dateModified": "2023-03-01T19:48:42Z",
+      "uri": "http://zotero.org/users/local/WD6fice8/items/JKGIHJVV",
+      "itemID": 20,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Sexualidades Ocidentais FLANDRIN.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-03-01T19:45:08Z",
+          "dateModified": "2023-03-01T19:45:46Z",
+          "uri": "http://zotero.org/users/local/WD6fice8/items/FVBL9JGI",
+          "path": "C:\\Users\\maria\\Zotero\\storage\\FVBL9JGI\\Sexualidades Ocidentais FLANDRIN.pdf",
+          "select": "zotero://select/library/items/FVBL9JGI"
+        }
+      ],
+      "notes": [],
+      "citationKey": "flandrinVidaSexualDos1985",
+      "itemKey": "JKGIHJVV",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/JKGIHJVV",
+      "publicationTitle": "Sexualidades Ocidentais"
+    },
+    {
+      "key": "VTHJM9D6",
+      "version": 0,
+      "itemType": "journalArticle",
+      "title": "Spatial and temporal scales of dopamine transmission",
+      "abstractNote": "Dopamine is a prototypical neuromodulator that controls circuit function through G protein-c oupled receptor signalling. Neuromodulators are volume transmitters, with release followed by diffusion for widespread receptor activation on many target cells. Yet, we are only beginning to understand the specific organization of dopamine transmission in space and time. Although some roles of dopamine are mediated by slow and diffuse signalling, recent studies suggest that certain dopamine functions necessitate spatiotemporal precision. Here, we review the literature describing dopamine signalling in the striatum, including its release mechanisms and receptor organization. We then propose the domain-o verlap model, in which release and receptors are arranged relative to one another in micrometre-s cale structures. This architecture is different from both point-to-point synaptic transmission and the widespread organization that is often proposed for neuromodulation. It enables the activation of receptor subsets that are within micrometre-s cale domains of release sites during baseline activity and broader receptor activation with domain overlap when firing is synchronized across dopamine neuron populations. This signalling structure, together with the properties of dopamine release, may explain how switches in firing modes support broad and dynamic roles for dopamine and may lead to distinct pathway modulation.",
+      "date": "06/2021",
+      "language": "en",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "url": "http://www.nature.com/articles/s41583-021-00455-7",
+      "accessDate": "2023-02-25T19:45:01Z",
+      "volume": "22",
+      "pages": "345-358",
+      "publicationTitle": "Nature Reviews Neuroscience",
+      "DOI": "10.1038/s41583-021-00455-7",
+      "issue": "6",
+      "journalAbbreviation": "Nat Rev Neurosci",
+      "ISSN": "1471-003X, 1471-0048",
+      "creators": [
+        {
+          "firstName": "Changliang",
+          "lastName": "Liu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Pragya",
+          "lastName": "Goel",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Pascal S.",
+          "lastName": "Kaeser",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-02-25T19:45:01Z",
+      "dateModified": "2023-02-25T19:45:01Z",
+      "uri": "http://zotero.org/users/local/WD6fice8/items/VTHJM9D6",
+      "itemID": 2,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Liu et al. - 2021 - Spatial and temporal scales of dopamine transmissi.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-02-25T19:44:56Z",
+          "dateModified": "2023-02-25T19:45:01Z",
+          "uri": "http://zotero.org/users/local/WD6fice8/items/JSVTZKZQ",
+          "path": "C:\\Users\\maria\\Zotero\\storage\\JSVTZKZQ\\Liu et al. - 2021 - Spatial and temporal scales of dopamine transmissi.pdf",
+          "select": "zotero://select/library/items/JSVTZKZQ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "liuSpatialTemporalScales2021",
+      "itemKey": "VTHJM9D6",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/VTHJM9D6"
+    }
+  ]
+}
