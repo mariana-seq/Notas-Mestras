@@ -21,7 +21,7 @@
 **Ideias para o trabalho final de semestre**:
 1. Entrada Real de D. Maria Ana de Áustria - explorar o barroco, cerimonial como forma de arte, vestuário... 
 2. Infância de D. Carlota Joaquina em Queluz. Encontrar documentação respetiva (cartas familiares). O ideal de educação vs. o comportamento da Princesa. Ver: *Rolex dos príncipes*
-3. As Infantas de Queluz. Educação das princesas D. Maria I e D. Maria   Francisca Benedita. Ver: *Rolex dos príncipes*
+3. Entre Queluz e Ajuda. Educação das princesas D. Maria I e D. Maria   Francisca Benedita. Ver: *Rolex dos príncipes*
 4. Textos de Cordel - mulheres e vestuário. Perceber se já foi trabalhado.
 	- Comparação entre Portugal e Espanha
 	- Levantamento dos textos para os séculos XVII e XVIII, descrever e compará-los entre si. Que temas tocam? Que criticas que fazem? Referenciam mulheres específicas ou num todo? Qual era o propósito e produção destes textos? Eram patrocinados ou não? Onde eram publicados? Quem eram os autores que os escreviam?
