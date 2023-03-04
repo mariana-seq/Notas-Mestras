@@ -13,4 +13,6 @@
 - Entradas Reais no Brasil ?? existe, ou é só no século XIX?
 - Como se celebravam os casamentos reais? Casamentos século XVIII, D. Mariana Vitória e D. José...
 - Mulheres??
+- Cerimónias e festas.
+- Vila Rica - existiam cerimoniais específicos lá?
 
