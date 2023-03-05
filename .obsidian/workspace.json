@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "386a24fb54b91228",
+        "id": "ff00f8c4e5e0fcf2",
         "type": "tabs",
         "children": [
           {
-            "id": "63767c19a5ed234c",
+            "id": "8e0b548fd60e6051",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏡 Olá Mariana!.md",
+                "file": "📝 Notas/Descobrimentos e Globalização.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏡 Olá Mariana!.md",
+                "file": "📝 Notas/Descobrimentos e Globalização.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏡 Olá Mariana!.md",
+                "file": "📝 Notas/Descobrimentos e Globalização.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏡 Olá Mariana!.md"
+                "file": "📝 Notas/Descobrimentos e Globalização.md"
               }
             }
           }
@@ -150,10 +150,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "63767c19a5ed234c",
+  "active": "8e0b548fd60e6051",
   "lastOpenFiles": [
-    "📝 Notas/Descobrimentos e Globalização.md",
     "🏡 Olá Mariana!.md",
+    "📝 Notas/Descobrimentos e Globalização.md",
     "📝 Notas/Sistema de Saberes na Época Moderna.md",
     "📝 Notas/Poder e Instituições em Portugal (séculos XV-XVIII).md",
     "🆘 Ajuda.md",
