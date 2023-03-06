@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4888717496e658bf",
+        "id": "da68682ad55f1b57",
         "type": "tabs",
         "children": [
           {
-            "id": "fc7fd0d26aa0016d",
+            "id": "556ba2fd1bd2cba0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🆘 Ajuda.md",
+                "file": "🏡 Olá Mariana!.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🆘 Ajuda.md",
+                "file": "🏡 Olá Mariana!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🆘 Ajuda.md",
+                "file": "🏡 Olá Mariana!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🆘 Ajuda.md"
+                "file": "🏡 Olá Mariana!.md"
               }
             }
           }
@@ -150,7 +150,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fc7fd0d26aa0016d",
+  "active": "556ba2fd1bd2cba0",
   "lastOpenFiles": [
     "🖼️ Imagens/Pasted image 20230225193258.png",
     "🖼️ Imagens/liuSpatialTemporalScales2021_W824HPS3.png",
