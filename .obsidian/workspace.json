@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏡 Olá Mariana!.md",
+                "file": "🆘 Ajuda.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏡 Olá Mariana!.md",
+                "file": "🆘 Ajuda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏡 Olá Mariana!.md",
+                "file": "🆘 Ajuda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏡 Olá Mariana!.md"
+                "file": "🆘 Ajuda.md"
               }
             }
           }
@@ -152,17 +152,19 @@
   },
   "active": "fc7fd0d26aa0016d",
   "lastOpenFiles": [
-    "🏡 Olá Mariana!.md",
-    "📝 Notas/Descobrimentos e Globalização.md",
-    "📝 Notas/Sistema de Saberes na Época Moderna.md",
+    "🖼️ Imagens/Pasted image 20230225193258.png",
+    "🖼️ Imagens/liuSpatialTemporalScales2021_W824HPS3.png",
+    "🖼️ Imagens/liuSpatialTemporalScales2021_MX2ZJM2B.png",
+    "🖼️ Imagens/liuSpatialTemporalScales2021_2Z27I9RR.png",
     "📝 Notas/Poder e Instituições em Portugal (séculos XV-XVIII).md",
+    "📝 Notas/Sistema de Saberes na Época Moderna.md",
+    "📝 Notas/Descobrimentos e Globalização.md",
     "🆘 Ajuda.md",
+    "🏡 Olá Mariana!.md",
     "Novo Documento de Texto.txt",
     "Nova pasta",
     "Home.md",
     "🖼️ Imagens/liuSpatialTemporalScales2021_8MLKENHY.png",
-    "🖼️ Imagens/liuSpatialTemporalScales2021_MX2ZJM2B.png",
-    "🖼️ Imagens/liuSpatialTemporalScales2021_2Z27I9RR.png",
     "🪶 Citações/liuSpatialTemporalScales2021.md"
   ]
 }
