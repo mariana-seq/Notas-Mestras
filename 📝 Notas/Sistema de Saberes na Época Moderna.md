@@ -38,6 +38,9 @@ Ver: Casa de Bragança - arquivo.
 Sobre a educação feminina, para Catarina de Aragão, primeira esposa de Henrique VIII: *Instruction de la muger christiana: donde se contiene como se hade criar uma donzela hasta casarla y despues de casada como ha de regir su casa y biuir bienauentemente con su marido, y se fuere biuda lo que deue hazer.*
 Christine de Pisan - considerada a percursora do feminismo.
 Obras impressas antes de 1500 denominam-se incunábulas; a partir de 1501 obras impressas.
+Aula 06/03
+Ver: Delumeau, Jean, *La peur en Occident* (O medo no Ocidente).
+
 
 
 
