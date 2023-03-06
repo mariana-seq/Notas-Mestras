@@ -39,7 +39,7 @@ Sobre a educação feminina, para Catarina de Aragão, primeira esposa de Henriq
 Christine de Pisan - considerada a percursora do feminismo.
 Obras impressas antes de 1500 denominam-se incunábulas; a partir de 1501 obras impressas.
 ==Aula 06/03==
-Ver: Jean Delumeau,*La peur en Occident* (O medo no Ocidente).
+Ver: Jean Delumeau, *La peur en Occident* (O medo no Ocidente).
 Ver: Ângela Mendes de Almeida, *O gosto do pecado: casamento e sexualidade nos manuais de confessores dos séculos XVI e XVII*, ed. Rocco, 1992.
 
 
