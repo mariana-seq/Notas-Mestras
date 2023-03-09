@@ -25,6 +25,7 @@
 4. Textos de Cordel - mulheres e vestuário. Perceber se já foi trabalhado.
 	- Comparação entre Portugal e Espanha
 	- Levantamento dos textos para os séculos XVII e XVIII, descrever e compará-los entre si. Que temas tocam? Que criticas que fazem? Referenciam mulheres específicas ou num todo? Qual era o propósito e produção destes textos? Eram patrocinados ou não? Onde eram publicados? Quem eram os autores que os escreviam?
+5. Dançar à francesa: a mulher. Ver: [ARTE DE DANCAR A FRANCEZA](https://purl.pt/26480)
 
 **Ideias de artigos para a apresentação oral:**
 FERNANDES, Maria de Lurdes Correia, «Ausência do marido e "des-governo da casa na Época dos Descobrimentos"», in *Separata de Cadernos Históricos*, VII, Lagos, Comissão Municipal dos Descobrimentos, 1996.
