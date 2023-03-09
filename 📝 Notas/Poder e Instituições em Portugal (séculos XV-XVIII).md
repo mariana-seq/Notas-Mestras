@@ -14,7 +14,8 @@
 - Como se celebravam os casamentos reais? Casamentos século XVIII, D. Mariana Vitória e D. José...
 - Mulheres??
 - Cerimónias e festas.
-- Vila Rica - existiam cerimoniais específicos lá? Encontrei um documento manuscrito no site da BN sobre as cerimónias fúnebres de D. João V em Vila-Rica
+- Vila Rica - existiam cerimoniais específicos lá? Encontrei um documento manuscrito no site da BN sobre as cerimónias fúnebres de D. João V em Vila-Rica. 
+- Cerimónias fúnebres dos reis... pegar na tal questão de vila rica.
 
 **Curiosidades anotadas durante os seminários**
 ==Aula 09/03==
