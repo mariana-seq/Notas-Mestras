@@ -16,3 +16,6 @@
 - Cerimónias e festas.
 - Vila Rica - existiam cerimoniais específicos lá? Encontrei um documento manuscrito no site da BN sobre as cerimónias fúnebres de D. João V em Vila-Rica
 
+**Curiosidades anotadas durante os seminários**
+==Aula 09/03==
+
