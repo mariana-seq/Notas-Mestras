@@ -3,7 +3,9 @@
 
 **Método de avaliação**:
 - Assiduidade e participação nas aulas práticas (10%) - contínuo
-- Recensão crítica (20%), máx. 5 páginas, e apresentação do respetivo trabalho (20%). Resumo de um capítulo do livro *The Cambridge World History. Volume VI. The Construction of a Global World, 1400-1800* – 16 de maio 
+- Recensão crítica (20%), máx. 5 páginas
+- Apresentação do resumo de um capítulo do livro *The Cambridge World History. Volume VI. The Construction of a Global World, 1400-1800* (20%) – 16 de maio 
+	- Escolha:*The Americas in the age of indigenous empires*, por Matthew Restall
 - Ensaio escrito (50%), com uma fonte histórica e bibliografia associada, máx. 15 páginas – 11 de junho
 
 **Programa**: [Conteúdos e bibliografia](file:///C:/Users/maria/Downloads/Syllabus%20Descobrimento%20e%20Globaliza%C3%A7%C3%A3o%202023.pdf)
