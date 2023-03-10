@@ -18,7 +18,7 @@
 - Cerimónias fúnebres dos reis... pegar na tal questão de vila rica.
 - Ver: *Colonização portuguesa no Brasil: a população feminina e sua sobrevivência económica no fim do período colonial*.
 - O adultério no Brasil colonial??
-- 
+- Ver *Cultura, representações e práticas sociais : a revolução do espírito* de Mary Del Priore
 
 **Curiosidades anotadas durante os seminários**
 ==Aula 09/03==
