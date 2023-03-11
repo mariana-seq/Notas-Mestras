@@ -15,11 +15,14 @@
 - Mulheres??
 - Cerimónias e festas.
 - Vila Rica - existiam cerimoniais específicos lá? Encontrei um documento manuscrito no site da BN sobre as cerimónias fúnebres de D. João V em Vila-Rica. 
-- Cerimónias fúnebres dos reis... pegar na tal questão de vila rica.
+- Cerimónias fúnebres dos reis... pegar na tal questão de vila rica
+
+**Bibliografia/fontes associadas:**
 - Ver: *Colonização portuguesa no Brasil: a população feminina e sua sobrevivência económica no fim do período colonial*.
 - O adultério no Brasil colonial??
 - Ver *Cultura, representações e práticas sociais : a revolução do espírito* de Mary Del Priore
 - Ver: *Festa: Cultura e Sociabilidade na América Portuguesa*
+- Ver: *Spectacular wealth : the festivals of colonial south american mining towns*
 
 **Curiosidades anotadas durante os seminários**
 ==Aula 09/03==
