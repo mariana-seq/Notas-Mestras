@@ -35,6 +35,9 @@
 	- CANAVEIRA, Manuel Filipe – Sua Majestade Fidelíssima: da Monarquia, Imagem da realeza ideal e educação do rei no absolutismo português e europeu. Lisboa, 1996
 	- CARDIM, Pedro – Cortes e Cultura Política no Portugal do Antigo Regime. Lisboa: Edição Cosmos, 1998
 	- CARVALHO, Ayres de – D. João V e a Arte do seu tempo. S. I.: A. de Carvalho, 1962
+	- MIRANDA, Susana Münch, MIRANDA, Tiago C. P. dos Reis – A rainha Arquiduquesa: Maria Ana de Áustria. Maia: Círculo de Leitores, 2013
+	- PEREIRA, Ana Cristina Duarte – Princesas e Infantas de Portugal (1640-1736). Lisboa: Edições Colibri, 2008
+	- TEDIM, José Manuel – Festa régia no tempo de D. João V. Porto, 1999
 	- 
 
 **Ideias de artigos para a apresentação oral:**
