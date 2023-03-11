@@ -28,7 +28,8 @@
 
 **Fontes importantes:**
 - *Diario historico das celebridades, que na cidade da Bahia se fizeraõ em acçaõ de graças pelos felicissimos cazamentos dos... Principes de Portugal, e Castela...* Disponível online [Casamento de D. João V e D. Maria Ana Vitória celebrado na cidade da Bahia](https://purl.pt/34477)
-
+- CARTA DE BARTOLOMEU DE SEQUEIRA CORDOVIL, PROVEDOR DA FAZENDA REAL DA CAPITANIA DO RIO DE JANEIRO, AO REI D. JOÃO V, INFORMANDO-O QUE MANDARIA RESSARCIR ANTÓNIO PEDRO DE VASCONCELOS, GOVERNADOR DE NOVA COLÓNIA DO SACRAMENTO, DOS CINCO MIL CRUZADOS QUE ELE GASTARA NAS CELEBRAÇÕES DOS CASAMENTOS DOS PRÍNCIPES DO BRASIL E DAS ASTÚRIAS... Disponível na Bn
+- 
 **Curiosidades anotadas durante os seminários**
 ==Aula 09/03==
 
