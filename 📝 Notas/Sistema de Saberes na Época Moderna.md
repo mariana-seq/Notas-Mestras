@@ -27,6 +27,16 @@
 	- Levantamento dos textos para os séculos XVII e XVIII, descrever e compará-los entre si. Que temas tocam? Que criticas que fazem? Referenciam mulheres específicas ou num todo? Qual era o propósito e produção destes textos? Eram patrocinados ou não? Onde eram publicados? Quem eram os autores que os escreviam?
 5. Dançar à francesa: a mulher. Ver: [ARTE DE DANCAR A FRANCEZA](https://purl.pt/26480)
 
+**Bibliografia associada:**
+1. ==Entrada de D. Maria Ana de Áustria e casamento com D. João V==
+	- ALVES, Ana Maria – Iconologia do Poder Real no Período Manuelino. À procura de uma linguagem perdida. Lisboa: Imprensa Nacional – Casa da Moeda, 1985
+	- ARAÚJO, Ana Cristina – “Ritualidade e Poder na Corte de D. João V: A génese simbólica do regalismo político” in Revista de História das Ideias, Vol. 22. Coimbra: Faculdade de Letras da Universidade de Coimbra, 2001, pp. 175-208
+	- BEBIANO, Rui – D. João V. Poder e Espectáculo. Aveiro: Livraria Estante, 1987
+	- CANAVEIRA, Manuel Filipe – Sua Majestade Fidelíssima: da Monarquia, Imagem da realeza ideal e educação do rei no absolutismo português e europeu. Lisboa, 1996
+	- CARDIM, Pedro – Cortes e Cultura Política no Portugal do Antigo Regime. Lisboa: Edição Cosmos, 1998
+	- CARVALHO, Ayres de – D. João V e a Arte do seu tempo. S. I.: A. de Carvalho, 1962
+	- 
+
 **Ideias de artigos para a apresentação oral:**
 FERNANDES, Maria de Lurdes Correia, «Ausência do marido e "des-governo da casa na Época dos Descobrimentos"», in *Separata de Cadernos Históricos*, VII, Lagos, Comissão Municipal dos Descobrimentos, 1996.
 FLANDRIN, Jean, «A vida sexual dos casais na antiga sociedade: da doutrina da Igreja à realidade de comportamentos», in *Sexualidades Ocidentais*, Lisboa, Contexto, 1983, pp. 111-127.
@@ -42,6 +52,8 @@ Obras impressas antes de 1500 denominam-se incunábulas; a partir de 1501 obras 
 ==Aula 06/03==
 Ver: Jean Delumeau, *La peur en Occident* (O medo no Ocidente).
 Ver: Ângela Mendes de Almeida, *O gosto do pecado: casamento e sexualidade nos manuais de confessores dos séculos XVI e XVII*, ed. Rocco, 1992.
+
+
 
 
 
