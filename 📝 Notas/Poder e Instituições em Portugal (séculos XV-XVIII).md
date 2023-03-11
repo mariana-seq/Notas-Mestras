@@ -23,6 +23,7 @@
 - Ver *Cultura, representações e práticas sociais : a revolução do espírito* de Mary Del Priore
 - Ver: *Festa: Cultura e Sociabilidade na América Portuguesa*
 - Ver: *Spectacular wealth : the festivals of colonial south american mining towns*
+- Ver: *Sistema de casamento no Brasil colonial*
 
 **Curiosidades anotadas durante os seminários**
 ==Aula 09/03==
