@@ -25,6 +25,9 @@
 - Ver: *Spectacular wealth : the festivals of colonial south american mining towns*
 - Ver: *Sistema de casamento no Brasil colonial*
 
+**Fontes importantes:**
+- *Diario historico das celebridades, que na cidade da Bahia se fizeraõ em acçaõ de graças pelos felicissimos cazamentos dos... Principes de Portugal, e Castela...* Disponível online [Casamento de D. João V e D. Maria Ana Vitória celebrado na cidade da Bahia](https://purl.pt/34477)
+
 **Curiosidades anotadas durante os seminários**
 ==Aula 09/03==
 
