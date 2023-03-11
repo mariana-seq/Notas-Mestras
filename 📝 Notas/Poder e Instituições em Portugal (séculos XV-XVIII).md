@@ -19,11 +19,12 @@
 -  O adultério no Brasil colonial??
 
 **Bibliografia/fontes associadas:**
-- Ver: *Colonização portuguesa no Brasil: a população feminina e sua sobrevivência económica no fim do período colonial*.
-- Ver *Cultura, representações e práticas sociais : a revolução do espírito* de Mary Del Priore
-- Ver: *Festa: Cultura e Sociabilidade na América Portuguesa*
-- Ver: *Spectacular wealth : the festivals of colonial south american mining towns*
-- Ver: *Sistema de casamento no Brasil colonial*
+- *Colonização portuguesa no Brasil: a população feminina e sua sobrevivência económica no fim do período colonial*.
+- *Cultura, representações e práticas sociais : a revolução do espírito* de Mary Del Priore
+- *Festa: Cultura e Sociabilidade na América Portuguesa*
+- *Spectacular wealth : the festivals of colonial south american mining towns*
+- *Sistema de casamento no Brasil colonial*
+- *Luzes e sombras sobre a Colônia : educação e casamento na São Paulo do século XVIII*
 
 **Fontes importantes:**
 - *Diario historico das celebridades, que na cidade da Bahia se fizeraõ em acçaõ de graças pelos felicissimos cazamentos dos... Principes de Portugal, e Castela...* Disponível online [Casamento de D. João V e D. Maria Ana Vitória celebrado na cidade da Bahia](https://purl.pt/34477)
