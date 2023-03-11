@@ -19,7 +19,9 @@
 - Ver: *Colonização portuguesa no Brasil: a população feminina e sua sobrevivência económica no fim do período colonial*.
 - O adultério no Brasil colonial??
 - Ver *Cultura, representações e práticas sociais : a revolução do espírito* de Mary Del Priore
+- Ver: *Festa: Cultura e Sociabilidade na América Portuguesa*
 
 **Curiosidades anotadas durante os seminários**
 ==Aula 09/03==
+
 
