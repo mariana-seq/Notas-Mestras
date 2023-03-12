@@ -18,7 +18,7 @@
 - Cerimónias fúnebres dos reis... pegar na tal questão de vila rica
 -  O adultério no Brasil colonial??
 
-**Bibliografia/fontes associadas:**
+**Bibliografia associada:**
 - *Colonização portuguesa no Brasil: a população feminina e sua sobrevivência económica no fim do período colonial*.
 - *Cultura, representações e práticas sociais : a revolução do espírito* de Mary Del Priore
 - *Festa: Cultura e Sociabilidade na América Portuguesa*
