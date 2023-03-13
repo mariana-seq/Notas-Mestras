@@ -52,6 +52,9 @@ Obras impressas antes de 1500 denominam-se incunábulas; a partir de 1501 obras 
 ==Aula 06/03==
 Ver: Jean Delumeau, *La peur en Occident* (O medo no Ocidente).
 Ver: Ângela Mendes de Almeida, *O gosto do pecado: casamento e sexualidade nos manuais de confessores dos séculos XVI e XVII*, ed. Rocco, 1992.
+Ver: Umberto Eco, *História do feio* - feitiçaria. 
+
+
 
 
 
