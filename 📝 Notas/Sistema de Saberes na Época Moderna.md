@@ -52,7 +52,11 @@ Obras impressas antes de 1500 denominam-se incunábulas; a partir de 1501 obras 
 ==Aula 06/03==
 Ver: Jean Delumeau, *La peur en Occident* (O medo no Ocidente).
 Ver: Ângela Mendes de Almeida, *O gosto do pecado: casamento e sexualidade nos manuais de confessores dos séculos XVI e XVII*, ed. Rocco, 1992.
+==Aula 13/03==
 Ver: Umberto Eco, *História do feio* - feitiçaria. 
+Saberes tradicionais é passado pela mulher - cultura não escrita - saberes e fazeres. Poções, mezinhas - tudo isto vem do universo feminino, de cuidado. Mundo dos fazeres - hechicera em espanhol, de hacer.
+
+
 
 
 
