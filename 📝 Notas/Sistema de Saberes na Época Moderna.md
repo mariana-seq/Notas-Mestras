@@ -40,11 +40,8 @@
 	- TEDIM, José Manuel – Festa régia no tempo de D. João V. Porto, 1999
 	- 
 
-**Ideias de artigos para a apresentação oral:**
+**Artigo escolhido para a apresentação oral:**
 FERNANDES, Maria de Lurdes Correia, «Ausência do marido e "des-governo da casa na Época dos Descobrimentos"», in *Separata de Cadernos Históricos*, VII, Lagos, Comissão Municipal dos Descobrimentos, 1996.
-FLANDRIN, Jean, «A vida sexual dos casais na antiga sociedade: da doutrina da Igreja à realidade de comportamentos», in *Sexualidades Ocidentais*, Lisboa, Contexto, 1983, pp. 111-127.
-LEAL, Ivone, «A mulher e o amor no século XVI: afectividade, sexualidade, casamento: uma abordagem do tema», in Actas do Colóquio *Mulheres em Portugal*, org. Instituto de Ciências Sociais da UL, *Análise Social*, vol. XXII (92-93), 1986 (3-4), pp. 769-778.
-
 
 **Curiosidades anotadas durante os seminários:**
 ==Aula 27/02==
