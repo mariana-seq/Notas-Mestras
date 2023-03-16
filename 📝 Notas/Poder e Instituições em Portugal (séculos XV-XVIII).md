@@ -35,6 +35,11 @@
 
 **Curiosidades anotadas durante os seminários**
 ==Aula 09/03==
+-
+==Aula 16/03==
+**Cidadãos** - refere-se a uma fração da sociedade local composta por famílias mais endinheiradas e projeção económica numa determinada vila ou localidade.
+**Nobreza da terra** - grandes famílias terratenentes, sem necessariamente título de nobreza.
+Formam, os membros destes dois grupos, a **gente de governança** - homens bons na época medieval - são as famílias que têm responsabilidade pela manutenção dos poderes locais; topo da sociedade local.
 
 
 
