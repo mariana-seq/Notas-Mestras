@@ -18,7 +18,7 @@
 - Cerimónias fúnebres dos reis... pegar na tal questão de vila rica
 -  O adultério no Brasil colonial??
 - A literatura de cordel no Brasil - as mulheres e o vestuário?
-- Feitiçaria na escócia
+- Feitiçaria na Escócia
 
 **Bibliografia associada ao cerimoniais brasileiros:**
 - *Colonização portuguesa no Brasil: a população feminina e sua sobrevivência económica no fim do período colonial*.
