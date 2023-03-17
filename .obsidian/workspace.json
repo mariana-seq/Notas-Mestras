@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fbb4b1f3df7cb94c",
+        "id": "54a27179e1ee30c6",
         "type": "tabs",
         "children": [
           {
-            "id": "5101096808200568",
+            "id": "f03c4c7b643fa5b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,10 +150,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5101096808200568",
+  "active": "f03c4c7b643fa5b2",
   "lastOpenFiles": [
-    "🆘 Ajuda.md",
     "🏡 Olá Mariana!.md",
+    "🆘 Ajuda.md",
     "📝 Notas/Sistema de Saberes na Época Moderna.md",
     "📝 Notas/Poder e Instituições em Portugal (séculos XV-XVIII).md",
     "📝 Notas/Descobrimentos e Globalização.md",

@@ -2,7 +2,7 @@
 # Como importar citações do Zotero
 1. Depois de sublinhar ir ao pai e (botão direito) *adicionar nota a partir de anotações*
 2. Escolher citação: Ctrl + Shift + C 
-teste
+
 # Atalhos úteis
 - Nova nota: Ctrl + N
 - Mover linha acima/abaixo: Ctrl + seta cima/baixo
