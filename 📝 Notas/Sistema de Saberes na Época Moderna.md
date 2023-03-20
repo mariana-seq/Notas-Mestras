@@ -55,6 +55,12 @@ Ver: Ângela Mendes de Almeida, *O gosto do pecado: casamento e sexualidade nos 
 ==Aula 13/03==
 Ver: Umberto Eco, *História do feio* - feitiçaria. 
 Saberes tradicionais é passado pela mulher - cultura não escrita - saberes e fazeres. Poções, mezinhas - tudo isto vem do universo feminino, de cuidado. Mundo dos fazeres - hechicera em espanhol, de hacer.
+==Aula 20/03==
+Ver: Júlio Caro Baroja, *As bruxas e o seu mundo*.
+Ver: Francisco Bethencourt, *O imaginário da magia. Feitiçeiros, saludadores e nigromantes no século XVI*.
+Ver: Francisco Neiva Soares, [*Medicina popular e feitiçaria nas visitações da Arquidoquese nos séculos XVI e XVII*](https://www.csarmento.uminho.pt/site/s/rgmr/item/58969#?c=0&m=0&s=0&cv=0).
+
+
 
 
 
