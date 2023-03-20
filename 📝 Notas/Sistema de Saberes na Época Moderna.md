@@ -59,7 +59,8 @@ Saberes tradicionais é passado pela mulher - cultura não escrita - saberes e f
 Ver: Júlio Caro Baroja, *As bruxas e o seu mundo*.
 Ver: Francisco Bethencourt, *O imaginário da magia. Feitiçeiros, saludadores e nigromantes no século XVI*.
 Ver: Francisco Neiva Soares, [*Medicina popular e feitiçaria nas visitações da Arquidiocese nos séculos XVI e XVII*](https://www.csarmento.uminho.pt/site/s/rgmr/item/58969#?c=0&m=0&s=0&cv=0).
-Ver: Jacobi Rueff, De Conceptu et Generatione Hominis: De Matrice et Eius Partibus, .... Frankfort, 1554.
+Ver: Jacobi Rueff, [De conceptu et generatione hominis: de matrice et ejus partibus, nec non de conditione infantis in vtero, et gravidarum cura et officio ...](https://archive.org/details/deconceptuetgene00rffj/page/n9/mode/2up), Frankfort, 1554.
+Ver: Reportorio dos Tempos em lingoagem
 
 
 
