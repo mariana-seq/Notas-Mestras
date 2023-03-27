@@ -62,6 +62,8 @@ Ver: Francisco Neiva Soares, [*Medicina popular e feitiçaria nas visitações d
 Ver: Jacobi Rueff, [De conceptu et generatione hominis: de matrice et ejus partibus, nec non de conditione infantis in vtero, et gravidarum cura et officio ...](https://archive.org/details/deconceptuetgene00rffj/page/n9/mode/2up), Frankfort, 1554. Imagem de uma mulher a dar à luz (conhecimento caseiro) e homens a admirar os astros (medicina relacionada ao homem).
 Ver: [Tempos em lingoagem portugues...](https://purl.pt/22941), Lisboa, Germão Galharde, 1552. Imagem de um corpo humano descrito através de signos.
 Daniela Frigo, [Disciplina Rei Familiare: a Economia como modelo administrativo de Ancien Régime](https://dialnet.unirioja.es/servlet/articulo?codigo=2689836).
+==Aula 27/03==
+Ver: Correspondência diplomática, Biblioteca da Ajuda. Documentos manuscritos.
 
 
 

@@ -48,4 +48,3 @@ Formam, os membros destes dois grupos, a **gente de governança** - homens bons 
 
 
 
-
