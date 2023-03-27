@@ -41,7 +41,7 @@
 	- 
 
 **Artigo escolhido para a apresentação oral:**
-FERNANDES, Maria de Lurdes Correia, «Ausência do marido e "des-governo da casa na Época dos Descobrimentos"», in *Separata de Cadernos Históricos*, VII, Lagos, Comissão Municipal dos Descobrimentos, 1996.
+FERNANDES, Maria de Lurdes Correia, «Ausência do marido e "des-governo da casa na Época dos Descobrimentos», in *Separata de Cadernos Históricos*, VII, Lagos, Comissão Municipal dos Descobrimentos, 1996.
 
 **Curiosidades anotadas durante os seminários:**
 ==Aula 27/02==
