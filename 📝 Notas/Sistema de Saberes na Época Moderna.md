@@ -64,6 +64,9 @@ Ver: [Tempos em lingoagem portugues...](https://purl.pt/22941), Lisboa, Germão 
 Daniela Frigo, [Disciplina Rei Familiare: a Economia como modelo administrativo de Ancien Régime](https://dialnet.unirioja.es/servlet/articulo?codigo=2689836).
 ==Aula 27/03==
 Ver: Correspondência diplomática, Biblioteca da Ajuda. Documentos manuscritos.
+==Aula 03/04==
+Olissipo - ver.
+
 
 
 
