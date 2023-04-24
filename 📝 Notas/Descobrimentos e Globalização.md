@@ -22,3 +22,6 @@
 **Curiosidades anotadas nos seminários**
 ==Aula 28/02==
 Site de compilação de estatísticas: [Our World in Data](https://ourworldindata.org/)
+
+Chafariz del rei
+rua nova de mercadoria
