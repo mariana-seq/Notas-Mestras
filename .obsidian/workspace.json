@@ -4,22 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "b555ffaf158496bb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fe81006594636806",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🛠️ Trabalhos/Apresentação oral de um capítulo do livro The Cambridge World History.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "8c1bf5f16214205b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "🏡 Olá Mariana!.md",
+            "mode": "source",
+            "source": false
           }
-        ]
+        }
+      },
+      {
+        "id": "440fd145b5062fab",
+        "type": "leaf",
+        "state": {
+          "type": "release-notes",
+          "state": {
+            "currentVersion": "1.2.7"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -64,6 +68,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c941319c1e2b338b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🛠️ Trabalhos/Apresentação oral de um capítulo do livro The Cambridge World History.md",
+                "file": "🏡 Olá Mariana!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🛠️ Trabalhos/Apresentação oral de um capítulo do livro The Cambridge World History.md",
+                "file": "🏡 Olá Mariana!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🛠️ Trabalhos/Apresentação oral de um capítulo do livro The Cambridge World History.md"
+                "file": "🏡 Olá Mariana!.md"
               }
             }
           }
@@ -151,7 +163,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "eb60f30fe3346ec5",
+  "active": "8c1bf5f16214205b",
   "lastOpenFiles": [
     "📝 Notas/Descobrimentos e Globalização.md",
     "🏡 Olá Mariana!.md",
