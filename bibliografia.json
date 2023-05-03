@@ -84,19 +84,19 @@
       "stringsOverride": "",
       "verbatimFields": "url,doi,file,pdf,ids,eprint,/^verb[a-z]$/,groups,/^citeulike-linkout-[0-9]+$/, /^bdsk-url-[0-9]+$/",
       "warnBulkModify": 10,
-      "warnTitleCased": false,
-      "texmap": {}
+      "warnTitleCased": false
     },
     "options": {
       "exportNotes": true,
       "exportFileData": false,
       "keepUpdated": false,
-      "worker": true
+      "worker": true,
+      "Normalize": false
     }
   },
   "version": {
     "zotero": "6.0.22",
-    "bbt": "6.7.57"
+    "bbt": "6.7.78"
   },
   "collections": {
     "KGH943TE": {
@@ -171,11 +171,12 @@
       "key": "JKGIHJVV",
       "version": 0,
       "itemType": "bookSection",
-      "title": "A vida sexual dos casais na antiga sociedade: da doutrina da Igreja \u00e0 realidade de comportamentos",
+      "title": "A vida sexual dos casais na antiga sociedade: da doutrina da Igreja à realidade de comportamentos",
       "date": "1985",
       "place": "Lisboa",
       "publisher": "Contexto",
-      "edition": "3\u00aa",
+      "edition": "3ª",
+      "bookTitle": "Sexualidades Ocidentais",
       "creators": [
         {
           "firstName": "Jean",
@@ -206,8 +207,7 @@
       "citationKey": "flandrinVidaSexualDos1985",
       "itemKey": "JKGIHJVV",
       "libraryID": 1,
-      "select": "zotero://select/library/items/JKGIHJVV",
-      "publicationTitle": "Sexualidades Ocidentais"
+      "select": "zotero://select/library/items/JKGIHJVV"
     },
     {
       "key": "VTHJM9D6",
