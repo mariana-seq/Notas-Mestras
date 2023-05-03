@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1fd1349e10e98568",
+        "id": "b555ffaf158496bb",
         "type": "tabs",
         "children": [
           {
-            "id": "56a70967e573fb76",
+            "id": "fe81006594636806",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,7 +150,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "56a70967e573fb76",
+  "active": "fe81006594636806",
   "lastOpenFiles": [
     "🏡 Olá Mariana!.md",
     "📝 Notas/Descobrimentos e Globalização.md",
