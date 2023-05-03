@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏡 Olá Mariana!.md",
+                "file": "🛠️ Trabalhos/Apresentação oral de um capítulo do livro The Cambridge World History.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c195449eb9a13397",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏡 Olá Mariana!.md",
+                "file": "🛠️ Trabalhos/Apresentação oral de um capítulo do livro The Cambridge World History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏡 Olá Mariana!.md",
+                "file": "🛠️ Trabalhos/Apresentação oral de um capítulo do livro The Cambridge World History.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏡 Olá Mariana!.md"
+                "file": "🛠️ Trabalhos/Apresentação oral de um capítulo do livro The Cambridge World History.md"
               }
             }
           }
@@ -150,15 +151,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fe81006594636806",
+  "active": "eb60f30fe3346ec5",
   "lastOpenFiles": [
-    "🏡 Olá Mariana!.md",
     "📝 Notas/Descobrimentos e Globalização.md",
+    "🏡 Olá Mariana!.md",
     "Leituras recomendadas para a Dissertação de Mestrado.md",
     "🆘 Ajuda.md",
     "📝 Notas/Poder e Instituições em Portugal (séculos XV-XVIII).md",
     "📝 Notas/Sistema de Saberes na Época Moderna.md",
-    "🛠️ Trabalhos/Untitled.md",
+    "🛠️ Trabalhos/Apresentação oral de um capítulo do livro The Cambridge World History.md",
     "🖼️ Imagens/Pasted image 20230225193258.png",
     "🖼️ Imagens/liuSpatialTemporalScales2021_W824HPS3.png",
     "🖼️ Imagens/liuSpatialTemporalScales2021_MX2ZJM2B.png",
