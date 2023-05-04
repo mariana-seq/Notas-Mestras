@@ -4,26 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8c1bf5f16214205b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "🏡 Olá Mariana!.md",
-            "mode": "source",
-            "source": false
+        "id": "f3018771e4289a2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "440fd145b5062fab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🏡 Olá Mariana!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "440fd145b5062fab",
-        "type": "leaf",
-        "state": {
-          "type": "release-notes",
-          "state": {
-            "currentVersion": "1.2.7"
-          }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🏡 Olá Mariana!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🏡 Olá Mariana!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🏡 Olá Mariana!.md"
+              }
             }
           }
         ],
