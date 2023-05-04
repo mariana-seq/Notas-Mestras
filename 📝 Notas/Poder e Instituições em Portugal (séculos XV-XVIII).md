@@ -45,7 +45,7 @@ Formam, os membros destes dois grupos, a **gente de governança** - homens bons 
 ==Aula 13/04==
 Livro/fonte: *Dedução Cronológica e Analítica*. Desqualifica as conceções de pacto entre o rei e comunidade (D. José I e Marquês de Pombal); apologia de uma nova visão da realeza, recebendo poder diretamente de Deus, legitimando o poderio que a realeza estava a receber, sem precedentes. 
 ==Aula 04/05==
-
+- 
 
 
 
