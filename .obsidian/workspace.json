@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b941748f0d5d4c6",
+        "id": "4dc49f1dce65ca3f",
         "type": "tabs",
         "children": [
           {
-            "id": "3262ca372c94acd5",
+            "id": "34dbc6d71b685028",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c195449eb9a13397",
@@ -159,9 +158,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3262ca372c94acd5",
+  "active": "34dbc6d71b685028",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled.md",
     "🏡 Olá Mariana!.md",
+    "Untitled 2.md",
     "📝 Notas/Descobrimentos e Globalização.md",
     "Leituras recomendadas para a Dissertação de Mestrado.md",
     "🆘 Ajuda.md",
