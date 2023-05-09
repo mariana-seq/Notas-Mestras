@@ -25,3 +25,5 @@ Site de compilação de estatísticas: [Our World in Data](https://ourworldindat
 
 Chafariz del rei
 rua nova de mercadoria
+
+Curiosidade: [Intoxicating spaces](https://www.intoxicatingspaces.org/)
