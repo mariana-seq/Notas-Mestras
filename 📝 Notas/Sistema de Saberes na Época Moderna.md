@@ -67,6 +67,7 @@ Ver: Correspondência diplomática, Biblioteca da Ajuda. Documentos manuscritos.
 ==Aula 03/04==
 Olissipo - ver.
 
+Reunião sobre o trabalho. Dia 1 de junho, 14:30h.
 
 
 
