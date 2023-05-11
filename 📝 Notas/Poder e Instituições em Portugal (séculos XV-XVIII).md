@@ -2,7 +2,7 @@
 **Aula**: Quinta-feira, 18h-21h
 
 **Método de avaliação**:
-1. Cada mestrando tem de realizar um ensaio sobre um documento relacionado com a sua dissertação de mestrado. O ensaio terá entre 30.000-40.000 caracteres, incluindo espaços e notas de rodapé e excluindo a bibliografia. O ensaio terá de ser entregue ao docente responsável pela unidade curricular, por correio eletrónico (pedro.cardim@fcsh.unl.pt), até às 24h de 30 de maio de 2023.
+1. Cada mestrando tem de realizar um ensaio sobre um documento relacionado com a sua dissertação de mestrado. O ensaio terá entre 30.000-40.000 caracteres, incluindo espaços e notas de rodapé e excluindo a bibliografia. O ensaio terá de ser entregue ao docente responsável pela unidade curricular, por correio eletrónico (pedro.cardim@fcsh.unl.pt), até à manhã de 9 de junho de 2023.
 2. Cada mestrando terá, ainda, de realizar uma apresentação oral desse documento, numa das sessões deste seminário.
 
 **Para saber mais sobre o programa**: [Programa e bibliografia respetiva a cada aula](file:///C:/Users/maria/Downloads/PIP_Programa_avaliacao_bibliografia_2022-23%20(1).pdf)
