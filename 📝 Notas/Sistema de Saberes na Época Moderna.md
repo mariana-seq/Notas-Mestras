@@ -23,7 +23,7 @@
 2. Infância de D. Carlota Joaquina em Queluz. Encontrar documentação respetiva (cartas familiares). O ideal de educação vs. o comportamento da Princesa. Ver: *Relox dos príncipes*
 3. Os Príncipes do Brasil. A educação do Infante D. José e da D. Maria Francisca Benedita (ou D. Maria I). Ver: *Relox dos príncipes*
 4. Textos de Cordel - mulheres e vestuário. Perceber se já foi trabalhado.
-	- Comparação entre Portugal e Espanha
+	- Comparação entre Portugal e Espanha 
 	- Levantamento dos textos para os séculos XVII e XVIII, descrever e compará-los entre si. Que temas tocam? Que criticas que fazem? Referenciam mulheres específicas ou num todo? Qual era o propósito e produção destes textos? Eram patrocinados ou não? Onde eram publicados? Quem eram os autores que os escreviam?
 5. Dançar à francesa: a mulher. Ver: [ARTE DE DANCAR A FRANCEZA](https://purl.pt/26480)
 
