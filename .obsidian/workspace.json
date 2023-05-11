@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "e863aa5f4f1a88d9",
+        "id": "956a2dc5581ca630",
         "type": "tabs",
         "children": [
           {
-            "id": "d90f13b94ab6b262",
+            "id": "fe5d2549c05d91da",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1a2bd6c096becdbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 Notas/Descobrimentos e Globalização.md",
+                "file": "🏡 Olá Mariana!.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 Notas/Descobrimentos e Globalização.md",
+                "file": "🏡 Olá Mariana!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝 Notas/Descobrimentos e Globalização.md",
+                "file": "🏡 Olá Mariana!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📝 Notas/Descobrimentos e Globalização.md"
+                "file": "🏡 Olá Mariana!.md"
               }
             }
           }
@@ -158,7 +167,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d90f13b94ab6b262",
+  "active": "1a2bd6c096becdbe",
   "lastOpenFiles": [
     "🏡 Olá Mariana!.md",
     "🆘 Ajuda.md",
