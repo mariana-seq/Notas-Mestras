@@ -7,7 +7,6 @@
 
 **Para saber mais sobre o programa**: [Programa e bibliografia respetiva a cada aula](file:///C:/Users/maria/Downloads/PIP_Programa_avaliacao_bibliografia_2022-23%20(1).pdf)
 
-
 **Ideias para trabalho final de semestre**:
 - História do Brasil - vertente social e das mentalidades.
 - Entradas Reais no Brasil ?? existe, ou é só no século XIX?
