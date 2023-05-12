@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "956a2dc5581ca630",
+        "id": "c040b1a97fcd1906",
         "type": "tabs",
         "children": [
           {
-            "id": "fe5d2549c05d91da",
+            "id": "cd21a8b9624adecf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 Notas/Poder e Instituições em Portugal (séculos XV-XVIII).md",
+                "file": "🏡 Olá Mariana!.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 Notas/Poder e Instituições em Portugal (séculos XV-XVIII).md",
+                "file": "🏡 Olá Mariana!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝 Notas/Poder e Instituições em Portugal (séculos XV-XVIII).md",
+                "file": "🏡 Olá Mariana!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📝 Notas/Poder e Instituições em Portugal (séculos XV-XVIII).md"
+                "file": "🏡 Olá Mariana!.md"
               }
             }
           }
@@ -158,12 +158,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fe5d2549c05d91da",
+  "active": "cd21a8b9624adecf",
   "lastOpenFiles": [
+    "📝 Notas/Poder e Instituições em Portugal (séculos XV-XVIII).md",
     "📝 Notas/Descobrimentos e Globalização.md",
     "🪶 Citações/bentleyCambridgeWorldHistory2015.md",
     "🛠️ Trabalhos/Apresentação oral de um capítulo do livro The Cambridge World History.md",
-    "📝 Notas/Poder e Instituições em Portugal (séculos XV-XVIII).md",
     "📝 Notas/Sistema de Saberes na Época Moderna.md",
     "Untitled 2.md",
     "🏡 Olá Mariana!.md",
