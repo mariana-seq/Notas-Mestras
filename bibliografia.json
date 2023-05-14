@@ -96,7 +96,7 @@
   },
   "version": {
     "zotero": "6.0.22",
-    "bbt": "6.7.78"
+    "bbt": "6.7.79"
   },
   "collections": {
     "KGH943TE": {
@@ -281,6 +281,49 @@
       "itemKey": "VTHJM9D6",
       "libraryID": 1,
       "select": "zotero://select/library/items/VTHJM9D6"
+    },
+    {
+      "key": "FWGEY9XS",
+      "version": 0,
+      "itemType": "bookSection",
+      "title": "Ceremonies of public authority in a colonial capital. The King’s processions and the hierarchies of power in seventeenth century Salvador",
+      "date": "2004",
+      "volume": "V",
+      "place": "Lisboa",
+      "pages": "7-27",
+      "edition": "CHAM - Centro de História de Além-Mar",
+      "bookTitle": "Anais de História de Além-Mar",
+      "creators": [
+        {
+          "firstName": "Stuart B.",
+          "lastName": "SCHWARTZ",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-05-13T18:31:10Z",
+      "dateModified": "2023-05-13T18:33:59Z",
+      "uri": "http://zotero.org/users/local/WD6fice8/items/FWGEY9XS",
+      "itemID": 254,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "SCHWARTZ_2004_Ceremonies of public authority in a colonial capital.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-05-13T18:34:09Z",
+          "dateModified": "2023-05-13T18:34:11Z",
+          "uri": "http://zotero.org/users/local/WD6fice8/items/BL4VW9TQ",
+          "path": "C:\\Users\\maria\\Zotero\\storage\\BL4VW9TQ\\SCHWARTZ_2004_Ceremonies of public authority in a colonial capital.pdf",
+          "select": "zotero://select/library/items/BL4VW9TQ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "schwartzCeremoniesPublicAuthority2004",
+      "itemKey": "FWGEY9XS",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/FWGEY9XS"
     }
   ]
 }
