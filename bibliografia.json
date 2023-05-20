@@ -181,6 +181,47 @@
       "select": "zotero://select/library/items/GXFHJ5CU"
     },
     {
+      "key": "ZGJ5SJ5D",
+      "version": 0,
+      "itemType": "journalArticle",
+      "title": "Ausência do marido e do des-governo da casa na época dos descobrimentos, Algumas imagens da literatura e da e da tratadística moral ibérica",
+      "date": "2006",
+      "volume": "VII",
+      "pages": "79-94",
+      "publicationTitle": "Cadernos Históricos",
+      "creators": [
+        {
+          "firstName": "Maria de Lurdes Correia",
+          "lastName": "FERNANDES",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-05-17T17:59:58Z",
+      "dateModified": "2023-05-17T18:02:55Z",
+      "uri": "http://zotero.org/users/local/WD6fice8/items/ZGJ5SJ5D",
+      "itemID": 355,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Ausência do marido e o des-governo da casa na época dos descobrimentos.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-05-17T17:58:09Z",
+          "dateModified": "2023-05-17T18:00:01Z",
+          "uri": "http://zotero.org/users/local/WD6fice8/items/LR2WSZ27",
+          "path": "C:\\Users\\maria\\Zotero\\storage\\LR2WSZ27\\Ausência do marido e o des-governo da casa na época dos descobrimentos.pdf",
+          "select": "zotero://select/library/items/LR2WSZ27"
+        }
+      ],
+      "notes": [],
+      "citationKey": "fernandesAusenciaMaridoDesgoverno2006",
+      "itemKey": "ZGJ5SJ5D",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/ZGJ5SJ5D"
+    },
+    {
       "key": "JKGIHJVV",
       "version": 0,
       "itemType": "bookSection",
