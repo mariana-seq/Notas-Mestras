@@ -1,0 +1,1 @@
+- BICALHO, Maria Fernanda, «Colônia ou Conquista, Loja ou Engenho? Identidades e Discursos Identitários na América Portuguesa nos séculos XVII e XVIII», in MARCOS, D. Martín; CARDIM, Pedro; IÑURRITEGUI, J. M. (org.), _Repensar a identidade. O mundo ibérico nas margens da crise da consciência europeia_, Lisboa, CHAM, 2015.
