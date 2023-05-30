@@ -20,6 +20,64 @@ Silvestre de Oliveira Serpa, grande orador e poeta. 17
 "A Academia dos Renascidos foi inaugurada com toda a solemnidade no dia 6 de junho seguinte. Reunidos os academicos na espaçosa e ornada capella-mór do famoso templo dos Religiosos carmelistas descalços, fizeram os seus juramentos, pelas 3 horas da tarde á Conceição Purissima da Senhora, nas mãos do Pe. Mestre Fr. José dos Reis, Provincial dos mesmos carmelitas a quem o director tinha convidado para assistir este acto, comparecendo tambem quase toda a communidade. Findo o juramento, todos se retiraram para o magnifico salão d'aquelle convento que estava luxuosamente armado dos mais ricos velludos e damascos guarnecidos de preciosos galões de outro e prata." 20-21
 "Fizemos saber que este Congresso elegeu para Academico Numerario ao Sr Antonio de Oliveira (que foi um dos primeiros que concorreu para a fundação desta litteraria Sociedade) por constar das suas virtudes, erudição e louvaveis estudos, e esperamos que será um socio de muita utilidade aos progressos desta Academia, de cujo emprego lhe havemos por dada a posse, sujeitando-se obedecer inviolavelmente, os nossos estatutos e mais resoluções." 22
 Os supranumerarios eram obrigados a mandar por escripto o seu juramento 
+Discurso do secretário Antonio Ferrão Castello Branco
+Determinação de problemas e assuntos
+
+
+Soneto: TA NA CENA DA BN PROCURAR
+"Ambiciosa Academia
+Todo extranho estylo toma
+Porque em todos elles somma
+Seos applausos á Bahia.
+Sem causa de persuade,
+Que mais falle o mais facundo,
+Que ainda falle os do mundo,
+Não diz sua heroicidade." 32
+Dr. Francisco Alvares de Pina Bandeira e Mendonça.
+
+SONETO JOÃO BORGES DE BARROS
+"Tam brilhantes nam he quando amanhece
+Do sol, vencendo nevoas, a luz pura,
+Dissipando do Inverno a estação dura,
+A Primavera tanto nam floresce:
+
+Como a luz que as idéas enriquece,
+Como a pomba que os fructos assegura,
+Nesta, que do descuido a sombra escura
+Removendo, Academia hoje apparece.
+
+Nasce, pois, brilha já e o tempo avaro
+Do progresso feliz nunca te prive,
+Como já commettey, Lyceo preclaro,
+
+Hù numen mais sublime hoje revive,
+Do luso Jove emfim do regio amparo,
+Abre flôr, sol renasce, Fenix vive.
+
+
+SONETO TA NA CENA DA BN. A El-Rey Nosso Senhor e Nosso Protector. SILVESTRE DE OLIVEIRA SERPA.
+
+Essa de Jove parto mais que humano,
+Pallas douta, Tritonia bellicosa
+Ao arnez militar, a toga honrada
+Antepõe por obsequio o Lusitano.
+
+As amas que lhe foram timbre ufano,
+Pelas Letras dimitte vangloriosa;
+De que nome maior nas letras gosa,
+Pelo Rey Luso, Jove Soberano.
+
+Estes dos Renascidos luzimentos,
+Por quanto gira o sol e o polo abarca,
+De gloria para O Rey são instrumentos:
+
+Que a Phenix superando as leys da Parca
+Tanto são para as Letras, or augmentos
+Quanto são os pregões para o Monarcha.
+
+
+
+
 
 
 
