@@ -1,0 +1,11 @@
+"É incontestavel o seu valor historico; já o mesmo se não poderá affirmar do seu merito litterario. Ha nas laboriosas lucubrações poeticas mais verso que poesia; carecem em geral de inspiração e fôlego, porque lhes fallece um ideal definido e practico. Entre os signatarios das poesias não se nos depara um só nome que sobreleve a mediocridade." 7
+"Demais o assumpto, escolhido ou imposto, não era de molde a accender o estro dos pobres Academicos reduzidos quase exclusivamente a versejar loas e a voltear o thuributo da lisonja ante duas figuras pouca sympathicas - um ministro propotente e um rei escravisado e frivolo." 8
+"Abre effectivamente a colleção de poesia lidas na Academia com um Sylva metrica de Oliveira Serpa, na qual se esboçam já, embora de uma forma ainda indecisa e chocarreira, os primeiros tentamens dum realismo ethnographico de costumes brazilicos e a concominante intervenção pinturesca da flóra e fauna regionais, - precioso factor destinado dentro em breve a opulentar de galas a fogosa inspiração dos vates d'além mar." 8
+"fôra este [José Mascarenhas Pacheco Pereira de Mello] encarregado não só de crear na Bahia os dois tribunaes que nunca houvera na America - o do Conselho de Estado e Guerra de todos os dominios ultramarinos da Corôa e o da Mesa de Consciencia, como de proceder contra os jesuitas do Brasil, de acôrdo com as instruções secretas que lhe foram entregues e pelas quaes devia tambem se regêr os outros commisarios, Antonio de Azevedo Coutinho, e Manuel Estevão de Almeida Vasconcellos Barberino." 9
+"Espirito superior, dotado de um ardente imaginação, ao chegar á Bahia, foi o seu primeiro cuidado, reunir todos os intellectuaes e fundar uma associação litteraria. Sabia da extincção da *Academia dos Esquecidos*, estabelecida pro D. Vasco da Academia dos Esquecidos (...) e das suas cinzas fez *renascer* a Academia que por isso mesmo tomou o nome dos *Renascidos*." 10
+"A primeira reunião para esse fim effetuou-se em casa de Mascarenhas, aos 19 de maio de 1759 achando-se presentes os seguintes convidados:
+1. O rev. Dr. Amaro Ferreira Paiva.
+2. Antonio Gomes Ferrão Castello Branco.
+3. O Rev. Antonio Gonsalves Pereira
+4. (....)
+5. João Borges de Barros, primeiro desembargador..

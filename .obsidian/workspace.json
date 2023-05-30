@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "t.md",
+                "file": "A Academia Brazilica dos Renascidos, Sua fundação e trabalhos inéditos, Alberto Lamego.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c195449eb9a13397",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "t.md",
+                "file": "A Academia Brazilica dos Renascidos, Sua fundação e trabalhos inéditos, Alberto Lamego.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "t.md",
+                "file": "A Academia Brazilica dos Renascidos, Sua fundação e trabalhos inéditos, Alberto Lamego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "t.md"
+                "file": "A Academia Brazilica dos Renascidos, Sua fundação e trabalhos inéditos, Alberto Lamego.md"
               }
             }
           }
@@ -164,7 +165,7 @@
     "🛠️ Trabalhos/BICALHO, Maria Fernanda, Colónia ou Conquista....md",
     "🏡 Olá Mariana!.md",
     "🆘 Ajuda.md",
-    "t.md",
+    "A Academia Brazilica dos Renascidos, Sua fundação e trabalhos inéditos, Alberto Lamego.md",
     "🛠️ Trabalhos/Alencrastro, Luiz Felipe, O Trato dos Viventes, São Paulo, Companhia de Letras, 2000..md",
     "🪶 Citações/schwartzCeremoniesPublicAuthority2004.md",
     "📝 Notas/Descobrimentos e Globalização.md",
