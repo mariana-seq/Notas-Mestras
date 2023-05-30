@@ -17,4 +17,9 @@ Silvestre de Oliveira Serpa, grande orador e poeta. 17
 "Passou-se depois á leitura dos estatutos" 17
 "A segunda e ultima junta preparatoria foi encerrada depois de destribuidos os assumptos para a 1ª sessão com  seguinte discurso pronunciado pelo director:
 ==«Hoje Snrº, completa um anno que por força do preceito do nosso Real Protector, embarquei para esta America. Pouco considerava eu então, que havia de conseguir a fortuna de ser vosso collega quanto mais o vosso director. Nunca me esquecerei desta honra que devi á vossa piedade e da qual tirarei o maior proveito com as vossas instrucções.»" ==18
+"A Academia dos Renascidos foi inaugurada com toda a solemnidade no dia 6 de junho seguinte. Reunidos os academicos na espaçosa e ornada capella-mór do famoso templo dos Religiosos carmelistas descalços, fizeram os seus juramentos, pelas 3 horas da tarde á Conceição Purissima da Senhora, nas mãos do Pe. Mestre Fr. José dos Reis, Provincial dos mesmos carmelitas a quem o director tinha convidado para assistir este acto, comparecendo tambem quase toda a communidade. Findo o juramento, todos se retiraram para o magnifico salão d'aquelle convento que estava luxuosamente armado dos mais ricos velludos e damascos guarnecidos de preciosos galões de outro e prata." 20-21
+"Fizemos saber que este Congresso elegeu para Academico Numerario ao Sr Antonio de Oliveira (que foi um dos primeiros que concorreu para a fundação desta litteraria Sociedade) por constar das suas virtudes, erudição e louvaveis estudos, e esperamos que será um socio de muita utilidade aos progressos desta Academia, de cujo emprego lhe havemos por dada a posse, sujeitando-se obedecer inviolavelmente, os nossos estatutos e mais resoluções." 22
+Os supranumerarios eram obrigados a mandar por escripto o seu juramento 
+
+
 
