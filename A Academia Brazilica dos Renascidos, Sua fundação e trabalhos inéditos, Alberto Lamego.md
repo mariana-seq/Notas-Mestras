@@ -81,7 +81,8 @@ Quanto são os pregões para o Monarcha.
 "Na sessão de 21 do dito mês foi eleito director perpétuo e para isso se fez uma adicção aos estatutos. Pela alteração feita, só haveria nova eleição de director, no caso do seu fallecimento. Ainda mesmo que de todo, se ausentasse do Brazil, não seria preenchido o seu lugar, sendo apenas substituído por um vice-director e tudo o que se resolvesse na Academia, lhe seria participado, quer elle estivesse na Ameirca quer na Europa." 50
 
 DISCURSO:
-"Até agora preclarissimos e sapientissimos Snrº. busqieo a vossa sociedade por affecto, hoje a procuro por agradecimento. As diferentes figuras que tenho representado neste Lusido Congresso, já exercitando, já conciliando, já movendo, já persuadindo; humas vezes orador, outras vezes ouvinte, porém sempre cuidadoso, sempre desvelado, sem perdoar
+"Até agora preclarissimos e sapientissimos Snrº. busqieo a vossa sociedade por affecto, hoje a procuro por agradecimento. As diferentes figuras que tenho representado neste Lusido Congresso, já exercitando, já conciliando, já movendo, já persuadindo; humas vezes orador, outras vezes ouvinte, porém sempre cuidadoso, sempre desvelado, sem perdoar o trabalho, sem attender ao descanço, sem embaraçarem os meus laboriosos empregos, sem me cohibirem as minhas impertinentes e repetidas queixas, que principio ou que nascimento podiam ser senão o amôr da vossa honra e hum verdadeiro zêlo á nossa Patria? Esse impulso me conduziu, esse me tem esforçado a romper opposições e difficuldades, para que se puzesse em execução e se publicasse na Côrte, o glorioso exercicio em que se occupam os vossos pensamentos." 50
+
 
 
 
