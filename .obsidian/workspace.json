@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🛠️ Trabalhos/István Jancsó Brasil Formação do Estado Nação.md",
+                "file": "t.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c195449eb9a13397",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🛠️ Trabalhos/István Jancsó Brasil Formação do Estado Nação.md",
+                "file": "t.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🛠️ Trabalhos/István Jancsó Brasil Formação do Estado Nação.md",
+                "file": "t.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🛠️ Trabalhos/István Jancsó Brasil Formação do Estado Nação.md"
+                "file": "t.md"
               }
             }
           }
@@ -159,11 +158,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "eb60f30fe3346ec5",
+  "active": "7e03750073ea6c3c",
   "lastOpenFiles": [
+    "🛠️ Trabalhos/István Jancsó Brasil Formação do Estado Nação.md",
     "🛠️ Trabalhos/BICALHO, Maria Fernanda, Colónia ou Conquista....md",
     "🏡 Olá Mariana!.md",
-    "🛠️ Trabalhos/István Jancsó Brasil Formação do Estado Nação.md",
     "🆘 Ajuda.md",
     "t.md",
     "🛠️ Trabalhos/Alencrastro, Luiz Felipe, O Trato dos Viventes, São Paulo, Companhia de Letras, 2000..md",
