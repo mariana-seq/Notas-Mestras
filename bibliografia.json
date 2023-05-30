@@ -277,6 +277,55 @@
       "select": "zotero://select/library/items/JKGIHJVV"
     },
     {
+      "key": "IM8Q8S3W",
+      "version": 0,
+      "itemType": "journalArticle",
+      "title": "A Academia Brasílica dos Renascidos e o governo político da América portuguesa (1759): notas sobre as contradições do cosmopolitismo acadêmico lusoamericano",
+      "date": "2003",
+      "language": "pt",
+      "shortTitle": "A Academia Brasílica dos Renascidos e o governo político da América portuguesa (1759)",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "url": "https://digitalis.uc.pt/handle/10316.2/43715",
+      "accessDate": "2023-05-25T17:05:30Z",
+      "volume": "24",
+      "pages": "51-83",
+      "publicationTitle": "Revista de História das Ideias",
+      "DOI": "10.14195/2183-8925_24_2",
+      "journalAbbreviation": "RHI",
+      "ISSN": "0870-0958, 2183-8925",
+      "creators": [
+        {
+          "firstName": "Iris",
+          "lastName": "Kantor",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-05-25T17:05:30Z",
+      "dateModified": "2023-05-25T17:05:30Z",
+      "uri": "http://zotero.org/users/local/WD6fice8/items/IM8Q8S3W",
+      "itemID": 439,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Kantor - 2003 - A Academia Brasílica dos Renascidos e o governo po.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-05-25T17:05:27Z",
+          "dateModified": "2023-05-25T17:05:30Z",
+          "uri": "http://zotero.org/users/local/WD6fice8/items/4WLVAMM4",
+          "path": "C:\\Users\\maria\\Zotero\\storage\\4WLVAMM4\\Kantor - 2003 - A Academia Brasílica dos Renascidos e o governo po.pdf",
+          "select": "zotero://select/library/items/4WLVAMM4"
+        }
+      ],
+      "notes": [],
+      "citationKey": "kantorAcademiaBrasilicaDos2003",
+      "itemKey": "IM8Q8S3W",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/IM8Q8S3W"
+    },
+    {
       "key": "VTHJM9D6",
       "version": 0,
       "itemType": "journalArticle",
