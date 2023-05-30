@@ -9,3 +9,12 @@
 3. O Rev. Antonio Gonsalves Pereira
 4. (....)
 5. João Borges de Barros, primeiro desembargador..
+"Aberta a sessão preparatoria, Mascarenhas expox o fim da reunião, propondo que desde logo fôsse creada a Academia Brasilica dos Renascidos. Com grande proficiencia, sustentou a proposta, o grande orador P. José Antonio Sarre e posta a votos, quatro dos presentes discordaram, opinando que a Academia só fôsse instituida depois de obtido o decreto régio, concedendo á mesma, o titulo de Real, mas os restantes approvaram-n'a." 14
+"Procedeu-se em seguida a eleição para os diversos cargos sendo eleitos: presidente, José Mascarenhas Pacheco Pereira de Mello, censores, os Drºs. João Borges de Barros, João Ferreira Bittencourt e Sá, Fr. Ignacio de Sá e Nasareth, e Dr. José Pires de Carvalho e Albuquerque que segundo escrunio, obteve pluralidade de votos; secretario, Antonio Gomes Ferrão Castello Branco; vice-secretario, Bernardino Marques de Alemida e Arnizau." 14
+"Para a confecção dos estatutos, foi escolhido o director." 14
+"A segunda junta preparatoria teve lugar no dia 2 do mês seguinte, comparecendo todos os 37 academicos. Lida a acta da sessão precedente e approvado o catalogo dos academicos de numero e supranumerarios e como d'aqueles faltavam 8 para completar 40, procedeu-se a eleição, por escrutinio secreto" 15
+Silvestre de Oliveira Serpa, grande orador e poeta. 17
+"Passou-se depois á leitura dos estatutos" 17
+"A segunda e ultima junta preparatoria foi encerrada depois de destribuidos os assumptos para a 1ª sessão com  seguinte discurso pronunciado pelo director:
+==«Hoje Snrº, completa um anno que por força do preceito do nosso Real Protector, embarquei para esta America. Pouco considerava eu então, que havia de conseguir a fortuna de ser vosso collega quanto mais o vosso director. Nunca me esquecerei desta honra que devi á vossa piedade e da qual tirarei o maior proveito com as vossas instrucções.»" ==18
+
