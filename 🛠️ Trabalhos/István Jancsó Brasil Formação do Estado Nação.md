@@ -1,1 +1,3 @@
 - A nação moderna: nova legitimidade e velhas identidades, de François-Xavier Guerra
+"A nação que aparece aqui é uma imagem com atributos múltiplos, precursora já da nação moderna, mesmo que, no momento, se trate mais de um ideal que de uma realidade, tendo em vista que os exemplos com que o dicionário ilustra sua definição" 37
+"O reino é, ao mesmo tempo, um conjunto político governado por um rei, os homens que estão ligados a ele por vínculos pessoais e um corpo político completo encarnado nos deputados que o representam. Estes sentidos diferentes remetem a uma imagem corporativa do reino com antigas raízes medievais." 40
