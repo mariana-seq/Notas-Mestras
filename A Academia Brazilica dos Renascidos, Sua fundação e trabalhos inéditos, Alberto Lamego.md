@@ -75,6 +75,14 @@ Que a Phenix superando as leys da Parca
 Tanto são para as Letras, or augmentos
 Quanto são os pregões para o Monarcha.
 
+"Diz-se que a Academia tornou a reunir-se nos dias 21 de Julho, 4 e 18 de Agosto, 1, 15 e 23 de Setembro, 18 e 27 de Outubro, 10 e 24 de Novembro, 8 e 17 de Dezembro de 1759, 31 de Março, 12 e 26 de Abril de 1760 por terem sido fixados esses dias para as conferencias e determinados os pontos que deviam ser tratados, mas é pouco provavel que se tivesse effectuado todas as reuniões." 49
+"De algumas podemos dar noticia e apresentar mais alguns trabalhos que nellas fôram lidos pelos academicos e discursos pronunciados pelo director. Da ultima que temos conhecimento foi realisada em 10 de Novembro de 1759 e provavelmente depois desta, a Academia não voltou a reunir-se porque o seu presidente perpetuo, antes de findar esse mesmo anno, já se achava preso, como verêmos." 49
+=="Logo após a primeira assembelia, Mascarenhas caíu gravemente enfermo e fôra sangrado, assumindo a direcção da Academia o primeiro censor P. João Borges de Barros. Missas em acção de graças pelos eu restabelecimento, fôram celebradas e a Academia offereceu-lhe uma festa in tima em 2 de Julho e dedicou-lhe um recitativo executado por boa orchestra."== 49
+"Na sessão de 21 do dito mês foi eleito director perpétuo e para isso se fez uma adicção aos estatutos. Pela alteração feita, só haveria nova eleição de director, no caso do seu fallecimento. Ainda mesmo que de todo, se ausentasse do Brazil, não seria preenchido o seu lugar, sendo apenas substituído por um vice-director e tudo o que se resolvesse na Academia, lhe seria participado, quer elle estivesse na Ameirca quer na Europa." 50
+
+DISCURSO:
+"Até agora preclarissimos e sapientissimos Snrº. busqieo a vossa sociedade por affecto, hoje a procuro por agradecimento. As diferentes figuras que tenho representado neste Lusido Congresso, já exercitando, já conciliando, já movendo, já persuadindo; humas vezes orador, outras vezes ouvinte, porém sempre cuidadoso, sempre desvelado, sem perdoar
+
 
 
 
