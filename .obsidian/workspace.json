@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2f3c122cab4b934c",
+        "id": "81c2da910de6084d",
         "type": "tabs",
         "children": [
           {
-            "id": "463d9efcd7773699",
+            "id": "86433ac12b8dd070",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🛠️ Trabalhos/Alencrastro, Luiz Felipe, O Trato dos Viventes, São Paulo, Companhia de Letras, 2000..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b7de349a136904e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "🏡 Olá Mariana!.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "🏡 Olá Mariana!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "🏡 Olá Mariana!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "🏡 Olá Mariana!.md"
               }
             }
           }
@@ -155,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,7 +157,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1b7de349a136904e",
+  "active": "86433ac12b8dd070",
   "lastOpenFiles": [
     "🛠️ Trabalhos/Alencrastro, Luiz Felipe, O Trato dos Viventes, São Paulo, Companhia de Letras, 2000..md",
     "Untitled.md",
