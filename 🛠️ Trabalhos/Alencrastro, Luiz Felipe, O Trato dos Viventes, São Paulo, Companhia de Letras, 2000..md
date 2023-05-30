@@ -1,4 +1,3 @@
--      ALENCASTRO, Luiz Felipe, _O Trato dos Viventes,_ São Paulo, Companhia de Letras, 2000.
 
 “a idéia exposta neste livro é diferente e relativamente simples: ==a colonização portuguesa, fundada no escravismo, deu lugar a um espaço econômico e social bipolar, englobando uma zona de produção escravista no literal da América do Sul e uma zona de reprodução de escravos centrada em Angola. (…) O que se quer, ao contrário, é mostrar como essas duas partes unidas pelo oceano se completam num só sistema de exploração colonial cuja singularidade ainda marca profundamente o Brasil contemporâneo.”== 9
 
