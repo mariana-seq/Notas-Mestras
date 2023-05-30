@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c195449eb9a13397",
@@ -158,7 +159,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7e03750073ea6c3c",
+  "active": "eb60f30fe3346ec5",
   "lastOpenFiles": [
     "🛠️ Trabalhos/BICALHO, Maria Fernanda, Colónia ou Conquista....md",
     "🏡 Olá Mariana!.md",
