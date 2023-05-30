@@ -1,0 +1,1 @@
+"Na cidade, a colonia é o commercio, é a industria, é a vida activa na terra e nos mares e, quer á beira da matta, quer sob as telhas urbanas, o colono adhere á nova patria pelo amor, constituindo a familia - e a arvore transplantada da sombra e fructo no terreno estranho, e n'elle fica, para o sempre, presa pelas novas raízes nascidas do coração: os filhos." 8
