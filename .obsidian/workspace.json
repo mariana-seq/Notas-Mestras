@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cd88613a564382bc",
+        "id": "3c869cd1179c9fa5",
         "type": "tabs",
         "children": [
           {
-            "id": "dfb9bf9fa44af50b",
+            "id": "2ca6115560ba33ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🛠️ Trabalhos/A Cultura das Luzes em Portugal, Temas e Problemas, Ana Cristina Araújo.md",
+                "file": "A Academia Real da História, Isabel Ferreira da Mota.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🛠️ Trabalhos/A Cultura das Luzes em Portugal, Temas e Problemas, Ana Cristina Araújo.md",
+                "file": "A Academia Real da História, Isabel Ferreira da Mota.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🛠️ Trabalhos/A Cultura das Luzes em Portugal, Temas e Problemas, Ana Cristina Araújo.md",
+                "file": "A Academia Real da História, Isabel Ferreira da Mota.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🛠️ Trabalhos/A Cultura das Luzes em Portugal, Temas e Problemas, Ana Cristina Araújo.md"
+                "file": "A Academia Real da História, Isabel Ferreira da Mota.md"
               }
             }
           }
@@ -158,10 +158,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "eb60f30fe3346ec5",
+  "active": "2ca6115560ba33ae",
   "lastOpenFiles": [
-    "🛠️ Trabalhos/Luiz Carlos Villalta Usos do livro no mundo luso-brasileiro sob as luzes, reformas, censura e contestações.md",
     "🛠️ Trabalhos/A Cultura das Luzes em Portugal, Temas e Problemas, Ana Cristina Araújo.md",
+    "A Academia Real da História, Isabel Ferreira da Mota.md",
+    "🛠️ Trabalhos/Luiz Carlos Villalta Usos do livro no mundo luso-brasileiro sob as luzes, reformas, censura e contestações.md",
     "🛠️ Trabalhos/Introdução à literatura no Brasil Afrânio Coutinho.md",
     "🛠️ Trabalhos/A Colonia Portugueza no Brazil, Á literatura portugueza.md",
     "🛠️ Trabalhos/A Academia Brazilica dos Renascidos, Sua fundação e trabalhos inéditos, Alberto Lamego.md",
