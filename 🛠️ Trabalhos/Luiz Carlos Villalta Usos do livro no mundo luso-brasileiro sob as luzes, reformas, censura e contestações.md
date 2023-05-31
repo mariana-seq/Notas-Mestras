@@ -1,0 +1,2 @@
+"A luzes influenciaram as ações da Coroa portuguesa, sobretudo a partir da ascensão de D. José I e de seu poderoso ministro Sebastião de Carvalho e Mello, em 1750, levando à realização de uma série de reformas, inclusive no aparato censório." 79
+"Desde o século XVIII as Luzes (ou Ilustração) vêm motivando a preocupação das ciências humanas e sendo objeto de polêmica na historiografia, o que envolve até mesmo a definição de seus marcos cronológicos e espaciais." 79
