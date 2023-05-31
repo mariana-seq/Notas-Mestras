@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3fb582b95dfad8ad",
+            "id": "40e4cde5ad7aad3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🛠️ Trabalhos/As academias literárias e possibilidade de produção do conhecimento autonomia em território colonial, eduardo jose santos borges.md",
+                "file": "História e Historiadores no Brasiç.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🛠️ Trabalhos/As academias literárias e possibilidade de produção do conhecimento autonomia em território colonial, eduardo jose santos borges.md",
+                "file": "História e Historiadores no Brasiç.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🛠️ Trabalhos/As academias literárias e possibilidade de produção do conhecimento autonomia em território colonial, eduardo jose santos borges.md",
+                "file": "História e Historiadores no Brasiç.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🛠️ Trabalhos/As academias literárias e possibilidade de produção do conhecimento autonomia em território colonial, eduardo jose santos borges.md"
+                "file": "História e Historiadores no Brasiç.md"
               }
             }
           }
@@ -159,10 +159,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "eb60f30fe3346ec5",
+  "active": "40e4cde5ad7aad3b",
   "lastOpenFiles": [
-    "🛠️ Trabalhos/Retratos do Império, Trajetórias no mundo portugues..md",
     "🛠️ Trabalhos/As academias literárias e possibilidade de produção do conhecimento autonomia em território colonial, eduardo jose santos borges.md",
+    "História e Historiadores no Brasiç.md",
+    "🛠️ Trabalhos/Retratos do Império, Trajetórias no mundo portugues..md",
     "🛠️ Trabalhos/A Academia Real de História Portuguesa e a defesa do patrimônio ultramarino. Iris Kantor em Modos de Governar.md",
     "🛠️ Trabalhos/Leitura, História e História da Leitura, Márcia Abreu org.md",
     "🪶 Citações/kantorAcademiaBrasilicaDos2003.md",
@@ -192,7 +193,6 @@
     "Novo Documento de Texto.txt",
     "Nova pasta",
     "Home.md",
-    "🖼️ Imagens/liuSpatialTemporalScales2021_8MLKENHY.png",
-    "🪶 Citações/liuSpatialTemporalScales2021.md"
+    "🖼️ Imagens/liuSpatialTemporalScales2021_8MLKENHY.png"
   ]
 }
