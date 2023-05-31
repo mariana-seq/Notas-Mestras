@@ -2,4 +2,6 @@
 "O Tratado de Westfália inaugurava uma atitude secularizante ante o problema do domínio e soberania territorial, marcando o recuo do direito imperial romano. O novo "sistema de Estados" (pós-westfália) dava impulso à conformação de uma doutrina do Direito Pátrio, fundado na razão de Estado" 260
 =="A diplomacia portuguesa via-se, então, obrigada a reformular a fundamentação teológica da expansão ultramarina sem, no entanto, negar a razão cristã dos reis e o direito de arbitragem papal."== 262
 "A aventura ultramarina não somente significava o alargamento dos mercados, mas também implicava uma mutação profunda da cultura jurídica européia e do discurso historiográfico acadêmico em formação. O debate sobre a soberania nos mares e terras distantes balizou a elaboração de um direito internacional diferente do antigo Direito das Gentes e do Direito Natural." 263
+"Com efeito, uma reflexão mais global sobre o Império e suas articulações internas começava a ser esboçada pelos membros da Academia Real que tinham exercido cargos na administração ultramarina. A valorização da carreira administrativa americana decorrente do recentramento atlântico do Império português transformara a América em rota de passagem das casas titulares do reino." 27
+
 
