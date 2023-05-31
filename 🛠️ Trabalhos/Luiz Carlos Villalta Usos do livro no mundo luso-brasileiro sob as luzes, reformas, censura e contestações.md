@@ -1,2 +1,3 @@
 "A luzes influenciaram as ações da Coroa portuguesa, sobretudo a partir da ascensão de D. José I e de seu poderoso ministro Sebastião de Carvalho e Mello, em 1750, levando à realização de uma série de reformas, inclusive no aparato censório." 79
 "Desde o século XVIII as Luzes (ou Ilustração) vêm motivando a preocupação das ciências humanas e sendo objeto de polêmica na historiografia, o que envolve até mesmo a definição de seus marcos cronológicos e espaciais." 79
+"Em termos de difusão especial, Thomas Munck e outros historiadores consideram que a França seria o epicentro a partir da qual as Luzes atingiram a Grã-Bretanha e o resto da Europa Continental, a sul e ao norte, a leste e oeste, chegando às Américas." 81
