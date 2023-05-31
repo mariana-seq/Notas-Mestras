@@ -8,4 +8,5 @@
 =="O pensamento ilustrado, como se viu, comportava opiniões contraditórias e, mesmo, ambiguidades a respeito de certos temas. As apreciações que os grandes filósofos construíram a respeito de Portugal e da suas possessões na América, no conjunto, porém, possuem uma certa unidade." ==111
 Críticas de Voltaire.
 "A Ilustração, malgrado sua visão desfavorável ao homem americano, promoveu uma crítica contundente ao colonialismo mercantilista, não poupando os feitos lusitanos nessa área." 118
+"O panorama intelectual e científico português marcou-se por uma certa ambiguidade. Incorporou as inovações que surgiam e, ao mesmo tempo, acomodou-se aos ditames religiosos católicos, situação essa que parece ter sofrido uma ruptura paulatina, mas não total, ao longo da segunda metade do século XVIII (...)" 125
 
