@@ -9,4 +9,7 @@
 Críticas de Voltaire.
 "A Ilustração, malgrado sua visão desfavorável ao homem americano, promoveu uma crítica contundente ao colonialismo mercantilista, não poupando os feitos lusitanos nessa área." 118
 "O panorama intelectual e científico português marcou-se por uma certa ambiguidade. Incorporou as inovações que surgiam e, ao mesmo tempo, acomodou-se aos ditames religiosos católicos, situação essa que parece ter sofrido uma ruptura paulatina, mas não total, ao longo da segunda metade do século XVIII (...)" 125
+"Porém, a partir da ascensão de D. José I e seu poderoso ministro, triunfou o "governo político", ditado por motivos de Estado e por meio do qual este último arrogou-se o papel de organizar a sociedade e de impor-lhe uma ordem. Assim, passou-se de uma "administração ativa", que procurava se libertar dos constrangimentos corporativos." 132
+"A Ilustração Portuguesa foi eclética, em função das próprias especificidades locais, empenhou-se em acompanhar o ritmo do que ocorria no exterior (...)" 134
+Reformas na Universidade. Destacar o ensino das ciências.
 
