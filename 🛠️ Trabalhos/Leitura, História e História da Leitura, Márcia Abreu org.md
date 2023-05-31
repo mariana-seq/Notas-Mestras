@@ -10,3 +10,7 @@
 "Extrapolando-se os inventários e as listas de livros encaminhadas à censura, pode-se afirmar que a desigualdade da distribuição da propriedade de livros e da capacidade de ler, a dificuldade dos humildes em acessar a ambas e, em certos casos, o caráter estratégico que o saber livresco, fonte de conhecimento, assumia para as autoridade, tornavam o livro um signo de poder e reforçavam o seu prestígio social" 201
 
 - Da maneira correta de ler: leituras das belas letras no Brasil colonial
+nada de jeito
+
+- Sobre a censura inquisitorial portuguesa no século XVII, Rita Marquilas
+??
