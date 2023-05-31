@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "157f187a97dc0e17",
+        "id": "83af57041439d323",
         "type": "tabs",
         "children": [
           {
-            "id": "4a76ab2f3e8620a7",
+            "id": "4054cb6fe7dd7b62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🛠️ Trabalhos/A Academia Real de História Portuguesa e a defesa do patrimônio ultramarino. Iris Kantor em Modos de Governar.md",
+                "file": "Retratos do Império, Trajetórias no mundo portugues..md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c195449eb9a13397",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🛠️ Trabalhos/A Academia Real de História Portuguesa e a defesa do patrimônio ultramarino. Iris Kantor em Modos de Governar.md",
+                "file": "Retratos do Império, Trajetórias no mundo portugues..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🛠️ Trabalhos/A Academia Real de História Portuguesa e a defesa do patrimônio ultramarino. Iris Kantor em Modos de Governar.md",
+                "file": "Retratos do Império, Trajetórias no mundo portugues..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🛠️ Trabalhos/A Academia Real de História Portuguesa e a defesa do patrimônio ultramarino. Iris Kantor em Modos de Governar.md"
+                "file": "Retratos do Império, Trajetórias no mundo portugues..md"
               }
             }
           }
@@ -158,11 +159,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "eb60f30fe3346ec5",
+  "active": "4054cb6fe7dd7b62",
   "lastOpenFiles": [
+    "🛠️ Trabalhos/A Academia Real de História Portuguesa e a defesa do patrimônio ultramarino. Iris Kantor em Modos de Governar.md",
+    "Retratos do Império, Trajetórias no mundo portugues..md",
     "🛠️ Trabalhos/Leitura, História e História da Leitura, Márcia Abreu org.md",
     "🪶 Citações/kantorAcademiaBrasilicaDos2003.md",
-    "🛠️ Trabalhos/A Academia Real de História Portuguesa e a defesa do patrimônio ultramarino. Iris Kantor em Modos de Governar.md",
     "🏡 Olá Mariana!.md",
     "🆘 Ajuda.md",
     "🛠️ Trabalhos/A Cultura das Luzes em Portugal, Temas e Problemas, Ana Cristina Araújo.md",
