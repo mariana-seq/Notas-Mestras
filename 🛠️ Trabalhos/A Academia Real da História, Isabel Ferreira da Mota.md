@@ -2,3 +2,4 @@
 Organização das sociedades académicas
 "Esta publicação regular dos trabalhos era de enorme importância, tanto na Academia Real portuguesa como em todas as outras academias europeias, e almejava fins políticos claros, ao sublinhar a relevância da instituição no país e no estrangeiro." 46
 Proposta de investigação comum - criar uma história do reino.
+"as sociedades académicas deste século remodelaram o conhecimento organizado e contribuíram decisivamente para a actual organização da ciência." 351
