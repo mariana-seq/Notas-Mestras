@@ -1,2 +1,0 @@
-"Apesar dos constrangimentos relacionados com a proibição de instalação de tipografias e da Universidade, tais limitações não chegaram a impedir o desenvolvimento de uma sociabilidade erudita que chegou a envolver uma rede com um pouco mais de 250 membros na primeira metade do século XVIII." 301
-"A livraria do Colégio da Bahia possuía um acervo de 3 mil obras em 1694, o que fazia dela a melhor livraria da América portuguesa no início do século XVIII, segundo Serafim Leite." 302

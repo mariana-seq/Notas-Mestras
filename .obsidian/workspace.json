@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "83af57041439d323",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "07833c6fae8d2b4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🛠️ Trabalhos/Polêmicas sobre o Novo Mundo nas Academias Brasílicas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0eca3eec5754cbbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ser Erudito em colônias.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "3e4d27129749e79e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "🏡 Olá Mariana!.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "currentTab": 1
+        }
       }
     ],
     "direction": "vertical"
@@ -90,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c195449eb9a13397",
@@ -107,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ser Erudito em colônias.md",
+                "file": "🏡 Olá Mariana!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ser Erudito em colônias.md",
+                "file": "🏡 Olá Mariana!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ser Erudito em colônias.md"
+                "file": "🏡 Olá Mariana!.md"
               }
             }
           }
@@ -172,10 +152,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0eca3eec5754cbbd",
+  "active": "3e4d27129749e79e",
   "lastOpenFiles": [
     "🛠️ Trabalhos/Polêmicas sobre o Novo Mundo nas Academias Brasílicas.md",
-    "Ser Erudito em colônias.md",
+    "🛠️ Trabalhos/Ser Erudito em colônias.md",
     "🛠️ Trabalhos/História e Historiadores no Brasil.md",
     "🖼️ Imagens/Pasted image 20230531041148.png",
     "🛠️ Trabalhos/As academias literárias e possibilidade de produção do conhecimento autonomia em território colonial, eduardo jose santos borges.md",
