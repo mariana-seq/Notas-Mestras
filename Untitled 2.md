@@ -1,3 +1,2 @@
-"A Academia Real de História Portuguesa, instituída em 1720, apresenta-se como um modelo único em seu tempo, no âmbito das formações acadêmicas européias. A experiência acadêmica no século anterior cria um lastro, de modo que os fundadores da Academia Real de História Portuguesa já tinham estabelecidos contato com o movimento erudito europeu, especialmente com os circuitos italianos e franceses." 30
-"Os acadêmicos portugueses mantinham redes de contatos interpessoais e institucionais os principais círculos acadêmicos em toda a Europa." 30
+
 
