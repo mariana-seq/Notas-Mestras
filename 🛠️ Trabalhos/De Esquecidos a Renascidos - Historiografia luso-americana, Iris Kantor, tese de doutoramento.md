@@ -10,6 +10,7 @@
 =="Na transição do século XVII para o século XVIII, a noção de soberania limitada pelos outros Estados juridicamente reconhecidos estava firmada. A diplomacia portuguesa vê-se obrigada a reformular a fundamentação teológica da expansão ultramarina sem, no entanto, esvaziá-la de sentido"== 36-37
 "A Guerra de Sucessão da Espanha gerou alguma inquietação decorrente da possibilidade da aliança entre a França e Espanha. Daí a necessidade de tornar a separação de Portugal em relação à Espanha um princípio geoestrategicamente sagrado, que se traduziu no caráter inquestionável do juramento de Ourique, das Cortes de Lamego e da primazia da Sé de Braga, segundo determinação dos estatutos da Academia Real de História Portuguesa." 39
 "O projeto historiográfico da Academia Real de História Portuguesa pressupunha a composição de uma história e de uma memória eclesiásticas do Ultramar, tarefas atribuídas a António Rodrigues da Costa e António e Caeteno de Sousa, embora os demais historiadores que fossem tratar individualmente dos reinados (a partir de D. Afonso V) também estivessem obrigados a incluir os acontecimentos relativos às conquistas." 46
+"
 
 
 
