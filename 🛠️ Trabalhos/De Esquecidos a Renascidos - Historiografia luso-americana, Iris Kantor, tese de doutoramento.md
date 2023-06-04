@@ -8,6 +8,6 @@
 "A Paz de Westfália acabaria inaugurando uma atitude secularizante frente ao problema da soberania territorial, marcando o recuo do direito imperial romano. O "Sistema de Estados" deu impulso à conformação de uma doutrina do Direito Pátrio, fundada na razão da Estado. ==Assim, progressivamente, os fundamentos teológico políticos das prerrogativas ibéricas (concessões papais) perdiam transcendência nos fóruns de negociações internacionais."== 34
 "É no contexto da rivalidade entre França, Inglaterra e Holanda que a hábil diplomacia portuguesa encontra formas de defender seus interesses, impedindo uma hegemonia única no Atlântico. Os acordos entre Holanda e Espanha, no Tratado de Haia, impõem o reconhecimento da independência das Províncias Unidas e a legitimação dos seus domínios nos territórios conquistados pela Companhia das Índias Ocidentais." 34-35
 =="Na transição do século XVII para o século XVIII, a noção de soberania limitada pelos outros Estados juridicamente reconhecidos estava firmada. A diplomacia portuguesa vê-se obrigada a reformular a fundamentação teológica da expansão ultramarina sem, no entanto, esvaziá-la de sentido"== 36-37
-
+"A Guerra de S
 
 
