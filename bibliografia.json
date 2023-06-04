@@ -453,6 +453,49 @@
       "itemKey": "FWGEY9XS",
       "libraryID": 1,
       "select": "zotero://select/library/items/FWGEY9XS"
+    },
+    {
+      "key": "NUQ5EQDR",
+      "version": 0,
+      "itemType": "journalArticle",
+      "title": "O papel das Academias para o nascimento da elite intelectual na América",
+      "date": "2017",
+      "volume": "7",
+      "pages": "49-69",
+      "publicationTitle": "Revista da FLUP",
+      "series": "IV",
+      "issue": "2",
+      "creators": [
+        {
+          "firstName": "Elias",
+          "lastName": "Simone",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-04T21:28:57Z",
+      "dateModified": "2023-06-04T21:31:00Z",
+      "uri": "http://zotero.org/users/local/WD6fice8/items/NUQ5EQDR",
+      "itemID": 449,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "O papel das Academias para o nascimento da elite intelectual na América.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-06-04T21:28:45Z",
+          "dateModified": "2023-06-04T21:29:02Z",
+          "uri": "http://zotero.org/users/local/WD6fice8/items/2MZPZ6BJ",
+          "path": "C:\\Users\\maria\\Zotero\\storage\\2MZPZ6BJ\\O papel das Academias para o nascimento da elite intelectual na América.pdf",
+          "select": "zotero://select/library/items/2MZPZ6BJ"
+        }
+      ],
+      "notes": [],
+      "citationKey": "simonePapelAcademiasPara2017",
+      "itemKey": "NUQ5EQDR",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/NUQ5EQDR"
     }
   ]
 }
