@@ -1,2 +1,5 @@
 "Esses letrados brasileiros, enquanto recrutados pelo Marquês de Pombal, constituíam um bom reservatório de pessoal político livre de veículos às redes clientelares metropolitanas" 46
 "A sua obrigação [censores] é «decidir». As palavras-chave do processo de decisão são: a «seriedade» (poderemos também encontrar os termos «severidade» e «sisudez») contra as «argúcias escolásticas», contra a «puerilidade», contra o «aparato das erudições gerais», contra a «redundância» e a «ostentação»." 127
+"A censura é, portanto, um campo autónomo, estruturado e sistematizado de uma forma bastante exigente, com regras próprias." 137
+"O esforço que consiste em extrair do resto a censura do resto da produção literária/intelectual é, portanto, contraditório com o facto de que a censura era uma parte constitutiva permanente da ecologia cultural do Antigo Regime." 139
+ 
