@@ -12,5 +12,6 @@
 "In quantitative terms the literary production of Brazil prior to 1750 is small. All the genre of the period - histories, honorific and satiric poetry, promotional literature, moral and religious tracts, sermons, and descriptions of plous and public events - were created, but this production tended to be fragmentary and dispersed with no universities to serve as focal points fot the intellectual intechange and activity."  39
 =="The formations of colonial identity in Brazil was infused with ambiguities. Nativists sentiments and a growing sense of distinctiveness developed alongside the continuing tradition of loyalty as subjects of the Portuguese crown, who thereby felt themselves deserving of favour and reward."== 39
 "Brazillian self-esteem and hostility to European-born Portuguese certainly existed by the late eighteenth century." 44
+Sobre Rocha Pita: "Still, like many of the works of the academies, his histoy eulogizes Bazil and his appendix listing the names of Bazilians who had achieved high office ih the empire demonstrates not only pride but also a desire to affirm the positive qualities of his fellow colonials. Such an attitude seems almost defensive and suggests that prejudices against the Brazilians were deeply felt."  47
 
 
