@@ -2,5 +2,3 @@
 "A livraria do Colégio da Bahia possuía um acervo de 3 mil obras em 1694, o que fazia dela a melhor livraria da América portuguesa no início do século XVIII, segundo Serafim Leite." 302
 =="Nessas polêmicas eruditas percebemos claramente o desejo de constituirr uma perspectiva americanista da história do Império português. Os membros das Academia coloniais estiveram empenhados em fixar uma nova interpretação do processo de colonização português no continente sul americano. (...) Os questionamentos dos acadêmicos brasílicos com relação aos saberes eruditos, se por um lado, visavam preservar privilégios imemoriais e garantir a retribuição de mercês; por outro, propiciaram uma percepção menos confiante do uso dos métodos críticos e no valor das evidências documentais na escrita da histórica brasílica." 310.==
 
-**Sangue, Serviços e mercês**
-"Para a doutrina oficial da Igreja Romana, os ameríndios não eram infiéis, mas gentios ou pagãos, condição primitiva dos católicos antes da evangelização. Diferentemente de judeus e mouros, os nativos do Novo Mundo desconheciam a palavra revelada e jamais podiam ser enquadrados como recalcitrantes ou apóstatas." 389
