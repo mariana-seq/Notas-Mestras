@@ -1,0 +1,1 @@
+"Tudo na Arcádia setecentista era claro e distinto, classicamente ordenado, neutro, de modo que não interferisse na livre expressão dos afetos em jogo. Não era incomum, de fato, que aí a paisagem eventualmente adquirisse tons mais sombrios, como que solidária às afecções e penas de seu pastor" 13
