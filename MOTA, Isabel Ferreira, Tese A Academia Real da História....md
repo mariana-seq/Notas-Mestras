@@ -7,4 +7,4 @@ secretário perpétua - diferente.
 
 **==O Secretário terá portanto por sua conta «todos os papeis proprios da Academia, e se depositarão com toda a ordem, e segurança no Archivo Academico, fasendo Inventario em livro à parte de todos os livros e documentos»== **(ESTATUTOS) p. 25
 
-Objetivo: "tudo restituir À verdade"
+Objetivo: "tudo restituir à verdade" 26
