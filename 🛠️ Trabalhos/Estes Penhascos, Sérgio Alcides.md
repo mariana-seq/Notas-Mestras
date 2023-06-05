@@ -1,1 +1,3 @@
 "Tudo na Arcádia setecentista era claro e distinto, classicamente ordenado, neutro, de modo que não interferisse na livre expressão dos afetos em jogo. Não era incomum, de fato, que aí a paisagem eventualmente adquirisse tons mais sombrios, como que solidária às afecções e penas de seu pastor" 13
+Texto soneto mais conhecido: "Veio bem a calhar para os que procuraram retratá-lo como herói, mártir da Inconfidência Mineira: "uma alma terna", um homem generoso que se insurgiu contra o jugo tirânico imposto a seus compatriotas." 15
+"
