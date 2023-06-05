@@ -34,3 +34,15 @@ SONETO POR ISTO NO TRABALHO P.  104
 
 "Na alternância das vozes do acadêmico e do índio, a sátira produzia um efeito de distanciamento realista, expressão de certo ceticismo em relação à tendência de idealização do "bom selvagem americano", já em voga nos circuitos intelectuais europeus. (...) ==Ao narrador indígena era permitido tanto expressar o desprezo ao projeto dos acadêmicos, como denunciar a vulnerabilidade do pacto colonial, assente, no plano jurídico-institucional, na discriminação legal e social de indivíduos e etnias de condição escrava e servil==. " 104
 "No fundo, parece que a sessão inaugural estava dramatizando o impacto da política pombalina de elevação dos aldeamentos à condição de vilas, posta em prática pela junta extraordinária de conselheiros ultramarinos (designada por Pombal para expulsar os jesuítas), em 28 de setembro de 1758. A politização da questão indígena naquele momento - deflagrada com os decretos de 1755 e com o Diretório Indígena - traduzia de forma lúdica a reação à modernização ilustrada pretendida pelo consulado pombalino." 107
+"sublinhar a existência de um vivo debate sobre as formas de integração do índio à sociedade luso-brasileira, o qual se desenvolvia não apenas entre os membros da junta governativa, mas no âmbito mais alargado da Academia." 110
+
+José mascarenhas
+Prestígio na corte.
+Frequentou outras academias como a de valladolid
+tareda de encaminhar a expulsão da comapanhia de jesus, ou seja, "fazer o inventário geral e o confisco de bens e rendimentos dos jesuítas, dar provimento dos párocos seculares nas aldeias, estabelecer a demarcação das sesmarias e a elevação das vilas indígenas." 112
+**=="O programa de trabalhos dos renascidos transcendia fronteiras de nacionalidade, valorizando, sobretudo, a América como objeto historiográfico."==** 116
+"O compromisso intelectual era "servir à pátria", reunindo eruditos versados em todas as matérias. Os acadêmicos desejavam constituir um centro de formação e se ofereciam a "responder a todas as dúvidas que lhes quisessem propor qualquer pessoa, e em qualquer matéria desde que fosse pessoalmente ou por escrito." 116-117
+"Estava sendo engendrada uma experiência inédita no âmbito da colonização européia moderna, ao se criarem condições para a formação de um projeto historiográfico coletivo concebido localmente, que pretendia integrar a experiência de colonização luso-americana no horizonte historiográfico coletivo português por meio de categorias universalistas." 117
+
+**A rede académica brasílica e cosmopolitismo erudito luso-americano**
+"As elites pertencentes aos quadros da academia enredavam-se umas nas outras, o que permitia fluxos de informação entre as dimensões local, regional, continental e mundial."  118
