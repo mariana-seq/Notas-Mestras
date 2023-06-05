@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "14bba006fb6d52cf",
+        "id": "ecb61c970aea4190",
         "type": "tabs",
         "children": [
           {
-            "id": "d548b836c02df422",
+            "id": "7e63047a5ffd8389",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏡 Olá Mariana!.md",
+                "file": "🛠️ Trabalhos/Ser Erudito em colônias.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏡 Olá Mariana!.md",
+                "file": "🛠️ Trabalhos/Ser Erudito em colônias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏡 Olá Mariana!.md",
+                "file": "🛠️ Trabalhos/Ser Erudito em colônias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏡 Olá Mariana!.md"
+                "file": "🛠️ Trabalhos/Ser Erudito em colônias.md"
               }
             }
           }
@@ -158,17 +158,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d548b836c02df422",
+  "active": "7e63047a5ffd8389",
   "lastOpenFiles": [
+    "🆘 Ajuda.md",
+    "🛠️ Trabalhos/O Governo dos Outros, Poder e Diferença no Império Português, org. Ângela Barreto Xavier e Cristina Nogueira da Silva.md",
+    "🛠️ Trabalhos/Ser Erudito em colônias.md",
+    "🛠️ Trabalhos/De Esquecidos a Renascidos - Historiografia luso-americana, Iris Kantor, tese de doutoramento.md",
+    "🛠️ Trabalhos/A Academia Brazilica dos Renascidos, Sua fundação e trabalhos inéditos, Alberto Lamego.md",
     "🏡 Olá Mariana!.md",
     "Untitled 2.md",
-    "🛠️ Trabalhos/De Esquecidos a Renascidos - Historiografia luso-americana, Iris Kantor, tese de doutoramento.md",
     "Untitled 1.md",
-    "Untitled.md",
     "🛠️ Trabalhos/Retratos do Império, Trajetórias no mundo portugues..md",
-    "🛠️ Trabalhos/Ser Erudito em colônias.md",
     "🪶 Citações/simonePapelAcademiasPara2017.md",
-    "🛠️ Trabalhos/A Academia Brazilica dos Renascidos, Sua fundação e trabalhos inéditos, Alberto Lamego.md",
     "🛠️ Trabalhos/História e Historiadores no Brasil.md",
     "🛠️ Trabalhos/Leitura, História e História da Leitura, Márcia Abreu org.md",
     "🛠️ Trabalhos/István Jancsó Brasil Formação do Estado Nação.md",
@@ -184,7 +185,6 @@
     "🛠️ Trabalhos/Introdução à literatura no Brasil Afrânio Coutinho.md",
     "🪶 Citações/kantorAcademiaBrasilicaDos2003.md",
     "🖼️ Imagens/Pasted image 20230531041148.png",
-    "🆘 Ajuda.md",
     "🪶 Citações/schwartzCeremoniesPublicAuthority2004.md",
     "📝 Notas/Descobrimentos e Globalização.md",
     "🖼️ Imagens/Pasted image 20230225193258.png",
