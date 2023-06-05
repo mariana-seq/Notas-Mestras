@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d99d60aa9c3da059",
+            "id": "7f6e4b7e704c495c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MONTEIRO, Nuno Gonçalo, D. José I.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c195449eb9a13397",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MONTEIRO, Nuno Gonçalo, D. José I.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MONTEIRO, Nuno Gonçalo, D. José I.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MONTEIRO, Nuno Gonçalo, D. José I.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -159,9 +158,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d99d60aa9c3da059",
+  "active": "7f6e4b7e704c495c",
   "lastOpenFiles": [
-    "MONTEIRO, Nuno Gonçalo, D. José I.md",
+    "🛠️ Trabalhos/MONTEIRO, Nuno Gonçalo, D. José I.md",
+    "Untitled.md",
     "CURTO, Diogo Ramada, Cultura escrita e práticas de identidade, in BETHENCOURT.md",
     "🛠️ Trabalhos/MOTA, Isabel Ferreira, Tese A Academia Real da História....md",
     "🛠️ Trabalhos/MOTA, Isabel Ferreira, A Academia Real da História.md",
@@ -186,7 +186,6 @@
     "🛠️ Trabalhos/Estes Penhascos, Sérgio Alcides.md",
     "🛠️ Trabalhos/De Esquecidos a Renascidos - Historiografia luso-americana, Iris Kantor, tese de doutoramento.md",
     "🛠️ Trabalhos/BICALHO, Maria Fernanda, Colónia ou Conquista....md",
-    "🛠️ Trabalhos/As academias literárias e possibilidade de produção do conhecimento autonomia em território colonial, eduardo jose santos borges.md",
     "🖼️ Imagens/Pasted image 20230531041148.png",
     "🖼️ Imagens/Pasted image 20230225193258.png",
     "🖼️ Imagens/liuSpatialTemporalScales2021_W824HPS3.png",
