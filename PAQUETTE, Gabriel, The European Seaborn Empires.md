@@ -6,3 +6,4 @@ the Braganza dynasty’s tenuous political legitimacy, through a new alliance wi
 extraterritorial possession, became the sun around which the other territories, including Portugal itself, orbited."== 82
 "The peace ending the War of Spanish Succession (1701–1713),
 enshrined in the Treaty of Utrecht, affi rmed the ascendancy of France in continental Europe. It also ushered in the transition from the Habsburg to the Bourbon dynasty across the Pyrenees, in Spain." 85
+
