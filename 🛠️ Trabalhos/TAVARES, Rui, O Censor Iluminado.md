@@ -2,4 +2,6 @@
 "A sua obrigação [censores] é «decidir». As palavras-chave do processo de decisão são: a «seriedade» (poderemos também encontrar os termos «severidade» e «sisudez») contra as «argúcias escolásticas», contra a «puerilidade», contra o «aparato das erudições gerais», contra a «redundância» e a «ostentação»." 127
 "A censura é, portanto, um campo autónomo, estruturado e sistematizado de uma forma bastante exigente, com regras próprias." 137
 "O esforço que consiste em extrair do resto a censura do resto da produção literária/intelectual é, portanto, contraditório com o facto de que a censura era uma parte constitutiva permanente da ecologia cultural do Antigo Regime." 139
- 
+=="Vimos que a censura não era apenas o resultado de cortes realizados no texto de outra pessoa, uma espécie de antitexto, poder-se-ia dizer, mas antes um objeto textual específico e enquadrado pelo seu género literário. Ao encarar a censura como um antitexto, acostumámo-nos simultaneamente a ver o censor como o anti-intelectual por excelência. No entanto,  os documentos (...) apresentam-no-lo agora, bem pelo contrário, como um intelectual por excelência, com toda a carga anacrónica, mas necessária do termo."==
+"um autor" 154
+"o censor exercer um autoridade «política» porque é uma autoridade intelectual" 154
