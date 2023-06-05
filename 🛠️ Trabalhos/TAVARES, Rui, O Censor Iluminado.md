@@ -1,1 +1,2 @@
 "Esses letrados brasileiros, enquanto recrutados pelo Marquês de Pombal, constituíam um bom reservatório de pessoal político livre de veículos às redes clientelares metropolitanas" 46
+"A sua obrigação [censores] é «decidir». As palavras-chave do processo de decisão são: a «seriedade» (poderemos também encontrar os termos «severidade» e «sisudez») contra as «argúcias escolásticas», contra a «puerilidade», contra o «aparato das erudições gerais», contra a «redundância» e a «ostentação»." 127
