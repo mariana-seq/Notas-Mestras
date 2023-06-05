@@ -4,4 +4,5 @@
 =="In social or religious terms Brazil was created to reproduce Portugal, not to transform or transcend it." ==19
 =="The first is the growth of a colonial identity that is, the definition of the colonists as somehow different from their metropolitan compatriots - a transition from immigrant to native." ==20
 "The presence of large numbers of Indians and later of Africans provided the settlers not only with the labor necessary to live in the colony but also with a sense of self-identification that reinforced the ties to Europe." 26
+"I would suggest that the localism, independence, isolation, and "Indianness" of the periperal colonies were the earliest manifestations of a distintict colonial mentality." 32
 
