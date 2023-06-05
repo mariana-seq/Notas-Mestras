@@ -13,6 +13,7 @@
 =="Os acadêmicos tinham clara consciência da necessidade de registrar os feitos gloriosos dos portugueses. Nesse aspecto, configura-se a idéia de que a nacionalidade portuguesa transcendia as fronteiras políticas. A comunidade portuguesa deveria incorporar os portugueses de todos os quadrantes do mundo, mesmo que eles tivessem trabalhado para outros monarcas. A Nação adquire um substrato histórico metafísico."== 47
 "A valorização da carreira administrativa americana decorrente do recentramento atlântico do Império português transforma o Brasil em rota de passagem das casas titulares do Reino." 48
 "Uma política sistemática de envio de inquéritos e levantamentos de informações será implementada tanto no Reino como nas Conquistas, com maiores e menores sucessos. Além de requerer documentação e manuscritos, os acadêmicos estimulavam a composição de cartas geográficas e descrições corográficas." 49
+"A proposta da Academia era ousada, o empreendimento não era simples e exigia que as notícias e documentos fluíssem dos lugares mais remotos para que fosse possível escrever a história ultramarina eclesiástica e secular"  53
 
 
 
