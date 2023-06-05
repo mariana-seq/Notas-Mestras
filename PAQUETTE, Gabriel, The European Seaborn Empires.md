@@ -7,3 +7,7 @@ extraterritorial possession, became the sun around which the other territories, 
 "The peace ending the War of Spanish Succession (1701–1713),
 enshrined in the Treaty of Utrecht, affi rmed the ascendancy of France in continental Europe. It also ushered in the transition from the Habsburg to the Bourbon dynasty across the Pyrenees, in Spain." 85
 "Portugal’s American empire was transformed in the early eighteenth century. Before the 1690s, settlement was largely confi ned to Brazil’s Atlantic coast. The sugar- and tobacco-producing regions of the northeast, centered on Bahia, dominated the economy. This geographical orientation would shift dramatically." 86
+"As early as the 1730s, they recognized that Brazil’s wealth, and its
+demographic weight within the monarchy, had surpassed that of Portugal. They reckoned that the colony would not long remain content in a subordinate position. Portugal slowly became extraneous to Brazil’s economy, which was premised on the African slave trade and galvanized by slave labor." 87
+"The Seven Years’ War was the undeniable watershed of interimperial
+relations in the eighteenth century. The Americas were not the only theater, and the confl ict was the outgrowth of a broader European conflict." 89
