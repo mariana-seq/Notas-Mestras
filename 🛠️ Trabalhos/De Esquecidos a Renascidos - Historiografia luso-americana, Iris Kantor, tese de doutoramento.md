@@ -10,9 +10,9 @@
 =="Na transição do século XVII para o século XVIII, a noção de soberania limitada pelos outros Estados juridicamente reconhecidos estava firmada. A diplomacia portuguesa vê-se obrigada a reformular a fundamentação teológica da expansão ultramarina sem, no entanto, esvaziá-la de sentido"== 36-37
 "A Guerra de Sucessão da Espanha gerou alguma inquietação decorrente da possibilidade da aliança entre a França e Espanha. Daí a necessidade de tornar a separação de Portugal em relação à Espanha um princípio geoestrategicamente sagrado, que se traduziu no caráter inquestionável do juramento de Ourique, das Cortes de Lamego e da primazia da Sé de Braga, segundo determinação dos estatutos da Academia Real de História Portuguesa." 39
 "O projeto historiográfico da Academia Real de História Portuguesa pressupunha a composição de uma história e de uma memória eclesiásticas do Ultramar, tarefas atribuídas a António Rodrigues da Costa e António e Caeteno de Sousa, embora os demais historiadores que fossem tratar individualmente dos reinados (a partir de D. Afonso V) também estivessem obrigados a incluir os acontecimentos relativos às conquistas." 46
-"
-
-
+=="Os acadêmicos tinham clara consciência da necessidade de registrar os feitos gloriosos dos portugueses. Nesse aspecto, configura-se a idéia de que a nacionalidade portuguesa transcendia as fronteiras políticas. A comunidade portuguesa deveria incorporar os portugueses de todos os quadrantes do mundo, mesmo que eles tivessem trabalhado para outros monarcas. A Nação adquire um substrato histórico metafísico."== 47
+"A valorização da carreira administrativa americana decorrente do recentramento atlântico do Império português transforma o Brasil em rota de passagem das casas titulares do Reino." 48
+"Uma política sistemática de envio de inquéritos e levantamentos de informações será implementada tanto no Reino como nas Conquistas, com maiores e menores sucessos. Além de requerer documentação e manuscritos, os acadêmicos estimulavam a composição de cartas geográficas e descrições corográficas." 49
 
 
 
