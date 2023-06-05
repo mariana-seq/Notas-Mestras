@@ -1,0 +1,2 @@
+"The question of national consciousness or sel-awareness in the American colonies has too often been treated in isolation from the social and political context within the colony" 15
+=="The matter of colonial distinctiveness is essentially one of collective mantality, but the evidence used to perceive the commonly shared ideals and perceptions of the *vox populi* is, in Brazil at least, generally limited to te production of a tiny group of literati, all of whom belonged to the colonial aristocracy, te bureaucracy, or the clergy."== 15-16
