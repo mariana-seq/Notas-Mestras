@@ -15,5 +15,9 @@
 "Uma política sistemática de envio de inquéritos e levantamentos de informações será implementada tanto no Reino como nas Conquistas, com maiores e menores sucessos. Além de requerer documentação e manuscritos, os acadêmicos estimulavam a composição de cartas geográficas e descrições corográficas." 49
 "A proposta da Academia era ousada, o empreendimento não era simples e exigia que as notícias e documentos fluíssem dos lugares mais remotos para que fosse possível escrever a história ultramarina eclesiástica e secular"  53
 
+**O cerimonial de inauguração da Academia Brasílica dos Renascidos**
+Descrição do cerimonial: "Às 13 horas do dia 6 de junho de 1759, abria-se a porta da "aula" na Igreja dos Carmelitas Calçados em Salvador para a cerimônia de inauguração da Academia Brasílica dos Renascidos. Duas horas depois, ingressava no recinto a academia "incorporada", dirigindo-se ao sala de conferência. Em ordem processional, vinham os acadêmicos, seguidos pelo secretário, pelos censores e, por último, pelo diretor José Mascarenhas Pacheco Pereira Coelho de Mello." 96
+"O público estava acomodado em bancos cobertos de ricas sedas e colchas de damasco, "sem distinção, por serem em todos estes atos públicos odiosas as preferências". O rito acadêmico exigia uma "encenação" pública diferenciada. Os acadêmicos poderiam sentar-se sem preferência nem ordem de lugares, "conforme a casualidade com que entrassem". ==**A ritualidade acadêmica tinha aspectos singulares quando comparada aos demais rituais políticos do Antigo Regime, porque produzia um efeito de paridade, equiparando o prestígio do saber ao prestígio da honra e do nascimento."**== 96
+
 
 
