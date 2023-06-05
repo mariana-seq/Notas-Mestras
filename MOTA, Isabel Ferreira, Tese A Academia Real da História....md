@@ -8,3 +8,5 @@ secretário perpétua - diferente.
 **==O Secretário terá portanto por sua conta «todos os papeis proprios da Academia, e se depositarão com toda a ordem, e segurança no Archivo Academico, fasendo Inventario em livro à parte de todos os livros e documentos»== **(ESTATUTOS) p. 25
 
 Objetivo: "tudo restituir à verdade" 26
+
+"As Luzes supunham uma prática de trocas que visava a difusão e multiplicação do saber e exigia uma forte sociabilidade entre os eruditos." 41
