@@ -1,2 +1,3 @@
 - Cerimónias públicas e academias no Brasil
 "Por um lado, João Adolfo Hansen tem procurado denunciar as fragilidades de um modelo interpretativo que, apostado na definição das continuidades, tende a situar os autores bem como os movimentos culturais num processo crescente de emergência de uma literatura nacional." 419
+=="perante o desinteresse dos poderes públicos em proporcionar à colônia os instrumentos culturais para o seu desenvolvimento - oficinas de impressão e universidade -, foi na vida privada que se desenvolveram formas de consciência cultural e se encontraram os meios de compensação para fazer face à situação criada pela falta de investimento público na cultura e educação." ==419-420
