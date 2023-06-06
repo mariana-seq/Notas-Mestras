@@ -46,3 +46,16 @@ tareda de encaminhar a expulsão da comapanhia de jesus, ou seja, "fazer o inven
 
 **A rede académica brasílica e cosmopolitismo erudito luso-americano**
 "As elites pertencentes aos quadros da academia enredavam-se umas nas outras, o que permitia fluxos de informação entre as dimensões local, regional, continental e mundial."  118
+
+António Gomes Ferrão Castelo Branco: 31 anos. Bisneto de Pedro Unhão Castelo Branco (desembargador pt); neto António Gomes Ferrão (mestre-de-campo geral da Praça da Bahia); pai Alexandre Gomes Ferrão (provedor da santa casa da misericórdia, vereador na camara de salvador); neto da parte de mãe do seranista paulista Salvador Cardoso de Oliveira, casado com uma descendente com da Casa da Torre (Maria Cruz Porto Carrero), estabelecidos com fazendas de gado no Rio das Velhas.
+
+Rodrigo da Costa e Almeida - linhagem indicativo do processo de formação dos primeiros clãs coloniais e da sedimentação social dos laços regionais e ultramarinos.
+Natural de Salavador, proprietário do ofício de provedor da alfândega da Bahia, cargo herdado de seu pai, Domingos da Costa e Almeida, natural de Luanda, onde tinha exercido o posto de tenente-general do Reino de Angola e o cargo de provedor da alfândega com privilégio de sucessão por duas gerações. ...
+Pela via materna era neto de Rocha pita e ana cavalcanti. Pernambuco, onde o avo tinha participado na guerra de expulsão contra os franceses.
+
+José Pires de Caravalho e Albuquerque era membro de uma família rica de antiga fixação na Bahia, com três gerações de fidalgos da Casa Real, professos na Ordem de Cristo e familiares do Santo Ofício.
+
+=="Uma análise da distribuição geográfica dos Renascidos permite entrever uma ampla rede de contatos entre americanos e reinóis." ==126
+"No Reino, a rede de supranumerários contava com correspondentes em Lisboa, Coimbra, Porto, Miranda e Montemor o Velho. Uma primeira constatação refere-se ao fato de que muitos deles compunham ou vieram a compor a cúpula do reformismo pombalino."  126
+
+ELITE POMBALINA NOS RENASCIDOS- JOSÉ SEABRA DA SILVA
