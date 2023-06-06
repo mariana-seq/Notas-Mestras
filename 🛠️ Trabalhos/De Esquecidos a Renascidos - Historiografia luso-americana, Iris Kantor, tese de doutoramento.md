@@ -59,3 +59,6 @@ José Pires de Caravalho e Albuquerque era membro de uma família rica de antiga
 "No Reino, a rede de supranumerários contava com correspondentes em Lisboa, Coimbra, Porto, Miranda e Montemor o Velho. Uma primeira constatação refere-se ao fato de que muitos deles compunham ou vieram a compor a cúpula do reformismo pombalino."  126
 
 ELITE POMBALINA NOS RENASCIDOS- JOSÉ SEABRA DA SILVA
+
+SOBRE O DIRETOR
+"Ao desembarcar na "Corte americana da Bahia" para dar curso à sua missão secreta, Mascarenhas contava, além dos laços familiares na Bahia, com aquelas relações construídas pelo pai em suas passagens 
