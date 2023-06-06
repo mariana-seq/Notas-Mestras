@@ -61,4 +61,4 @@ José Pires de Caravalho e Albuquerque era membro de uma família rica de antiga
 ELITE POMBALINA NOS RENASCIDOS- JOSÉ SEABRA DA SILVA
 
 SOBRE O DIRETOR
-"Ao desembarcar na "Corte americana da Bahia" para dar curso à sua missão secreta, Mascarenhas contava, além dos laços familiares na Bahia, com aquelas relações construídas pelo pai em suas passagens 
+"Ao desembarcar na "Corte americana da Bahia" para dar curso à sua missão secreta, Mascarenhas contava, além dos laços familiares na Bahia, com aquelas relações construídas pelo pai em suas passagens pela Ouvidoria de Minas e pela Relação do Rio de Janeiro" 128
