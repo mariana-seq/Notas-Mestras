@@ -68,3 +68,14 @@ SOBRE A CENA DO TERRAMOTO P  149
 
 "As aproximações de José Mascarenhas com as elites intelectuais espanholas criaram desconfiança quanto a sua fidelidade pátria. Naquele momento, a redefinição das fronteiras americanas entre Espanha e Portugal, agravada pela Guerra Guaranítica e pelo processo de expulsão dos jesuítas no Império português, acentuava a contradição entre o princípio do cosmopolitismo intelectual e as implicações políticas do mundo sem fronteiras criado pelas redes acadêmicas." 150
 "Também acusava [o vice rei] José Mascarenhas de colaboracionismo, naquela conjuntura de Guerra dos Sete ANos (1756-1763), em que Portugal tinha permanecido aliado da Inglaterra, contra a França e Espanha (sem aderir ao Pacto de Família). Embora as alianças franco-portuguesas fossem abertamente impugnadas pelo vice-rei, o capitão-tenente Mrs. Disiers, membro também da Academia de Brest, recebeu o título de acadêmico supranumerário "na forma e no estilo"."  150
+"Em meados de novembro, José Mascarenhas partiu para o Rio de Janeiro, onde seria preso e remetido para o presídio na ilha de Santa Catarina (forte de Santa Cruz de Anhatomerim). Lá permaneceria confinado durante 14 anos, junto com sua criadagem e livraria particular." 151
+=="Sobre sua pessoa pairava o estigma de dupla traição: parceria com os franceses aportados na Bahia e conciliação com os jesuítas." ==151
+
+A prisão nao interrompeu a realização das sessões acadêmicas, mas provocou a indignação dos socios que não celebraram o aniversario de d josé 151
+
+=="As anotações do negociante José Lopes Ferreira sugerem que a academia manteve alguma atividade até pelo menos a morte do vice-rei, o Marquês do Lavradio, em julho de 1760. ainda em agosto de 1761, por ocasião do nascimento do príncipe da Beira D. José, Lopes Ferreira convocou os colegas para compor poemas encomiásticos. O afastamento do diretor, porém, fez com que o projeto historiográfico perdesse a ousadia original, ainda que na década seguinte as obras escritas e publicadas pela geração dos eruditos brasílicos trouxessem estampada a titulação "Acadêmicos Renascidos" em seus frontispícios."== 152
+
+
+...
+
+"Naquele momento, as elites locais alimentavam a expectativa de transformar a Academia num fórum de negociação política de seus interesses."  153
