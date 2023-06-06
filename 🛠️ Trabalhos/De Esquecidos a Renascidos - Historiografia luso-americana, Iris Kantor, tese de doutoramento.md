@@ -62,3 +62,9 @@ ELITE POMBALINA NOS RENASCIDOS- JOSÉ SEABRA DA SILVA
 
 SOBRE O DIRETOR
 "Ao desembarcar na "Corte americana da Bahia" para dar curso à sua missão secreta, Mascarenhas contava, além dos laços familiares na Bahia, com aquelas relações construídas pelo pai em suas passagens pela Ouvidoria de Minas e pela Relação do Rio de Janeiro" 128
+
+SOBRE A CENA DO TERRAMOTO P  149
+
+
+"As aproximações de José Mascarenhas com as elites intelectuais espanholas criaram desconfiança quanto a sua fidelidade pátria. Naquele momento, a redefinição das fronteiras americanas entre Espanha e Portugal, agravada pela Guerra Guaranítica e pelo processo de expulsão dos jesuítas no Império português, acentuava a contradição entre o princípio do cosmopolitismo intelectual e as implicações políticas do mundo sem fronteiras criado pelas redes acadêmicas." 150
+"Também acusava [o vice rei] José Mascarenhas de colaboracionismo, naquela conjuntura de Guerra dos Sete ANos (1756-1763), em que Portugal tinha permanecido aliado da Inglaterra, contra a França e Espanha (sem aderir ao Pacto de Família). Embora as alianças franco-portuguesas fossem abertamente impugnadas pelo vice-rei, o capitão-tenente Mrs. Disiers, membro também da Academia de Brest, recebeu o título de acadêmico supranumerário "na forma e no estilo"."  150
