@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🛠️ Trabalhos/MOTA, Isabel Ferreira, Tese A Academia Real da História....md",
+                "file": "🛠️ Trabalhos/István Jancsó Brasil Formação do Estado Nação.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "secreta",
+                "query": "José Mascarenhas",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🛠️ Trabalhos/MOTA, Isabel Ferreira, Tese A Academia Real da História....md",
+                "file": "🛠️ Trabalhos/István Jancsó Brasil Formação do Estado Nação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🛠️ Trabalhos/MOTA, Isabel Ferreira, Tese A Academia Real da História....md",
+                "file": "🛠️ Trabalhos/István Jancsó Brasil Formação do Estado Nação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🛠️ Trabalhos/MOTA, Isabel Ferreira, Tese A Academia Real da História....md"
+                "file": "🛠️ Trabalhos/István Jancsó Brasil Formação do Estado Nação.md"
               }
             }
           }
@@ -142,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,24 +160,24 @@
   },
   "active": "1d6a2ba65be15512",
   "lastOpenFiles": [
-    "🏡 Olá Mariana!.md",
-    "🛠️ Trabalhos/MOTA, Isabel Ferreira, Tese A Academia Real da História....md",
-    "🛠️ Trabalhos/István Jancsó Brasil Formação do Estado Nação.md",
-    "🛠️ Trabalhos/CURTO, Diogo Ramada, Cultura Imperial e Projetos coloniais (séculos XVI a XVIII).md",
     "🛠️ Trabalhos/De Esquecidos a Renascidos - Historiografia luso-americana, Iris Kantor, tese de doutoramento.md",
+    "🛠️ Trabalhos/CURTO, Diogo Ramada, Cultura Imperial e Projetos coloniais (séculos XVI a XVIII).md",
+    "🛠️ Trabalhos/LAMEGO, Alberto, A Academia Brazilica dos Renascidos, Sua fundação e trabalhos inéditos.md",
+    "🛠️ Trabalhos/István Jancsó Brasil Formação do Estado Nação.md",
+    "🛠️ Trabalhos/TAVARES, Rui, O Censor Iluminado.md",
+    "🛠️ Trabalhos/MOTA, Isabel Ferreira, Tese A Academia Real da História....md",
+    "🏡 Olá Mariana!.md",
     "🛠️ Trabalhos/A Colonia Portugueza no Brazil, Á literatura portugueza.md",
     "🛠️ Trabalhos/As academias literárias e possibilidade de produção do conhecimento autonomia em território colonial, eduardo jose santos borges.md",
     "🛠️ Trabalhos/ARAÚJO, Ana Cristina, A Cultura das Luzes em Portugal, Temas e Problemas,.md",
     "🛠️ Trabalhos/Introdução à literatura no Brasil Afrânio Coutinho.md",
     "🛠️ Trabalhos/KANTOR, IRIS, A Academia Real de História Portuguesa e a defesa do patrimônio ultramarino. em Modos de Governar.md",
-    "🛠️ Trabalhos/LAMEGO, Alberto, A Academia Brazilica dos Renascidos, Sua fundação e trabalhos inéditos.md",
     "🛠️ Trabalhos/Leitura, História e História da Leitura, Márcia Abreu org.md",
     "🛠️ Trabalhos/Luiz Carlos Villalta Usos do livro no mundo luso-brasileiro sob as luzes, reformas, censura e contestações.md",
     "🛠️ Trabalhos/O Governo dos Outros, Poder e Diferença no Império Português, org. Ângela Barreto Xavier e Cristina Nogueira da Silva.md",
     "🛠️ Trabalhos/PAQUETTE, Gabriel, The European Seaborn Empires.md",
     "🛠️ Trabalhos/Polêmicas sobre o Novo Mundo nas Academias Brasílicas.md",
     "🛠️ Trabalhos/SCHWARTZ, Stuart B., The formation of a Colonial Identity in Brazil.md",
-    "🛠️ Trabalhos/TAVARES, Rui, O Censor Iluminado.md",
     "🛠️ Trabalhos/Ser Erudito em colônias.md",
     "🪶 Citações/bentleyCambridgeWorldHistory2015.md",
     "🛠️ Trabalhos/Alencrastro, Luiz Felipe, O Trato dos Viventes, São Paulo, Companhia de Letras, 2000..md",
