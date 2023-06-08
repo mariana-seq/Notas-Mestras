@@ -10,3 +10,9 @@ secretário perpétua - diferente.
 Objetivo: "tudo restituir à verdade" 26
 
 "As Luzes supunham uma prática de trocas que visava a difusão e multiplicação do saber e exigia uma forte sociabilidade entre os eruditos." 41
+
+ESTATUTOS 227 pdf de coleção de documentos
+Como nos Estatutos se estabeleceu aos Diretores que seria útil um método de estudos em comum, de que pudesse aproveitar-se toda a sociedade; como se fosse uma comutação de frutos, donde o interesse é pronto, recíproco, e seguro: porque, ainda sendo tanta, e tão profunda a erudição dos Acadêmicos, (como se reconhece) não bastava a aplicação particular para o benefício universal, e para o acerto, e brevidade, com que se espera a História deste Reino, e suas Conquistas.
+
+estatutos 235
+As Memórias que se acabarem primeiro, se imprimirão, tanto que se entregarem na Academia, à custa da mesma Academia, a quem El Rei nosso Senhor assinalou larga renda para este efeito, e oferecendo-se primeiro um exemplar a cada uma das pessoas Reais, e dando-se outro a cada Acadêmico da Corte, e Províncias, e às pessoas, que concorrerão generosamente com documentos dos seus Arquivos, e Livrarias para esta obra, reservando-se alguns volumes para os Acadêmicos novos, e mais ocasiões que ocorrerem, se dará ao seu Autor o resto da impressão, para que a distribua como lhe parecer, levando todas as obras aprovadas pela Academia, no princípio a sua empresa, e na sua aprovação o Selo, assinando o Diretor, e Censores, e subscrevendo o Secretário esta Censura.
