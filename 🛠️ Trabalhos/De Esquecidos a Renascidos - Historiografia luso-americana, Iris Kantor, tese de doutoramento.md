@@ -79,3 +79,12 @@ A prisão nao interrompeu a realização das sessões acadêmicas, mas provocou 
 ...
 
 "Naquele momento, as elites locais alimentavam a expectativa de transformar a Academia num fórum de negociação política de seus interesses."  153
+
+
+**A representação do passado: história universal da América portuguesa**
+"O maior dilema dos historiadores brasílicos, naquela circunstância de conformação de uma cultura crítica intelectual, era dignificar a América como objeto historiográfico. ==Desse modo, os eruditos procuravam instaurar procedimentos que lhes permitissem relativizar o peso da tradição clássica ocidental, sem perderem de vista as possibilidades de universalização da experiência americanista.==" 188
+"Se os acadêmicos portugueses podiam imaginar sua presença no ultramar como uma reiteração de modelo secular imperial romano, os brasílicos optavam por acentuar a linguagem providencialista, transformando o passado em presente por intermédio da interpretação profética da história." 188
+"A descoberta da América, sob o prisma da profecia, o Novo mundo passava a ser sujeito da história universal, concebida em termos de uma ilustração católica." 188
+"A iniciativa [criação da Academia dos Renascidos] que foi associada ao restabelecimento da saúde de D. José I e às comemorações de seu natalício, enquadrava-se na retórica cívico-religiosa apropriada para publicização de eventos dessa natureza.Os acadêmicos assumiam ser esse um novo modo de afirmar a lealdade (...). Defendiam a pública utilidade da empresa de "escrever a historia deste continente" com obrigação de averiguar a verdade. Invocam o pacto originário entre os vassalos e a monarquia." 188-189
+"Propunham-se [renascidos] a escrever a "História Universal da América Portuguesa", considerando que, pela acumulação progressiva das memórias e histórias particulares de dioceses e províncias, poderiam conformar uma história do continente americano em sua totalidade." 189
+"O contato com a realidade americana exigia a revisão dos paradigmas geográficos, cronográficos e etnográficos herdados.
