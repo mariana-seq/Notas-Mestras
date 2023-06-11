@@ -141,3 +141,12 @@ Bem recebido pela corte. Pela Gazeta de Lisboa.
 =="A sociabilidade intelectual dava visibilidade às elites coloniais, construindo a publicação de panegíricos uma estratégia de propaganda que podia ser ampliada com atividades acadêmicas. Descrever as ações relevantes, ser nominalmente incluído como um bom servidor da Coroa numa relação histórica ou numa gazeta impressa representava um meio de obter a remuneração de serviços. No horizonte dos acadêmicos brasílicos, a expectativa de remuneração dos serviços constituía um elemento de mobilização importante. A publicização na esfera da Corte das memórias brasílicas merecia ser transformada em moeda de barganha e retribuição política." ==90
 
 "Incumbido de escrever sobre a história política do Brasil, o magistrado Luís Siqueira da Gama dissertou sobre a importância do sistema de remuneração de mercês à empresa ultramarina, elaborando uma longa defesa da política filipina de concessão do Hábito de Cristo e do foro de fidalgo ao governador dos índios, D. Antônio Felipe Camarão. (...) destacava ser maior o prêmio do que o serviço, maior a remuneração que o merecimento, e que os monarcas portugueses, à semelhança dos imperadores romanos, tinham um livro de razão em que se escreviam os serviços que lhes prestavam os vassalos." 90
+
+"Em virtude da falta de estatutos próprios, pouco se pode dizer sobre as regras que organizavam as rotinas da Academia Brasílica dos Esquecidos, tais como os critérios de eleição aos cargos, a forma de admissão dos membros, as normas que orientavam as sessões públicas, os cerimoniais e a prática de censura institucionalizada. Resta, então, recorrer à análise dos programas de conferências, das orações recitadas, das dissertações encomendadas e dos poemas." 91
+-Gonçalo Soares da França (supranumerário)
+-Caetano de Brito e Figueiredo
+Luis Siqueira da Gama
+Inácio Barbosa Machado
+Sebastião da Rocha Pita (supranumerário)
+João de Brito e Lima
+José da Cunha Cardoso.
