@@ -161,3 +161,8 @@ não há mesa censória
 =="Esse parece ter sido o modelo associativo que inspirou os Esquecidos, embora eles não deixassem de filiar-se à Academia Real de História Portuguesa. Os esquecidos viam-se como uma expansão das redes acadêmicas peninsulares, distinguindo-se apenas pela distância geográfica em relação à Corte lisboeta. Com alguma pretensão, a Academia procurava reproduzir em escala reduzida um "sistema de Corte" na cabeça da América portuguesa."== 93
 "Segundo as recentes pesquisas de Carlos Eduardo de Moraes, a Academia Brasílica dos Esquecidos teria chegado a congregar cerca de 155 participantes. Fábio Pedrosa identificou o número   de 117 participantes, mas considera que, desse universo, somente 36 membros representariam o núcleo efetivo dos acadêmicos; os demais indivíduos tinham uma participação eventual nas 18 sessões promovidas pela Academia ou mediante envio de suas composições poéticas para o julgamento da mesa censória." 94
 =="Porém, convém destacar que a tarefa de escrever dissertações históricas coube apenas a quatro dos sete membros fundadores. De toda a forma, a instituição acadêmica parece ter alcançado um público mais alargado do que as congêneres no Reino, compensando, provavelmente, a ausência de uma universidade, como nota José Aderaldo Castello==." 94
+Segundo Fábio Pedrosa
+36 dos participantes efetivos por ele selecionados: 23 naturais do brasil e 20 baianos; os demais portugueses. 9 tinham cursado na universidade de coimbra; a maioria tinha recebido sua instrução primária nos Colégios dos Jesuítas. 16 eclesiásticos; 7 seculares e nove regulares.
+
+Segundo iris kantor
+num universo de 143 esquecidos. 53% eclesiásticos; leigos: 10% magistrados; 20% militares; 8% propritários de engenhos; 2% artes liberais.
