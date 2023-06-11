@@ -150,3 +150,5 @@ Inácio Barbosa Machado
 Sebastião da Rocha Pita (supranumerário)
 João de Brito e Lima
 José da Cunha Cardoso.
+
+"Entre as funções principais, além daquela ocupada pela figura do vice-rei, tinham destaque: a de secretário (José Luís Cardoso), e a dos quatro "mestres" de História. O núcleo fundador da Academia atribuiu a Luís Siqueira da Gama a tarefa de escrever a história política; a Gonçalo Soares da França, a história eclesiástica; a Caetano de Brito e Figueiredo, a história natural; e a Inácio Barbosa Machado, a história militar 
