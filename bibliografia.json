@@ -455,6 +455,48 @@
       "select": "zotero://select/library/items/FWGEY9XS"
     },
     {
+      "key": "PUQLMBLB",
+      "version": 0,
+      "itemType": "thesis",
+      "title": "“Brutescos rascunhos da humana natureza”: a construção dos indígenas nas dissertações históricas da Academia Brasílica dos Esquecidos (1724-1725)",
+      "date": "2009",
+      "language": "pt",
+      "libraryCatalog": "Zotero",
+      "place": "Porto Alegre",
+      "university": "Universidade Federal do Rio Grande do Sul",
+      "creators": [
+        {
+          "firstName": "Pedro Telles da",
+          "lastName": "SILVEIRA",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2023-06-11T11:08:09Z",
+      "dateModified": "2023-06-11T11:10:52Z",
+      "uri": "http://zotero.org/users/local/WD6fice8/items/PUQLMBLB",
+      "itemID": 477,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Molina - Una verdad se inventa con suma precisión y la labo.pdf",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2023-06-11T11:08:07Z",
+          "dateModified": "2023-06-11T11:08:09Z",
+          "uri": "http://zotero.org/users/local/WD6fice8/items/TY7IXJGX",
+          "path": "C:\\Users\\maria\\Zotero\\storage\\TY7IXJGX\\Molina - Una verdad se inventa con suma precisión y la labo.pdf",
+          "select": "zotero://select/library/items/TY7IXJGX"
+        }
+      ],
+      "notes": [],
+      "citationKey": "silveiraBrutescosRascunhosHumana2009",
+      "itemKey": "PUQLMBLB",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/PUQLMBLB"
+    },
+    {
       "key": "NUQ5EQDR",
       "version": 0,
       "itemType": "journalArticle",
