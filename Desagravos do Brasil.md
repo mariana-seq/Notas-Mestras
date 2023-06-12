@@ -1,2 +1,29 @@
 "O motivo que me persuadio a offerecer a ElRey Nosso Senhor este livro, por mão de Vossa Excelencia, foy julgar, que era facil absurdo por na presença de Sua Magestade, h~ua obra, que posto muito grande pela materia, era muito humilde por minha, sem primeiro procurar, que da benefica Sombra do Soberano asylo de Vossa Excelencia se dirivem as luzes, com que fiquem lustrosos os borrões com que saem da minha mão." 3
-"
+"A esta razão acompanha o alto interece, que aspiro para a minha Patria, qual he, que conheça todo o Mundo, que Vossa Exca he oriundo de Pernambuco. E se as causas para este atrevimento que tomey, são tão justas, espero seja recebido para o pa-trocinio com aquella afabilidade propria de hum sogeito, a quem Deus foy Servido enriquecer de tantas honorificas qualidades, e de prendas tão relevantes." 3
+Prólogo ao leitor:
+**SEM VAIDADE**: =="Não compus esta obra com os olhos no lucro, nem com a pertenção de dar documentos, nem com esperança de applauzos, porq o primeiro motivo seria vileza, o segundo orgulho, o terceiro vangloria; fui somente levado da justa magoa de ver o grande descuido, q teve Pernambuco em perpetuar as virtudes de seus filhos, q com ellas o illustraram;" ==6
+
+**SOBRE INDÍGENAS E MALTA QUE FALA MAL DELES**: Acrescentando-se ao motivo referido outro mayor estimolo, q foi avaliar como obrigação preciza, refutar alguns erros, e calumnias, com ó alguns Autores, que tem escrito do Brazil, ==mancharão a opinião dos nossos Indios, e de alguas pessoas benemeritas, sem mais fundamento, q o de huás tradições tão suspeitozas, como mal nascidas, e falsas. Estes forão os motivos, ó me persuadirão a tão difficultozo empenho==" 6
+**SOBRE LIVROS NÃO IMPRESSOS E DIFICULDADE NA RECOLHA DE MATERIAIS**: "por q não podendo colher da lição dos Livros as noticias, por não haver athe agora algú impresso, q trate desta materia com bastante individuação, e copia, e somente algúas escaças memorias, q andão por varios Autores introduzidas em diversos assumptos, não tive materiaes, de que formar este edifício, mais q de memorias de Archivos, e de noticias particulares, q certamente logrão o privilegio de seguras, con-stantes, e verdadeiras;" 6
+**Não quer nenhuma recompensa se não o conhecimento**: “Se algua satisfação entender o Leitor pio, q mereço pelo meu trabalho, não quero outra recompensa, q o conhecimento, de q despendi largos disvelos com O fim de q sahissem fieis, e verdadeiras as noticias q escrevo. 8
+
+PERMBUCO ILUSTRADO PELO SEXO FEMENINO 
+“Do lugar do seu nascimento se podem tirar provas da sua nobreza, que as leva a obrar acçoens heroicas, foy creada no Parayso Terreal, e foy a materia do seu corpo mais solida que a do homem.”463
+
+**SOBRE VIRTUDE E GRAÇA : BERÇO** “Nascimentos illustres ordinariamente dão impulsos maiores a virtude. Apostadas parece se mostrarão a graça, e a natureza em esclarecer muitas heroinas Pernambucanas, porque quando Deos reparte seos dons com as almas generosas, não dá a húa só húa prenda, senão que no laço de muitas, e talvez de todas, logrão húa em grão mais iminente;” 463
+
+**CASTIDADE:** “esta em as Pernambucanas, de que primeiro tratamos, foy a virtude da castidade. Para conservarem aquella honestidade, recolhimento, modestia e recato tão vinculado as mulheres de Pernambuco, entregarão muitas vezes as gargantas aos alfanges, os peitos aos punhaes dos Olandezes; outras se sugeitarão a hum perpetuo degredo, e algúas tirarão a si mesmas a vida, quando de outro modo não podião resistir a barbaras violencias.” 463
+
+“Vião ou tinhão noticia de algúa mulher fermosa, com o des. engano de honrada, logo com fingido pretexto mandavão prender as pessoas, que a podião guardar, e com descarada lascivia lhe entravão em caza, sem que bastassem para a defender as lagrimas, e suspiros, de que sua castidade se armava; antes como era de brutos a força, crescia a violencia com a defença, cevando-se o apetite nos mesmos desvios da luxuria.” 464
+
+  
+
+VIOLÊNCIA DOS HOLANDESES: “Forão muitas as que buscarão no desterro da Patria o seguro da sua honra. Seria proluxidade nomiar todas as familias principaes, que se retirarão de Pernambuco, deixando grandes cabedaes expostos a cobiça, e estrago dos Olandezes, para não exprimentarem indignas violencias, nomiarey algúas: D. Catharina Barreto, veuva de D. Luis de Souza, largando dous engenhos que possuhia.” 464
+
+  
+
+“Estes e outros muitos desemparando Patria, e fazenda a fofos de suas mulheres, irmãas, e filhas se retirarão de Pernambuco para terras estranhas, padecendo as descomodidades, trabalhos e afliçoens de húa jornada dilatada e chea de perigos” 465
+
+  
+
+As donzellas reciosas de perderem a mais preciosa joya, não sabião determinar-se em deixar a caza, ou buscar o matto, porque no matto, e na caza se lhés representava o mesmo perigo. Algúas ouve que buscarão as brenhas, e montanhas, fiando das suas cavernas a defença de suas honras, e a conservação da sua honestidade; assim passavão dias, e noites em súmo desemparo, achando muitas nas garras das feras, e no veneno das serpentes, o estrago da morte. 465
