@@ -1,2 +1,0 @@
-"Olhando o conjunto dos textos que, no decurso do séculos XVI, XVII e XVIII, se ocuparam do Índio do Brasil, vemos que este, longe de ser tratado de uma maneira uniforme, vai sendo integrado dentro de um sistema ideológico de cada época e gradativamente enriquecido com novas facetas." 23
-"Os Jesuítas, procurando cristianizar os indígenas, ocupavam-se do Índio como pessoa, como homem capaz de um comportamento moral." 42
