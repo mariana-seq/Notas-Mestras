@@ -1,0 +1,1 @@
+Por intermédio da recitação de poemas jocosos os eruditos baianos expressavam sua opinião sobre a política indigenista pombalina, decretada
