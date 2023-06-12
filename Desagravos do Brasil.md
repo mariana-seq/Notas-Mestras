@@ -10,18 +10,12 @@ Prólogo ao leitor:
 PERMBUCO ILUSTRADO PELO SEXO FEMENINO 
 “Do lugar do seu nascimento se podem tirar provas da sua nobreza, que as leva a obrar acçoens heroicas, foy creada no Parayso Terreal, e foy a materia do seu corpo mais solida que a do homem.”463
 
-**SOBRE VIRTUDE E GRAÇA : BERÇO** “Nascimentos illustres ordinariamente dão impulsos maiores a virtude. Apostadas parece se mostrarão a graça, e a natureza em esclarecer muitas heroinas Pernambucanas, porque quando Deos reparte seos dons com as almas generosas, não dá a húa só húa prenda, senão que no laço de muitas, e talvez de todas, logrão húa em grão mais iminente;” 463
+**SOBRE VIRTUDE E GRAÇA : BERÇO** “==Nascimentos illustres ordinariamente dão impulsos maiores a virtude. ==Apostadas parece se mostrarão a graça, e a natureza em esclarecer muitas heroinas Pernambucanas, porque quando Deos reparte seos dons com as almas generosas, não dá a húa só húa prenda, senão que no laço de muitas, e talvez de todas, logrão húa em grão mais iminente;” 463
 
-**CASTIDADE:** “esta em as Pernambucanas, de que primeiro tratamos, foy a virtude da castidade. Para conservarem aquella honestidade, recolhimento, modestia e recato tão vinculado as mulheres de Pernambuco, entregarão muitas vezes as gargantas aos alfanges, os peitos aos punhaes dos Olandezes; outras se sugeitarão a hum perpetuo degredo, e algúas tirarão a si mesmas a vida, quando de outro modo não podião resistir a barbaras violencias.” 463
+**CASTIDADE:** “esta em as Pernambucanas, de que primeiro tratamos, foy a virtude da castidade. ==Para conservarem aquella honestidade, recolhimento, modestia e recato tão vinculado as mulheres de Pernambuco==, entregarão muitas vezes as gargantas aos alfanges, ==os peitos aos punhaes dos Olandezes; outras se sugeitarão a hum perpetuo degredo, e algúas tirarão a si mesmas a vida, quando de outro modo não podião resistir a barbaras violencias.”== 463
 
-“Vião ou tinhão noticia de algúa mulher fermosa, com o des. engano de honrada, logo com fingido pretexto mandavão prender as pessoas, que a podião guardar, e com descarada lascivia lhe entravão em caza, sem que bastassem para a defender as lagrimas, e suspiros, de que sua castidade se armava; antes como era de brutos a força, crescia a violencia com a defença, cevando-se o apetite nos mesmos desvios da luxuria.” 464
-
-  
-
-VIOLÊNCIA DOS HOLANDESES: “Forão muitas as que buscarão no desterro da Patria o seguro da sua honra. Seria proluxidade nomiar todas as familias principaes, que se retirarão de Pernambuco, deixando grandes cabedaes expostos a cobiça, e estrago dos Olandezes, para não exprimentarem indignas violencias, nomiarey algúas: D. Catharina Barreto, veuva de D. Luis de Souza, largando dous engenhos que possuhia.” 464
-
-  
-
+**SOBRE O APROVEITAMENTO DE MULHERES SOZINHAS PELOS HOLANDESES**:“Vião ou tinhão noticia de algúa mulher fermosa, com o desengano de honrada, logo com fingido pretexto mandavão prender as pessoas, que a podião guardar, e com descarada lascivia lhe entravão em caza, sem que bastassem para a defender as lagrimas, e suspiros, de que sua castidade se armava; antes como era de brutos a força, crescia a violencia com a defença, cevando-se o apetite nos mesmos desvios da luxuria.” 464
+**VIOLÊNCIA DOS HOLANDESES:** “Forão muitas as que buscarão no desterro da Patria o seguro da sua honra. Seria proluxidade nomiar todas as familias principaes, que se retirarão de Pernambuco, deixando grandes cabedaes expostos a cobiça, e estrago dos Olandezes, para não exprimentarem indignas violencias, nomiarey algúas: D. Catharina Barreto, veuva de D. Luis de Souza, largando dous engenhos que possuhia.” 464
 “Estes e outros muitos desemparando Patria, e fazenda a fofos de suas mulheres, irmãas, e filhas se retirarão de Pernambuco para terras estranhas, padecendo as descomodidades, trabalhos e afliçoens de húa jornada dilatada e chea de perigos” 465
 
   
