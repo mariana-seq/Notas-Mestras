@@ -1,0 +1,1 @@
+"Num misto de ficção e realidade, o Caramuru relata a história de Diogo Álvares Correa, português que naufragara nas costas da Bahia, com mais seis sobreviventes, os quais foram mortos pelos indígenas num ritual antropográfico. Por estar bastante enfermo, Diogo fora poupado, até que se restabelecesse e, bem nutrido, pudesse servir de alimento aos indígenas." 5-6
