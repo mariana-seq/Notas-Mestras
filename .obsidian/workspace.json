@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8797f7e58d85f16e",
+            "id": "bac17454a0dcc8a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KANTOR Indianismo e Indigenismo na Academia Brasílica dos Renascidos.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c195449eb9a13397",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KANTOR Indianismo e Indigenismo na Academia Brasílica dos Renascidos.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KANTOR Indianismo e Indigenismo na Academia Brasílica dos Renascidos.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KANTOR Indianismo e Indigenismo na Academia Brasílica dos Renascidos.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -158,10 +159,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8797f7e58d85f16e",
+  "active": "bac17454a0dcc8a5",
   "lastOpenFiles": [
     "Desagravos do Brasil.md",
-    "KANTOR Indianismo e Indigenismo na Academia Brasílica dos Renascidos.md",
+    "Untitled.md",
+    "🛠️ Trabalhos/KANTOR Indianismo e Indigenismo na Academia Brasílica dos Renascidos.md",
     "🆘 Ajuda.md",
     "🏡 Olá Mariana!.md",
     "🛠️ Trabalhos/Kantor, Íris, Do dilúvio universal ao Pai Tomé.md",
@@ -185,7 +187,6 @@
     "🪶 Citações/bentleyCambridgeWorldHistory2015.md",
     "🛠️ Trabalhos/MOTA, Isabel Ferreira, A Academia Real da História.md",
     "🛠️ Trabalhos/TAVARES, Rui, O Censor Iluminado.md",
-    "🛠️ Trabalhos/A Colonia Portugueza no Brazil, Á literatura portugueza.md",
     "🖼️ Imagens/Pasted image 20230531041148.png",
     "🖼️ Imagens/Pasted image 20230225193258.png",
     "🖼️ Imagens/liuSpatialTemporalScales2021_W824HPS3.png",
