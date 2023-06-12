@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "70e6987a82d1f6c1",
+            "id": "e7175b293189a750",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Caramuru Berty Ruth Rothstein Biron.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c195449eb9a13397",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Caramuru Berty Ruth Rothstein Biron.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Caramuru Berty Ruth Rothstein Biron.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Caramuru Berty Ruth Rothstein Biron.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -158,10 +159,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "70e6987a82d1f6c1",
+  "active": "e7175b293189a750",
   "lastOpenFiles": [
+    "🛠️ Trabalhos/Caramuru Berty Ruth Rothstein Biron.md",
+    "Untitled.md",
     "🛠️ Trabalhos/O Índio no Brasil na literatura portuguesa dos séculos XVI, XVII e XVIII.md",
-    "Caramuru Berty Ruth Rothstein Biron.md",
     "🏡 Olá Mariana!.md",
     "🪶 Citações/silveiraTEATRODOSOUVIDOS2009.md",
     "🪶 Citações/silveiraBrutescosRascunhosHumana2009.md",
@@ -185,7 +187,6 @@
     "🛠️ Trabalhos/ARAÚJO, Ana Cristina, A Cultura das Luzes em Portugal, Temas e Problemas,.md",
     "🛠️ Trabalhos/KANTOR, IRIS, A Academia Real de História Portuguesa e a defesa do patrimônio ultramarino. em Modos de Governar.md",
     "🛠️ Trabalhos/Leitura, História e História da Leitura, Márcia Abreu org.md",
-    "🛠️ Trabalhos/Luiz Carlos Villalta Usos do livro no mundo luso-brasileiro sob as luzes, reformas, censura e contestações.md",
     "🖼️ Imagens/Pasted image 20230531041148.png",
     "🖼️ Imagens/Pasted image 20230225193258.png",
     "🖼️ Imagens/liuSpatialTemporalScales2021_W824HPS3.png",

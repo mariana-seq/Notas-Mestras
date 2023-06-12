@@ -4,3 +4,4 @@
 "O olhar sobre o outro, embora não liberto da visão etno-cêntrica, é capaz de compreender a barbarie quando se volta para as suas próprias origens." 14
 "O narrador, que tudo observa, faz uma distinção entre os indígenas: uns são bravos e intratáveis, outros, manos. Os primeiros são aqueles que não aceitam os ensinamentos e permanecem selvagens; os segundos, aceitam os ensinamentos e se tornam cristãos." 16
 "Observe-se que, ainda que afastados do mundo civilizado, é visível a simpatia do narrador pelos indígenas, além de uma atitude de compreensão. O narrador, como que minimiza o terror da prática antropógrafa aos olhos do europeu, lembrando que antigos povos da Europa praticaram no passado a mesma infâmia." 16
+
