@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏡 Olá Mariana!.md",
+                "file": "Desagravos do Brasil.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vice-Rei",
+                "query": "ilustrado ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c195449eb9a13397",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏡 Olá Mariana!.md",
+                "file": "Desagravos do Brasil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏡 Olá Mariana!.md",
+                "file": "Desagravos do Brasil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏡 Olá Mariana!.md"
+                "file": "Desagravos do Brasil.md"
               }
             }
           }
@@ -160,32 +161,32 @@
   },
   "active": "b390cc4610385379",
   "lastOpenFiles": [
-    "🏡 Olá Mariana!.md",
     "🛠️ Trabalhos/KANTOR, A disputa da América na historiografia brasílica D. Domingos Loreto Couto e frei Gaspar Madre de Deus.md",
+    "🛠️ Trabalhos/Leitura, História e História da Leitura, Márcia Abreu org.md",
+    "🛠️ Trabalhos/CURTO, Diogo Ramada, Cultura Imperial e Projetos coloniais (séculos XVI a XVIII).md",
+    "🛠️ Trabalhos/Luiz Carlos Villalta Usos do livro no mundo luso-brasileiro sob as luzes, reformas, censura e contestações.md",
+    "🛠️ Trabalhos/MOTA, Isabel Ferreira, Tese A Academia Real da História....md",
     "Desagravos do Brasil.md",
-    "🛠️ Trabalhos/KANTOR Indianismo e Indigenismo na Academia Brasílica dos Renascidos.md",
-    "🆘 Ajuda.md",
-    "🛠️ Trabalhos/Kantor, Íris, Do dilúvio universal ao Pai Tomé.md",
-    "🛠️ Trabalhos/Caramuru Berty Ruth Rothstein Biron.md",
-    "🛠️ Trabalhos/O Índio no Brasil na literatura portuguesa dos séculos XVI, XVII e XVIII.md",
-    "🪶 Citações/silveiraTEATRODOSOUVIDOS2009.md",
-    "🪶 Citações/silveiraBrutescosRascunhosHumana2009.md",
     "🛠️ Trabalhos/De Esquecidos a Renascidos - Historiografia luso-americana, Iris Kantor, tese de doutoramento.md",
     "🛠️ Trabalhos/KANTOR, IRIS História e Historiadores no Brasil.md",
-    "🛠️ Trabalhos/István Jancsó Brasil Formação do Estado Nação.md",
-    "🛠️ Trabalhos/CURTO, Diogo Ramada, Cultura Imperial e Projetos coloniais (séculos XVI a XVIII).md",
-    "🛠️ Trabalhos/As academias literárias e possibilidade de produção do conhecimento autonomia em território colonial, eduardo jose santos borges.md",
-    "📝 Notas/Poder e Instituições em Portugal (séculos XV-XVIII).md",
+    "🛠️ Trabalhos/KANTOR, IRIS Retratos do Império, Trajetórias no mundo portugues..md",
+    "🛠️ Trabalhos/KANTOR, IRIS, A Academia Real de História Portuguesa e a defesa do patrimônio ultramarino. em Modos de Governar.md",
+    "🛠️ Trabalhos/Kantor, Íris, Do dilúvio universal ao Pai Tomé.md",
+    "🛠️ Trabalhos/O Índio no Brasil na literatura portuguesa dos séculos XVI, XVII e XVIII.md",
     "🛠️ Trabalhos/Introdução à literatura no Brasil Afrânio Coutinho.md",
-    "🛠️ Trabalhos/Alencrastro, Luiz Felipe, O Trato dos Viventes, São Paulo, Companhia de Letras, 2000..md",
     "🛠️ Trabalhos/Estes Penhascos, Sérgio Alcides.md",
-    "🛠️ Trabalhos/LAMEGO, Alberto, A Academia Brazilica dos Renascidos, Sua fundação e trabalhos inéditos.md",
-    "📝 Notas/Descobrimentos e Globalização.md",
-    "🛠️ Trabalhos/MOTA, Isabel Ferreira, Tese A Academia Real da História....md",
-    "🪶 Citações/schwartzCeremoniesPublicAuthority2004.md",
-    "🪶 Citações/bentleyCambridgeWorldHistory2015.md",
-    "🛠️ Trabalhos/MOTA, Isabel Ferreira, A Academia Real da História.md",
-    "🛠️ Trabalhos/TAVARES, Rui, O Censor Iluminado.md",
+    "🛠️ Trabalhos/SCHWARTZ, Stuart B., The formation of a Colonial Identity in Brazil.md",
+    "🛠️ Trabalhos/István Jancsó Brasil Formação do Estado Nação.md",
+    "🛠️ Trabalhos/O Governo dos Outros, Poder e Diferença no Império Português, org. Ângela Barreto Xavier e Cristina Nogueira da Silva.md",
+    "🛠️ Trabalhos/ELLIOT JOHN ., Imperios del mundo atlántico.md",
+    "🛠️ Trabalhos/BICALHO, Maria Fernanda, Colónia ou Conquista....md",
+    "🛠️ Trabalhos/A Colonia Portugueza no Brazil, Á literatura portugueza.md",
+    "🛠️ Trabalhos/As academias literárias e possibilidade de produção do conhecimento autonomia em território colonial, eduardo jose santos borges.md",
+    "🛠️ Trabalhos/Alencrastro, Luiz Felipe, O Trato dos Viventes, São Paulo, Companhia de Letras, 2000..md",
+    "🏡 Olá Mariana!.md",
+    "🛠️ Trabalhos/KANTOR Indianismo e Indigenismo na Academia Brasílica dos Renascidos.md",
+    "🆘 Ajuda.md",
+    "🛠️ Trabalhos/Caramuru Berty Ruth Rothstein Biron.md",
     "🖼️ Imagens/Pasted image 20230531041148.png",
     "🖼️ Imagens/Pasted image 20230225193258.png",
     "🖼️ Imagens/liuSpatialTemporalScales2021_W824HPS3.png",
