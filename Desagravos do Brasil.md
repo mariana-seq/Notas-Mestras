@@ -83,3 +83,6 @@ RECLUSAS EM CASA:
 **VIDA MODESTA:** "==De sua caza somente sahião a ouvir Missa, confessar, e commungar na Igreja dos Padres Congregados de S. Felippe Nery, que lhes ficava mais vizinha, e vinhão tão modestamente cobertas, que não se acha quem lhes visse os rostos.== Com húa vida exercitada em raras virtudes foy a morte levando húa depois de outra, e acabarão todas com fama de santidade." 501
 
 LOUVAVEIS PROCEDIMENTOS DE ALGUAS TERCEIRAS DE S FRANCISCO E OUTRAS FO CARMO QUE VESTIRÃO O HABITO DESCUBERTO
+**EXEMPLO DE MARIA JOSÉ:** "Maria Jose, natural do Reciffe, filha de Pays nobres e ricos, desde a primeira idade se applicou aos exercicios da devoção e peni-tencia. Para desengano dos que pertendião o seu cazamento, distribuio pelos pobres a maior parte do seu dote, reservando somente quanto bastasse para húa honesta sustentação da sua familia, e cortando os cabellos, e depondo as galas vestio o habito de Terceira do Carmo; dando-se dalli em diante toda a penitencia, e oração em que gastava a noute, e dia. Não só castigava o seu corpo com asperos cilicios, mas tambem com a aspereza dos jejuns, e disciplinas. Foy muito devota de S. Felippe Nery, e dos Padres da Congregação do Oratorio, a quem imitava nos exercicios espirituaes;" 507
+
+SANTAS OBRAS DE MUITAS MATRONAS QUE NO ESTADO DE CASADA, E VEUVAS FLORECERÃO EM VIRTUDES
