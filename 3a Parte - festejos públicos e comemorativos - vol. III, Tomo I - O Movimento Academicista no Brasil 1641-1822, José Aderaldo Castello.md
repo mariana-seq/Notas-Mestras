@@ -9,6 +9,10 @@ Ficha Catalográfica:
 - Yedda Dias Lima
 
 Materialidade: --
+Contexto: -- 
 
+
+Escolha dos festejos para o trabalho de seminário de Sistema de Saberes na Época Moderna:
+1. Oração Fúnebre que disse o Licenciado Antônio da Silva, [...] nas Exéquias Da Sereníssima Princesa Dona Isabel Luísa Josefa
 
 
