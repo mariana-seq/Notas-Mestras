@@ -19,6 +19,14 @@ Escolha dos festejos para o trabalho de seminário de Sistema de Saberes na Épo
 		4.1; 4.13; 4.15; 4.22; 4. 24; 4.27; 4.55.
 1. Diário Histórico das Celebridades, que na Cidade da Bahia, [...] pelos Felicíssimos Casamentos dos Sereníssimos [...] Príncipes de Portugal, e Castela; [...], José Ferreira de Matos, 1729.
 		10 partes.
-		
+
+
+
+1. Oração Fúnebre que disse o Licenciado Antônio da Silva, [...] nas Exéquias Da Sereníssima Princesa Dona Isabel Luísa Josefa. 
+Que disse o Licenciado Antônio da Silva, Vigário do Recife. Nas exéquias da Sereníssima Princesa Dona Isabel Luisa Josefa celebradas na Misericórdia da Cidade de Olinda, aos 5. de Fevereiro de 1691. Por mandando do Marquês de Montebelo, Governador da Capitania de Pernambuco, e suas anexas.
+Oferece-se à Senhora Dona Luisa Maria de Mendonça, e Sá, Marquesa de Montebelo.
+Lisboa. Com todas a licenças necessárias. Na oficina de Miguel Manescal, Impressor do S. Ofício, Ano M. DC. XCI. p. 51
+
+
 
 
