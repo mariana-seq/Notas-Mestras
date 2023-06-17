@@ -99,4 +99,5 @@ A noite cor, o Céu todo seu lustre." 56-57
 Veni de Libano Sponsa Mea,
 veni de Libano, veni coronaberis. Ex. Cant 4.
 
-"quem havia de dizer, que celebrando eu os aplausos do nosso nascimento no Templo do Salvador, torne agora a pregar as lágrimas das vossas exéquias na Igreja da Misericórdia? Grande lástima, que viva mais quem diz os louvores, que quem os merece! Porém estas mesmas circunstâncias nos podem exugar o pranto: porque a quem teve o Salvador no berço, não podia faltar a Misericórdia no túmulo.
+**Referência ao nascimento**: "quem havia de dizer, que celebrando eu os aplausos do nosso nascimento no Templo do Salvador, torne agora a pregar as lágrimas das vossas exéquias na Igreja da Misericórdia? Grande lástima, que viva mais quem diz os louvores, que quem os merece! ==Porém estas mesmas circunstâncias nos podem exugar o pranto: porque a quem teve o Salvador no berço, não podia faltar a Misericórdia no túmulo. ==" 57
+"Entrastes no mundo assistida de Re
