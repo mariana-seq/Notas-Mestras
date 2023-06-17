@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "009df3478d152217",
+        "id": "8530e8fe4a7804c8",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa6d9c51b278899",
+            "id": "506d146f4134df21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3a Parte - festejos públicos e comemorativos - vol. III, Tomo I - O Movimento Academicista no Brasil 1641-1822, José Aderaldo Castello.md",
+                "file": "🏡 Olá Mariana!.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3a Parte - festejos públicos e comemorativos - vol. III, Tomo I - O Movimento Academicista no Brasil 1641-1822, José Aderaldo Castello.md",
+                "file": "🏡 Olá Mariana!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3a Parte - festejos públicos e comemorativos - vol. III, Tomo I - O Movimento Academicista no Brasil 1641-1822, José Aderaldo Castello.md",
+                "file": "🏡 Olá Mariana!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3a Parte - festejos públicos e comemorativos - vol. III, Tomo I - O Movimento Academicista no Brasil 1641-1822, José Aderaldo Castello.md"
+                "file": "🏡 Olá Mariana!.md"
               }
             }
           }
@@ -159,7 +159,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2aa6d9c51b278899",
+  "active": "506d146f4134df21",
   "lastOpenFiles": [
     "Fontes e documentos/Desagravos do Brasil.md",
     "3a Parte - festejos públicos e comemorativos - vol. III, Tomo I - O Movimento Academicista no Brasil 1641-1822, José Aderaldo Castello.md",
