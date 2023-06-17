@@ -39,6 +39,7 @@ Capelão de Vossa Excelência
 Antônio da Silva.
 
 Sonetos
+(este para a contra-capa)
 "Esta pompa, que vês, ninguém ignora
 Ser tesouro Real, ó caminhante,
 Da pérola melhor, melhor diamante,
@@ -56,4 +57,43 @@ Que a diamantes, pérolas dão vida:
 Renasce em nosso amor com novo espanto;
 Que para em nosso amor ser renascida,
 Tem incêndios o peito, os olhos prantos." 55-56
+
+OUTRO
+"Dos montes con grandeza relevante
+Empenham de la Fama la energia
+Flores el Pindo sustiniendo al dia,
+Cargando estrela a la noche Atlante.
+
+Vos tambien Monte Belo femejante
+A los dos, anque en rara jerarchia;
+A quien vuestra obediencia sustencia,
+Tomais a cargo en vuestra pena amante.
+
+Oy vuestro amor, vuestra obediencia lora
+En urna funeral le Infante Bella,
+Que de la tierra, ya en el Cielo mora.
+
+Y ansi mostrais tener a cargo aquela,
+que el Cielo estima, y que la tierra adora
+Flor en la vida, y en la muerte Estrela." 56
+
+OUTRO
+"A terra, o mar, o Céu, a noite escura;
+Rendendo à vossa mágoa o seu cuidado,
+No túmulo, que erguestes sublimado,
+Serviram de lisonja à dor mais pura;
+
+A terra deu os montes para a altura,
+Para esmaltes a prata o mar salgado,
+Para as tochas a luz o Céu tem dado
+Deu para o mais a noite a cobertura;
+
+Despem-se com razão, nesta tristeza
+A terra o mar, o Céu a noite escassa,
+Porque na morte de Isabel ilustre
+
+Tudo perdeu o ser, tudo a grandeza;
+A terra o mais sublime, o mar e a graça,
+A noite cor, o Céu todo seu lustre." 56-57
+
 
