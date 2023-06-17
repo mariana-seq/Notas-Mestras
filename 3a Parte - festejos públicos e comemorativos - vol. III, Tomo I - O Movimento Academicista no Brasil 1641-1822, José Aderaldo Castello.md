@@ -15,6 +15,8 @@ Contexto: --
 Escolha dos festejos para o trabalho de seminário de Sistema de Saberes na Época Moderna:
 1. Oração Fúnebre que disse o Licenciado Antônio da Silva, [...] nas Exéquias Da Sereníssima Princesa Dona Isabel Luísa Josefa. 
 		7 partes.
-2. 
+2. Diário Histórico das Celebridades, que na Cidade da Bahia, [...] pelos Felicíssimos Casamentos dos Sereníssimos [...] Príncipes de Portugal, e Castela; [...], José Ferreira de Matos, 1729.
+		10 partes.
+		
 
 
