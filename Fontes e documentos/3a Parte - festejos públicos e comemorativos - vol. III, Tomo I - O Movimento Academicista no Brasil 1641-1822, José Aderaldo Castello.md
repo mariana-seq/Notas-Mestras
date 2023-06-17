@@ -39,3 +39,21 @@ Capelão de Vossa Excelência
 Antônio da Silva.
 
 Sonetos
+"Esta pompa, que vês, ninguém ignora
+Ser tesouro Real, ó caminhante,
+Da pérola melhor, melhor diamante,
+Que o Sol criara, e produzira a Aurora.
+
+Penhores são de uma Alma triunfadora
+Que ao Céu subiu, em perfeições brilhante;
+Prendas da formosura de uma Infante,
+Que o mundo admira, e Portugal adora.
+
+Suposto em cinza fosse reduzida,
+Se lágrimas, e ardores podem tanto,
+Que a diamantes, pérolas dão vida:
+
+Renasce em nosso amor com novo espanto;
+Que para em nosso amor ser renascida,
+Tem incêndios o peito, os olhos prantos." 55-56
+
