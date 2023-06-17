@@ -27,6 +27,9 @@ Que disse o Licenciado Antônio da Silva, Vigário do Recife. Nas exéquias da S
 Oferece-se à Senhora Dona Luisa Maria de Mendonça, e Sá, Marquesa de Montebelo.
 Lisboa. Com todas a licenças necessárias. Na oficina de Miguel Manescal, Impressor do S. Ofício, Ano M. DC. XCI. p. 51
 
+Marquesa de Montebelo, digníssima do Senhor Dom Antonio Felix Machado da Silva, e Castro, Marquês de Montebelo, do Conselho de Sua Majestade Senhor, e Donatário das Terras, e Conselho de entre Homem, e Cavado, e das Casas de Castro, de Vasconcelos, e Barroco, e dos Solares delas, Alcaide Mor de Mourão, Comendador, e Alcaide Mor das Comendas, e Vilas do Casal, e Sexo, da Ordem de S. Bento de Avis, e Governador de Pernambuco.
+
+
 
 
 
