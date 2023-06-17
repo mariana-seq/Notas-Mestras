@@ -30,6 +30,7 @@ Lisboa. Com todas a licenças necessárias. Na oficina de Miguel Manescal, Impre
 Marquesa de Montebelo, digníssima do Senhor Dom Antonio Felix Machado da Silva, e Castro, Marquês de Montebelo, do Conselho de Sua Majestade Senhor, e Donatário das Terras, e Conselho de entre Homem, e Cavado, e das Casas de Castro, de Vasconcelos, e Barroco, e dos Solares delas, Alcaide Mor de Mourão, Comendador, e Alcaide Mor das Comendas, e Vilas do Casal, e Sexo, da Ordem de S. Bento de Avis, e Governador de Pernambuco.
 
 
-"Para a singular ação das "
+"Para a singular ação das Exéquias, que o Senhor Marquês de Montebelo celebrou na Igreja da Misericórdia de Olinda às saudosas memórias da Sereníssima Princesa Dona Isabel Luisa Josefa, me tocou ser o Orador: julgando-se seriam as razões, eficazes motivos para o sentimento; sendo que a causa era mais poderosa que todas as razões. E sem duvidar a quem oferecia este papel, que então disse no púlpito, julguei, que a Vossa Excelência precisamente se devia: não só pelo Assunto ser Real, mas também, porque foi Vossa Excelência a Autora deste grande empenho. Porque a obrigação de acompanhar o senhor Marquês a Vossa Excelência na mágoa, foi uma das razões para sair a público com este Monumento, que na grandeza, ostentação, e aparato com que se levantou, se entendeu logo que Vossa Excelência influia nele como seu princípio. E assim levou com público aplauso a glória de ser singular entre todos os que até o presente no Brasil se levantaram." 53
+
 
 
