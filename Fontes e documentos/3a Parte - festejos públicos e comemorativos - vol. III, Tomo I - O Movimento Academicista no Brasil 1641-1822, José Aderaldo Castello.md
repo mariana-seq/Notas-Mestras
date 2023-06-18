@@ -109,7 +109,8 @@ veni de Libano, veni coronaberis. Ex. Cant 4.
 **Na terra era princesa do Estado. virgem mãe da graça para louvar as suas virtudes e encarecer as saudades**: "==Na terra éreis Princesa pelo estado; já agora vos venero Rainha pela coroação. Por isso vos assistiram no dia dos vossos desposórios, não as damas do Paço que deixastes, mas milhares de virgens do palácio que subistes.== E se em tão levantado, e tão sublime sólio vos contemplo, bem podeis começa já a ser invocada dos nossos votos: *Votis assuesce vocari*: ==pedindo a essa maior Senhora do Céu, e da terra, que sendo Virgem Mãe da graça, me assista com ela para louvar vossas virtudes, e para encarecer nossas saudades.==" 58
 Ave Maria.
 
-**Esposa de cristo**: "q==ue admiração nos pode causar escolher o mesmo Senhor do palácio de Portugal a nossa soberana Princesa para ser esposa sua? ==Na de Jerusalém resplandeciam, entre os mais, três extremos admiráveis, por isso a chamou Deus três vezes, disse Casiodoro."
+**Esposa de cristo**: "q==ue admiração nos pode causar escolher o mesmo Senhor do palácio de Portugal a nossa soberana Princesa para ser esposa sua? ==Na de Jerusalém resplandeciam, entre os mais, três extremos admiráveis, por isso a chamou Deus três vezes, disse Casiodoro." 58
+**Virtudes da princesa de jerusálem, que são semelhantes à princesa portuguesa**: "O primeiro era o ==ilustre da geração, como filha do Príncipe daquela corte==: *Filia Principis*. O segundo, o singular da ==formosura com que se fazia agradável toda==: (...). O terceiro,==o sublime da discrição, com que cativava os que a ouviam== (...). E se estas foram as três prendas, que obrigaram a Deus chamar logo da corte de Jerusalém aquela Alma: (...); ==estes foram também os três dotes, com que enriqueceu liberalmente a natureza a nossa Princesa==." 59
 
 
 
