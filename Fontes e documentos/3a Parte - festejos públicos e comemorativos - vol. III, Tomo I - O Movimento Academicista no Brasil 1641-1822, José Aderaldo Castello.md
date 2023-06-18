@@ -106,5 +106,10 @@ veni de Libano, veni coronaberis. Ex. Cant 4.
 **Oração**: "Desta verdade tão mal entendida no mundo deu a razão Salomão: *Extrema gaudii occupat luctus*. Quem na terra chegou a ser extremo para o gosto, *extrema gaudii*, logo declinou a ser desengano para o luto: *uccupat luctus*. Esta mesma pensão pagam os montes; como nasceram mais altos, mais pomposos, e mais celestes, neles se empregam primeiro os raios para os desfazer: *Feriunt fummos fulmina montes.*"
 **Perfeições admiráveis:** "Esta também foi a causa, porque vendo Deus no Líbano, ou na corte de Jerusalém uma Alma adornada de perfeições singulares, logo a tirou do paço, para se desposar com ela no Céu: Veni de Libano sponsa mea. ==Perfeições admiráveis não se formaram para a duração, compuseram-se==" 58
 **Descanso. não cai em esquecimento**: "E assim, ó majestade, ó grandezas, ó prendas, acautelai-vos: que  esses extremos com que vos sublimou a natureza, não diferem do fim com que vos ameaça o tempo. Porém adverti, que se vos chama Deus: Veni; não é para a ruína, ==senão para o prêmio: não é para o estrago, senão para o descanso: não é para o esquecimento, senão para a coroa==: Coronabe ris." 58
+**Na terra era princesa do Estado. virgem mãe da graça para louvar as suas virtudes e encarecer as saudades**: "==Na terra éreis Princesa pelo estado; já agora vos venero Rainha pela coroação. Por isso vos assistiram no dia dos vossos desposórios, não as damas do Paço que deixastes, mas milhares de virgens do palácio que subistes.== E se em tão levantado, e tão sublime sólio vos contemplo, bem podeis começa já a ser invocada dos nossos votos: *Votis assuesce vocari*: ==pedindo a essa maior Senhora do Céu, e da terra, que sendo Virgem Mãe da graça, me assista com ela para louvar vossas virtudes, e para encarecer nossas saudades.==" 58
+Ave Maria.
+
+**Esposa de cristo**: "q==ue admiração nos pode causar escolher o mesmo Senhor do palácio de Portugal a nossa soberana Princesa para ser esposa sua? ==Na de Jerusalém resplandeciam, entre os mais, três extremos admiráveis, por isso a chamou Deus três vezes, disse Casiodoro."
+
 
 
