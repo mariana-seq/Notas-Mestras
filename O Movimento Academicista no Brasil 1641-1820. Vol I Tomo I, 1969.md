@@ -1,0 +1,2 @@
+Introdução
+"antes de tudo, é preciso pensá-las em têrmos peninsulares ibéricos, canalizando, direta ou indiretamente, influências italianas, francesas e inglêsas. Devemos considerar igualmente importante os recursos da colonização quando aos ideais humanísticos e renascentistas que lhe inspiraram os primeiros momentos, ao lado dos estímulos novos da paisagem física e humana da chamada América Portuguêsa, desde então atuando de maneira poderosa na sensibilidade, na imaginativa e por extensão no comportamento afetivo colonizador." VII
