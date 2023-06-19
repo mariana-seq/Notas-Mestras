@@ -118,7 +118,9 @@ Prendas e virtudes da princesa portuguesa, semelhantes a Deus:==**"No sangue ilu
 **Quanto maior as virtudes maior os perigos, pela brevidade da sua duração:** "Até agora conheciam-se as qualidades por árvores; eram mais sublimes as que se representavam em troncos mais levantados; de hoje em diante hão de se medir pelos túmulos. Aquela que com mais pressa corre para ele, essa com maior preço se eleva sobre todas. ==Como os extremos maiores são os que mais perigam, pela brevidade da duração se conhecem melhor os extremos maiores."== 60
 "A geração de Cristo não é admirável pelos princípios que teve, senão pelo pouco que durou na terra" 60
 **A brevidade da vida, assim como cristo, sinal até de virtude:** "Com este notável atributo quis Deus desenganar o ilustre das gerações do mundo; pois conhecendo-se tudo pelas suas causas, quer que a nobreza se conheça pelo seu fim. ==E para que melhor se persuadissem os homens a este desengano, pôs o exemplo no mesmo Cristo, em quem se mediu pela brevidade da vida (...), a nobreza da geração (...)"== 60
-
+Prossegue a falar de cristo...
+**Justificação sobre a morte precoce, dando o exemplo de jesus cristo:** "==**E é esta verdade tão infalível, que quando o soberano, e ilustre nasce, já traz consigo prognósticos para não durar: porque são tantos os títulos, as majestades, as grandezas, com que se ilustram, que não é possível sustentar o peso delas sem cair. Um só título que puseram a Cristo na Cruz: *Erat titulus*, logo lhe fez inclinar a cabeça para não entregar o espírito: *Inclinato capite, traditi spiritum***==." 61
+"que nos mais homens é morte pela desunião da alma, nos Príncipes é queda pela carga dos títulos."
 
 
 
