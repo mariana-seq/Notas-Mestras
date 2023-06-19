@@ -120,7 +120,7 @@ Prendas e virtudes da princesa portuguesa, semelhantes a Deus:==**"No sangue ilu
 **A brevidade da vida, assim como cristo, sinal até de virtude:** "Com este notável atributo quis Deus desenganar o ilustre das gerações do mundo; pois conhecendo-se tudo pelas suas causas, quer que a nobreza se conheça pelo seu fim. ==E para que melhor se persuadissem os homens a este desengano, pôs o exemplo no mesmo Cristo, em quem se mediu pela brevidade da vida (...), a nobreza da geração (...)"== 60
 Prossegue a falar de cristo...
 **Justificação sobre a morte precoce, dando o exemplo de jesus cristo:** "==**E é esta verdade tão infalível, que quando o soberano, e ilustre nasce, já traz consigo prognósticos para não durar: porque são tantos os títulos, as majestades, as grandezas, com que se ilustram, que não é possível sustentar o peso delas sem cair. Um só título que puseram a Cristo na Cruz: *Erat titulus*, logo lhe fez inclinar a cabeça para não entregar o espírito: *Inclinato capite, traditi spiritum***==." 61
-"que nos mais homens é morte pela desunião da alma, nos Príncipes é queda pela carga dos títulos."
-
+**Morte nos comuns vs. morte nos príncipes**: "que nos mais homens é morte pela desunião da alma, nos Príncipes é queda pela carga dos títulos."
+"tantas majestades, tantos títulos, tantas coroas, que nos ascendentes da nossa Real Princesa concorreram para a sua formação, como em tão verdes anos a não fariam cair? (...) Esta é a queixa que tinha Sêneca contra a fortuna dos Príncipes "
 
 
