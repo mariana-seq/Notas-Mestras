@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4800f95f99b25198",
+        "id": "02900f59d4488943",
         "type": "tabs",
         "children": [
           {
-            "id": "e83357d3cbf7847f",
+            "id": "9924227a89ad5161",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "O Movimento Academicista no Brasil 1641-1820. Vol I Tomo I, 1969.md",
+                "file": "🏡 Olá Mariana!.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c195449eb9a13397",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "O Movimento Academicista no Brasil 1641-1820. Vol I Tomo I, 1969.md",
+                "file": "🏡 Olá Mariana!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "O Movimento Academicista no Brasil 1641-1820. Vol I Tomo I, 1969.md",
+                "file": "🏡 Olá Mariana!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "O Movimento Academicista no Brasil 1641-1820. Vol I Tomo I, 1969.md"
+                "file": "🏡 Olá Mariana!.md"
               }
             }
           }
@@ -158,10 +159,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e83357d3cbf7847f",
+  "active": "9924227a89ad5161",
   "lastOpenFiles": [
+    "🛠️ Trabalhos/O Movimento Academicista no Brasil 1641-1820. Vol I Tomo I, 1969.md",
+    "BUESCU Cultura impressa e cultura manuscrita em Portugal na época moderna - uma sondagem.md",
     "🛠️ Trabalhos/Presença da Literatura Brasileira, das origens ao romantismo. Antonio Candido e j. aderaldo castello 9ª ed..md",
-    "O Movimento Academicista no Brasil 1641-1820. Vol I Tomo I, 1969.md",
     "🏡 Olá Mariana!.md",
     "Fontes e documentos/Desagravos do Brasil.md",
     "Fontes e documentos/3a Parte - festejos públicos e comemorativos - vol. III, Tomo I - O Movimento Academicista no Brasil 1641-1822, José Aderaldo Castello.md",
@@ -186,7 +188,6 @@
     "🛠️ Trabalhos/BICALHO, Maria Fernanda, Colónia ou Conquista....md",
     "🛠️ Trabalhos/A Colonia Portugueza no Brazil, Á literatura portugueza.md",
     "🛠️ Trabalhos/As academias literárias e possibilidade de produção do conhecimento autonomia em território colonial, eduardo jose santos borges.md",
-    "🛠️ Trabalhos/Alencrastro, Luiz Felipe, O Trato dos Viventes, São Paulo, Companhia de Letras, 2000..md",
     "🖼️ Imagens/Pasted image 20230531041148.png",
     "🖼️ Imagens/Pasted image 20230225193258.png",
     "🖼️ Imagens/liuSpatialTemporalScales2021_W824HPS3.png",
