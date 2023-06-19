@@ -1,2 +1,3 @@
 Ler História
 "Mas se a tipografia é um desses emblemas, pelos números em jogo e pelas transformações que opera na transmissão da memória e dos saberes, não é menos certo que, por razões várias, e com significados e consequências diversas, a difusão - e a permanência - manuscrita das obras culturais mantém uma expressão assinalável entre os séculos XV e XVIII." 19
+"Mas para além de tudo, o manuscrito, nomeadamente o manuscrito iluminado, mantém um capital simbólico indiscutível, cuja persistência em plena época do impresso radica na sua singularidade e capacidade de solenização e comemoração" 37
