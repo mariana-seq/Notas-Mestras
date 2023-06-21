@@ -160,4 +160,12 @@ Exemplo de Cristo, segundo D. João. "Ó fineza singular de Cristo para com os h
 LAUS DEO
 
 
+2. Breve Compêndio, e Narração do Fúnebre Espetáculo, que na insigne Cidade da Bahia, cabeça da América Portuguesa, se viu na morte de el-Rei Dom Pedro II, de gloriosa memória, Senhor Nosso. 
+Oferecido
+À Majestade do Sereníssimo Senhor
+Dom João V, Rei de Portugal
+Composto por Sebastião Rocha Pita, Fidalgo da Casa de Sua Majestade, Cavaleiro professo da Ordem de Cristo, e Coronel do Regimento da Ordenança da Cidade da Bahia.
+Lisboa, Na Oficina de Valentim da Costa Deslandes, Impressor de Sua Majestade. Com todas as licenças necessárias. Ano 1709.
+
+Senhor.
 
