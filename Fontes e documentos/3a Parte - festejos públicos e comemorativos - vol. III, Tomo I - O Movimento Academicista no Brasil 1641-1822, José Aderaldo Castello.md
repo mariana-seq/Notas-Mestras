@@ -159,3 +159,5 @@ Exemplo de Cristo, segundo D. João. "Ó fineza singular de Cristo para com os h
 **Memória:** "==E em virtude de todos vos prometo, que nas nossas memórias viverá eternamente entalhado o vosso nome, as vossas virtudes, e os vossos louvores== (...). E por todos repetirei com maior razão que Tácito o que ele dizia do seu Agrícola" 72
 LAUS DEO
 
+
+
