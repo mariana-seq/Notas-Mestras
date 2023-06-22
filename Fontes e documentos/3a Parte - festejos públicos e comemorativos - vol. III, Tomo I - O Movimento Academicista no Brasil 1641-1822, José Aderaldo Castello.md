@@ -217,4 +217,6 @@ Do Padre João de Almeida, Capelão das Freiras de Santa Marta.
 "Vistas as informações, podem-se imprimir as Exéquias de que trata esta petição, e impressas tornarão para se conferir, e dar licença que corram e sem ela não correrão. Lisboa 8 de março de 1709."
 
 Do Paço
-"Manda el-Rei nosso Senhor, que Antonio Rodrigues da Costa, Conselheiro Ultramarino, veja este livro, e ponha nele seu parecer. Lisboa, 11 de março de 1709." 88
+"Manda el-Rei nosso Senhor, que Antonio Rodrigues da Costa, Conselheiro Ultramarino, veja este livro, e ponha nele seu parecer. Lisboa, 11 de março de 1709." 88 Oliveira. Carneiro. Lacerda. Botelho.
+
+"Vi este livro composto por Sebastião da Rocha Pita, Fidalgo da Casa de Vossa Majestade, como Vossa Majestade foi servido ordenar-me,  o qual contém uma elegante descrição do magnífico aparato, e demonstrações com que o Governador, e Capitão General do Estado do Brasil Luís César de Menezes, juntamente com o Arcebispo, Clero, e Nobreza da Cidade da Bahia celebrou as Exéquias à memória de el-Rei Dom Pedro II nosso Senhor que está em glória; (...) e me parece o livro não só digno da licença que pede seu Autor para o imprimir, mas que convirá muito que se faça público por este meio, para que na magnificência do aparato com que naquela Metrópole da nova Lusitânia, se solenizaram as últimas honras do nosso Monarca,"
