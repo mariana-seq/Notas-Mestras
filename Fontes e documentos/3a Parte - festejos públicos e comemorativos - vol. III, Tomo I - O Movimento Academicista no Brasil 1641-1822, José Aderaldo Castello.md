@@ -170,5 +170,25 @@ Lisboa, Na Oficina de Valentim da Costa Deslandes, Impressor de Sua Majestade. C
 Senhor.
 **Comparação com imperadores de roma e etc, desumildes**: "Se aqueles Gentios, Cônsules, e Imperadores da antiga Roma, na cegueira da sua idolatria, amando tanto a vaidade dos seus triunfos (...) e se ainda hoje aqueles Príncipes Cismáticos, Imperadores da superior Etiópia, que apenas conservam almas sombras da verdadeira luz, que receberam na primitiva Igreja; no primeiro dia do seu Reinado, e no pomposo aparato do seu passeio, entre as insígnias da sua grandeza levam numas cinzas as lembranças da sua fragilidade (...)." 77
 **D. Pedro, virtudes, cristão, raízes**: "==um Monarca tão Cristão, como Vossa Majestade, em quem a Religião Católica continuada por longa série de Santos, e exemplares Progenitores, com tão profundas raízes vive tão firme, e floresce tão robusta==; não estranhará, que no feliz ingresso do seu Império, entre os arcos triunfais da sua coroação lhe ponha diante nestas memórias fúnebres a representação daquilo, a que se reduzem as maiores grandezas temporais, e as mais bem fundadas glórias humanas: ==tanto mais para ponderar, quanto a vida de el-Rei, que está no Céu, venerado Pai de Vossa Majestade, e muito alto, e poderoso Senhor nosso, assim na fortaleza de Herói, como nas virtudes de Rei, parecia mais permanente, e se supunha mais dilatada==."  77
-"Estas idéias serão os mais seguros troféus das vitórias de Vossa Majestade; e as memórias de el-Rei nosso Senhor os mais formidáveis exércitos contra os êmulos da sua real Coroa. Pois se dos famosos Heróis bastaram só as relíquias para afugentar, e vencer aos seus contrários, como das armas de Aquiles fabularam os Gregos, do espírito de César creram os Romanos, e do cadáver do Cid afirmam os espanhóis: este Mausoléu, que representa o depósito das suas Reais cinzas, posto nos últimos limites do Domínio Lusitano sobrara para terror dos Inimigos, e será o mais firme antemural da Monarquia e até no glorioso carro de Vossa Majestade a melhor coroa do seu triunfo." 77
+**Mausoléu, depósito das reais cinzas**: "Estas idéias serão os mais seguros troféus das vitórias de Vossa Majestade; e as memórias de el-Rei nosso Senhor os mais formidáveis exércitos contra os êmulos da sua real Coroa. Pois se dos famosos Heróis bastaram só as relíquias para afugentar, e vencer aos seus contrários, como das armas de Aquiles fabularam os Gregos, do espírito de César creram os Romanos, e do cadáver do Cid afirmam os espanhóis: ==este Mausoléu, que representa o depósito das suas Reais cinzas, posto nos últimos limites do Domínio Lusitano sobrara para terror dos Inimigos, e será o mais firme antemural da Monarquia e até no glorioso carro de Vossa Majestade a melhor coroa do seu triunfo.==" 77
+**Ressurge como uma Fênix. Saudade. Imagem do Rei**: "Porém, se não acaba quem nos seus Sucessores venturosamente vive; ainda existe el-Rei nosso Senhor: pois tornando em berço o túmulo (como a Ave da Arábia, que num próprio lugar fez sepulcro, e ninho), morreu Fênix em si, para renascer Fênix em Vossa Majestade, cujo amor, e cujos atributos nos mostram propaganda a mesma vida: de tal sorte, que com pouca diferença na cópia, adoramos em Vossa Majestade a própria Imagem; pois ainda que o tempo variasse nos acidentes o objeto, não mudou na sustância a Deidade, ==que hoje domina nos nossos corações com dois impérios, um pela perpétua saudade da sua ausência, outro pela viva representação de Vossa Majestade."== 77-78
+**Monarquia e Império. Representante:** "A cujos reais pés, como a natural centro, correm com as obediências os afetos de todos os seus leais Vassalos, deprecando-lhe nas ações do segundo Pedro a vida do primeiro Afonso; para que a promessa de Deus nosso Senhor feita a esta insigne, e primeiro Rei Português, tenho o último complemento em Vossa Majestade: em quem unidas já misteriosamente as Águias com as Quinas, possam voar, e tremular no âmbito do Mundo; ==donde reduzidas as Idolatrias, e Cismas a uma só Religião, reconheçam no Romano Pontífice uma só Cabeça, e no Império de Vossa Majestade uma só monarquia. A Real Pessoa de Vossa Majestade guarde Deus muitos anos. ==Bahia 3 de dezembro de 1707." 78
 
+"Morre Pedro; oh que dor! mas é mentira, 
+Quando hoje a vossa pena assim discorre,
+Porque renasce Pedro, quando morre,
+Do Túmulo fazendo berço, e pira.
+
+Morto está, mas por fama hoje respira
+Vivo em nós, quando em si na Parca encorre,
+E quanto mais a seu Ocaso corre,
+Tanto mais do Ocidente se retira.
+
+E se a morte é qual bárbara homicida,
+Que sepulta dos homens a memória,
+(Maior morte da fama esclarecida;)
+
+Pois a Pedro hoje dais fama notória,
+Nessa morte vos deve a vós a vida,
+E à vossa pena deve a sua glória ."
+De Francisco de Sousa de Almada
