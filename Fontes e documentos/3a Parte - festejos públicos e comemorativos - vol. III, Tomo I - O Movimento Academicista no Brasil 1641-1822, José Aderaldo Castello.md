@@ -237,6 +237,6 @@ Licenciado Gonçalo Soares da Franca
 Nas exéquias de el-Rei Dom Pedro II Senhor Nosso, Celebradas na Catedral Metropolitana da Cidade da Bahia aos 20 de outubro do ano de 1707
 Que pregou o Muito Reverendo Padre Mestre Domingos Ramos. Religioso da Companhia de Jesus.
 "1- Caiu a coroa da nossa cabeça. Caiu; porque nem as coroas estão isentas de cair do mais alto do trono ao mais baixo do túmulo. Caída terrível, que como universal tributo, devem pagar com encargo inevitável todos os mortais."  118
-"2- "
+"2- Que coroa é esta, que caiu? Respondem os lutos, as sombras, e as tristezas deste aparatoso funeral, que esta coroa caída é o muito alto, e muito poderoso Rei, e Senhor Nosso Dom Pedro Segundo: nome"
 
 
