@@ -277,3 +277,13 @@ Tesoureiro mor da mesma Sé da Bahia.
 Lisboa Ocidental Na oficina de Manoel Fernandes da Costa, Impressor do Santo Ofício.
 
 MDCCXXIX Com todas as licenças necessárias.
+
+Licenças do Santo Ofício.
+"Pode-se imprimir o Diário, de que esta Petição faz menção, e depois de impresso torne para se conferir, e dar licença que corra, e sem a qual não correrá. Lisboa Ocidental 31 de janeiro de 1729.
+Dom João Arcebispo." 146
+
+Do Paço.
+O Padre Mestre Frei Lucas de Santa Catarina, Acadêmico Real, veja este Livro, e interponho nele o seu parecer, o remeta à Mesa. Lisboa Ocidental 1 de fevereiro de 1729.
+
+**Opinião de um licenciado:** "Senhor.
+Vi o Diário das festas da Cidade da Bahia aos felicíssimos Desposórios, celebrados entre as excelsas Coroas de Portugal, e Castela, e não achei coisa, que se oponha ao Real serviço de Vossa Majestade, antes reconheço no Autor o bem meditado acerto (...) de empregar a pena em tão nobre assunto, (...) ==que intenta por meio da estampa se eternize, e se entregue às atenções das posteridade, protestante a mais rendida, e afetuosa sujeição daqueles nobres Estados aos seus Soberanos nos dispêndios, e aparatos de uma ação suntuosamente festiva, em que com singular glória, se viu luzir o zelo e lealdade Portuguesa==." 147
