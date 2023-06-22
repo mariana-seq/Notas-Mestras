@@ -214,4 +214,7 @@ Forçado da saudade, e da memória."
 Do Padre João de Almeida, Capelão das Freiras de Santa Marta.
 
 
-Moniz,
+"Vistas as informações, podem-se imprimir as Exéquias de que trata esta petição, e impressas tornarão para se conferir, e dar licença que corram e sem ela não correrão. Lisboa 8 de março de 1709."
+
+Do Paço
+"Manda el-Rei nosso Senhor, que Antonio Rodrigues da Costa, Conselheiro Ultramarino, veja este livro, e ponha nele seu parecer. Lisboa, 11 de março de 1709." 88
