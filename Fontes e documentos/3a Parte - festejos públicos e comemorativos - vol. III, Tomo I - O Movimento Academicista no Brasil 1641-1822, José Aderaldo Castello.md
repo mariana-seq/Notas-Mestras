@@ -192,3 +192,26 @@ Pois a Pedro hoje dais fama notória,
 Nessa morte vos deve a vós a vida,
 E à vossa pena deve a sua glória ."
 De Francisco de Sousa de Almada
+
+Às Exéquias do Senhor Rei Dom Pedro II que a Bahia celebrou, escritas, e dadas à estampa pelo Coronel Sebastião da Rocha Pita
+"Nessa pompa fatal, que vã numera
+Tantos lutos, e luzes para ornato,
+Avulta mais a dor que o aparato,
+Arde o afeto mais que toda a cera.
+
+Assim obra o Brasil, que o desespera
+A morte do seu Rei: e fora ingrato,
+Se de um tal sentimento no retrato
+Com menores excessos procedera.
+
+Esta pois fina ação já permanente,
+Reduzida por vós a alta história,
+Que admira no elegante, e no eloquente,
+
+Fará que o Reino todo, em maior glória
+De causa tanta, sinta eternamente
+Forçado da saudade, e da memória."
+Do Padre João de Almeida, Capelão das Freiras de Santa Marta.
+
+
+Moniz,
