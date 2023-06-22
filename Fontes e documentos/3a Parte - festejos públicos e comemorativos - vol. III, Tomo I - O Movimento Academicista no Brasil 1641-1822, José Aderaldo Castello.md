@@ -269,3 +269,11 @@ Missionários - ...
 "==E tu, ó Portugal, enquanto as águas do Oceano forem sulcadas pelos teus baixéis: enquanto um, e outro Sol alumiar as terras do teu Império: enquanto durar nos livros a glória, e lustre de tuas empresas; não deixarás de reconhecer, e apregoar, que tiveste neste Rei um grande Rei, coroa do teu Reino, coroa de tuas glórias, e felicidades (...). Não deixarás de aplaudir, e venerar a coroa de suas heróicas virtudes: (...) coroa preciosa nesta vida, mas preciosa na outra==." 138
 
 3. Diário Histórico das Celebridades, que na cidade da Bahia [...] pelos felicíssimos casamentos dos sereníssimos [...] príncipes de Portugal, e Castela; [...] José Ferreira de Matos, 1729.
+Diário Histórico das Celebridades, que na cidade da Bahia se fizeram em ação de graças pelos felicíssimos casamentos dos sereníssimos senhores príncipes de Portugal, e Castela; Dedicado ao Ilustríssimo Senhor Arcebispo da Bahia Dom Luís Álvares de Figueiredo, Metropolitano dos Estados do Brasil, Angola, e São Tomé, do Conselho de Sua Majestade, etc.
+
+Escrito Pelo Licenciado José Ferreira de Matos,
+Tesoureiro mor da mesma Sé da Bahia.
+
+Lisboa Ocidental Na oficina de Manoel Fernandes da Costa, Impressor do Santo Ofício.
+
+MDCCXXIX Com todas as licenças necessárias.
