@@ -287,3 +287,7 @@ O Padre Mestre Frei Lucas de Santa Catarina, Acadêmico Real, veja este Livro, e
 
 **Opinião de um licenciado:** "Senhor.
 Vi o Diário das festas da Cidade da Bahia aos felicíssimos Desposórios, celebrados entre as excelsas Coroas de Portugal, e Castela, e não achei coisa, que se oponha ao Real serviço de Vossa Majestade, antes reconheço no Autor o bem meditado acerto (...) de empregar a pena em tão nobre assunto, (...) ==que intenta por meio da estampa se eternize, e se entregue às atenções das posteridade, protestante a mais rendida, e afetuosa sujeição daqueles nobres Estados aos seus Soberanos nos dispêndios, e aparatos de uma ação suntuosamente festiva, em que com singular glória, se viu luzir o zelo e lealdade Portuguesa==." 147
+
+Diário Histórico
+"Uma das maiores felicidades, ou a suma felicidade, de que gozam as Monarquias do Mundo, ingenuamente falando, é o serem governados por Príncipes nacionais. Este princípio é tão certo, e verdadeiro, que só na falta destes se conhece bem a sua falta." 147
+"Conhecendo pois o Sereníssimo Senhor Rei Dom João V nosso Senhor que da falta de sucessão podem resultar a seus Vassalos as maiores ruínas, que se podem imaginar, determinou, como bom Rei, ainda muito antecipadamente dar ao seu Reino legítimos sucessores, para que desta sorte ditosos Vassalos não experimentem aqueles mesmos trabalhos, e misérias, que sent"
