@@ -238,6 +238,7 @@ Nas exéquias de el-Rei Dom Pedro II Senhor Nosso, Celebradas na Catedral Metrop
 Que pregou o Muito Reverendo Padre Mestre Domingos Ramos. Religioso da Companhia de Jesus.
 "1- Caiu a coroa da nossa cabeça. Caiu; porque nem as coroas estão isentas de cair do mais alto do trono ao mais baixo do túmulo. Caída terrível, que como universal tributo, devem pagar com encargo inevitável todos os mortais."  118
 **Coroa que cai:** "2- Que coroa é esta, que caiu? Respondem os lutos, as sombras, e as tristezas deste aparatoso funeral, que esta coroa caída é o muito alto, e muito poderoso Rei, e Senhor Nosso Dom Pedro Segundo: nome obedecido em tanto número de Reinos, e Províncias nas quatro partes do mundo. E que este mesmo nome tão alto, e soberano, esteja agora tão caído, e descaído no epitáfio de uma sepultura! ==Oh grandezas deste lamentável mundo expostas ao rigor de tão dura fatalidade!=="  118
+"Responde também o tema, que esta coroa caída foi coroa do nosso Reino (...). Rei, que foi a coroa do nosso Reino! Grande Rei perdeste, ó Portugal! (...) A coroa de um Reino é a coroa de suas glórias, e felicidades. Grande Rei, torno a dizer (oh que justo motivo para um penetrante sentimento!) grande Rei, perdeste, ó Portugal! Perdeste um Rei, que foi coroa de teu Reino, coroa de tuas glórias, e felicidades (...)." 118-119
 
 
 
