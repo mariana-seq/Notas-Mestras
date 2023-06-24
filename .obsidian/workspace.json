@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e6e5e64d6bec433c",
+        "id": "aa580d8c1771dadb",
         "type": "tabs",
         "children": [
           {
-            "id": "b9e6165a489eee53",
+            "id": "2513f195838c8097",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c195449eb9a13397",
@@ -159,14 +158,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b9e6165a489eee53",
+  "active": "2513f195838c8097",
   "lastOpenFiles": [
+    "🛠️ Trabalhos/Presença da Literatura Brasileira, das origens ao romantismo. Antonio Candido e j. aderaldo castello 9ª ed..md",
+    "🛠️ Trabalhos/István Jancsó Brasil Formação do Estado Nação.md",
     "🏡 Olá Mariana!.md",
     "Fontes e documentos/Desagravos do Brasil.md",
     "🛠️ Trabalhos/BUESCU A persistência da cultura manuscrita em Portugal nos séculos XVI e XVII.md",
     "🛠️ Trabalhos/BUESCU Cultura impressa e cultura manuscrita em Portugal na época moderna - uma sondagem.md",
     "🛠️ Trabalhos/O Movimento Academicista no Brasil 1641-1820. Vol I Tomo I, 1969.md",
-    "🛠️ Trabalhos/Presença da Literatura Brasileira, das origens ao romantismo. Antonio Candido e j. aderaldo castello 9ª ed..md",
     "Fontes e documentos/3a Parte - festejos públicos e comemorativos - vol. III, Tomo I - O Movimento Academicista no Brasil 1641-1822, José Aderaldo Castello.md",
     "Fontes e documentos",
     "🛠️ Trabalhos/KANTOR, A disputa da América na historiografia brasílica D. Domingos Loreto Couto e frei Gaspar Madre de Deus.md",
@@ -183,7 +183,6 @@
     "🛠️ Trabalhos/Introdução à literatura no Brasil Afrânio Coutinho.md",
     "🛠️ Trabalhos/Estes Penhascos, Sérgio Alcides.md",
     "🛠️ Trabalhos/SCHWARTZ, Stuart B., The formation of a Colonial Identity in Brazil.md",
-    "🛠️ Trabalhos/István Jancsó Brasil Formação do Estado Nação.md",
     "🛠️ Trabalhos/O Governo dos Outros, Poder e Diferença no Império Português, org. Ângela Barreto Xavier e Cristina Nogueira da Silva.md",
     "🛠️ Trabalhos/ELLIOT JOHN ., Imperios del mundo atlántico.md",
     "🛠️ Trabalhos/BICALHO, Maria Fernanda, Colónia ou Conquista....md",
