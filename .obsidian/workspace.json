@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aa580d8c1771dadb",
+        "id": "02d9d08f3f01d36e",
         "type": "tabs",
         "children": [
           {
-            "id": "2513f195838c8097",
+            "id": "5e44a3fd0df1ae2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🛠️ Trabalhos/CURTO, Diogo Ramada, Cultura Imperial e Projetos coloniais (séculos XVI a XVIII).md",
+                "file": "🏡 Olá Mariana!.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c195449eb9a13397",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🛠️ Trabalhos/CURTO, Diogo Ramada, Cultura Imperial e Projetos coloniais (séculos XVI a XVIII).md",
+                "file": "🏡 Olá Mariana!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🛠️ Trabalhos/CURTO, Diogo Ramada, Cultura Imperial e Projetos coloniais (séculos XVI a XVIII).md",
+                "file": "🏡 Olá Mariana!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🛠️ Trabalhos/CURTO, Diogo Ramada, Cultura Imperial e Projetos coloniais (séculos XVI a XVIII).md"
+                "file": "🏡 Olá Mariana!.md"
               }
             }
           }
@@ -158,8 +159,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2513f195838c8097",
+  "active": "5e44a3fd0df1ae2e",
   "lastOpenFiles": [
+    "🛠️ Trabalhos/As academias literárias e possibilidade de produção do conhecimento autonomia em território colonial, eduardo jose santos borges.md",
+    "🛠️ Trabalhos/De Esquecidos a Renascidos - Historiografia luso-americana, Iris Kantor, tese de doutoramento.md",
+    "🛠️ Trabalhos/CURTO, Diogo Ramada, Cultura Imperial e Projetos coloniais (séculos XVI a XVIII).md",
     "Fontes e documentos/3a Parte - festejos públicos e comemorativos - vol. III, Tomo I - O Movimento Academicista no Brasil 1641-1822, José Aderaldo Castello.md",
     "🏡 Olá Mariana!.md",
     "🛠️ Trabalhos/Presença da Literatura Brasileira, das origens ao romantismo. Antonio Candido e j. aderaldo castello 9ª ed..md",
@@ -171,10 +175,8 @@
     "Fontes e documentos",
     "🛠️ Trabalhos/KANTOR, A disputa da América na historiografia brasílica D. Domingos Loreto Couto e frei Gaspar Madre de Deus.md",
     "🛠️ Trabalhos/Leitura, História e História da Leitura, Márcia Abreu org.md",
-    "🛠️ Trabalhos/CURTO, Diogo Ramada, Cultura Imperial e Projetos coloniais (séculos XVI a XVIII).md",
     "🛠️ Trabalhos/Luiz Carlos Villalta Usos do livro no mundo luso-brasileiro sob as luzes, reformas, censura e contestações.md",
     "🛠️ Trabalhos/MOTA, Isabel Ferreira, Tese A Academia Real da História....md",
-    "🛠️ Trabalhos/De Esquecidos a Renascidos - Historiografia luso-americana, Iris Kantor, tese de doutoramento.md",
     "🛠️ Trabalhos/KANTOR, IRIS História e Historiadores no Brasil.md",
     "🛠️ Trabalhos/KANTOR, IRIS Retratos do Império, Trajetórias no mundo portugues..md",
     "🛠️ Trabalhos/KANTOR, IRIS, A Academia Real de História Portuguesa e a defesa do patrimônio ultramarino. em Modos de Governar.md",
@@ -186,7 +188,6 @@
     "🛠️ Trabalhos/O Governo dos Outros, Poder e Diferença no Império Português, org. Ângela Barreto Xavier e Cristina Nogueira da Silva.md",
     "🛠️ Trabalhos/ELLIOT JOHN ., Imperios del mundo atlántico.md",
     "🛠️ Trabalhos/BICALHO, Maria Fernanda, Colónia ou Conquista....md",
-    "🛠️ Trabalhos/A Colonia Portugueza no Brazil, Á literatura portugueza.md",
     "🖼️ Imagens/Pasted image 20230531041148.png",
     "🖼️ Imagens/Pasted image 20230225193258.png",
     "🖼️ Imagens/liuSpatialTemporalScales2021_W824HPS3.png",
