@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "11718934560ab2a1",
+        "id": "25add4e0ecaff691",
         "type": "tabs",
         "children": [
           {
-            "id": "d16bf9202432e480",
+            "id": "05461407357cf89f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ilustrado ",
+                "query": "triunfadora",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c195449eb9a13397",
@@ -159,11 +158,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d16bf9202432e480",
+  "active": "05461407357cf89f",
   "lastOpenFiles": [
-    "🏡 Olá Mariana!.md",
     "🛠️ Trabalhos/Presença da Literatura Brasileira, das origens ao romantismo. Antonio Candido e j. aderaldo castello 9ª ed..md",
     "Fontes e documentos/3a Parte - festejos públicos e comemorativos - vol. III, Tomo I - O Movimento Academicista no Brasil 1641-1822, José Aderaldo Castello.md",
+    "🏡 Olá Mariana!.md",
     "🛠️ Trabalhos/O Governo dos Outros, Poder e Diferença no Império Português, org. Ângela Barreto Xavier e Cristina Nogueira da Silva.md",
     "🛠️ Trabalhos/István Jancsó Brasil Formação do Estado Nação.md",
     "🛠️ Trabalhos/BICALHO, Maria Fernanda, Colónia ou Conquista....md",
