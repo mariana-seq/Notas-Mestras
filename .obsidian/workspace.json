@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "25add4e0ecaff691",
+        "id": "84a5a87219b18b18",
         "type": "tabs",
         "children": [
           {
-            "id": "0cbd825f485bede4",
+            "id": "da03a5b83f7cbdae",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "954fa70e28b81345",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📝 Notas/Dissertação de Mestrado.md",
+                "file": "🏡 Olá Mariana!.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📝 Notas/Dissertação de Mestrado.md",
+                "file": "🏡 Olá Mariana!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📝 Notas/Dissertação de Mestrado.md",
+                "file": "🏡 Olá Mariana!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📝 Notas/Dissertação de Mestrado.md"
+                "file": "🏡 Olá Mariana!.md"
               }
             }
           }
@@ -158,9 +167,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0cbd825f485bede4",
+  "active": "954fa70e28b81345",
   "lastOpenFiles": [
     "Fontes e documentos/3a Parte - festejos públicos e comemorativos - vol. III, Tomo I - O Movimento Academicista no Brasil 1641-1822, José Aderaldo Castello.md",
+    "🛠️ Trabalhos/Caramuru Berty Ruth Rothstein Biron.md",
+    "🪶 Citações/bentleyCambridgeWorldHistory2015.md",
     "📝 Notas/Dissertação de Mestrado.md",
     "🛠️ Trabalhos/LAMEGO, Alberto, A Academia Brazilica dos Renascidos, Sua fundação e trabalhos inéditos.md",
     "Fontes e documentos/Desagravos do Brasil.md",
@@ -185,8 +196,6 @@
     "🛠️ Trabalhos/MOTA, Isabel Ferreira, Tese A Academia Real da História....md",
     "🛠️ Trabalhos/KANTOR, IRIS História e Historiadores no Brasil.md",
     "🛠️ Trabalhos/KANTOR, IRIS Retratos do Império, Trajetórias no mundo portugues..md",
-    "🛠️ Trabalhos/KANTOR, IRIS, A Academia Real de História Portuguesa e a defesa do patrimônio ultramarino. em Modos de Governar.md",
-    "🛠️ Trabalhos/Kantor, Íris, Do dilúvio universal ao Pai Tomé.md",
     "🖼️ Imagens/Pasted image 20230531041148.png",
     "🖼️ Imagens/Pasted image 20230225193258.png",
     "🖼️ Imagens/liuSpatialTemporalScales2021_W824HPS3.png",
