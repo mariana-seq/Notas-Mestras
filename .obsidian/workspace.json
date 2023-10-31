@@ -11,14 +11,6 @@
             "id": "abde315cc172dbc8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "48636e22bb567cee",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "🏡 Olá Mariana!.md",
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +158,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "48636e22bb567cee",
+  "active": "abde315cc172dbc8",
   "lastOpenFiles": [
     "🏡 Olá Mariana!.md",
     "Fontes e documentos/3a Parte - festejos públicos e comemorativos - vol. III, Tomo I - O Movimento Academicista no Brasil 1641-1822, José Aderaldo Castello.md",
