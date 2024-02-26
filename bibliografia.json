@@ -455,6 +455,46 @@
       "select": "zotero://select/library/items/FWGEY9XS"
     },
     {
+      "key": "V6WDVJNM",
+      "version": 0,
+      "itemType": "thesis",
+      "title": "Maquinações da Razão Discreta: Operação historiográfica e experiência do tempo na Classe de Literatura Portuguesa da Academia Real das Ciências de Lisboa (1779-1814).",
+      "date": "2010",
+      "place": "Rio de Janeiro",
+      "university": "Universidade Federal do Rio de Janeiro",
+      "creators": [
+        {
+          "firstName": "Taíse Tatiana Quadros da",
+          "lastName": "SILVA",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [],
+      "relations": [],
+      "dateAdded": "2024-02-21T16:47:40Z",
+      "dateModified": "2024-02-21T16:49:04Z",
+      "uri": "http://zotero.org/users/local/WD6fice8/items/V6WDVJNM",
+      "itemID": 561,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Silva_Taise Quadros_Maquinacoes da Razao Discreta_Operacao historiografica e experiencia do tempo na Classe de Literatura Portuguesa.pdf.crdownload",
+          "tags": [],
+          "relations": [],
+          "dateAdded": "2024-02-21T16:47:05Z",
+          "dateModified": "2024-02-21T16:47:47Z",
+          "uri": "http://zotero.org/users/local/WD6fice8/items/LGESA9TX",
+          "path": "C:\\Users\\maria\\Zotero\\storage\\LGESA9TX\\Silva_Taise Quadros_Maquinacoes da Razao Discreta_Operacao historiografica e experiencia do tempo na Classe de Literatura Portuguesa.pdf.crdownload",
+          "select": "zotero://select/library/items/LGESA9TX"
+        }
+      ],
+      "notes": [],
+      "citationKey": "silvaMaquinacoesRazaoDiscreta2010",
+      "itemKey": "V6WDVJNM",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/V6WDVJNM"
+    },
+    {
       "key": "PUQLMBLB",
       "version": 0,
       "itemType": "thesis",
