@@ -16,3 +16,4 @@ Professora:
 - Construção de um resumo alargado sobre a temática (2/3 páginas), individual. *30%*
 - Participação, comentários. *20%.*
 
+Nota: Vark - questionário sobre como aprender.
