@@ -8,3 +8,11 @@ Professora:
 4. NEE físicas, sensoriais, cognitivas, comportamentais/emocionais e comunicativas.
 5. Desenho universal para a aprendizagem - desenvolvimento de projetos.
 6. Ambientes de aprendizagem inclusivos: Inclusão educativa numa perspectiva curricular. 
+**Metodologias:**
+1. Exposição teórica.
+2. Discussões e dinâmicas em pequenos e grandes grupos de trabalho colaborativo.
+**Avaliação:**
+- Construção de um projeto inclusivo, em grupo. *50%*
+- Construção de um resumo alargado sobre a temática (2/3 páginas), individual. *30%*
+- Participação, comentários. *20%.*
+
