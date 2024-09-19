@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏡 Olá Mariana!.md",
+                "file": "Inclusão e Diversidade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee9121b420e313f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organização de Projetos Educativos em História.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🏡 Olá Mariana!.md",
+                "file": "Organização de Projetos Educativos em História.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🏡 Olá Mariana!.md",
+                "file": "Organização de Projetos Educativos em História.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🏡 Olá Mariana!.md"
+                "file": "Organização de Projetos Educativos em História.md"
               }
             }
           }
@@ -158,9 +171,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "01b1b784da7c8b19",
+  "active": "ee9121b420e313f8",
   "lastOpenFiles": [
     "Inclusão e Diversidade.md",
+    "Organização de Projetos Educativos em História.md",
     "🏡 Olá Mariana!.md",
     "📝 Notas/Sistema de Saberes na Época Moderna.md",
     "📝 Notas/Poder e Instituições em Portugal (séculos XV-XVIII).md",
@@ -186,7 +200,6 @@
     "Fontes e documentos",
     "🛠️ Trabalhos/KANTOR, A disputa da América na historiografia brasílica D. Domingos Loreto Couto e frei Gaspar Madre de Deus.md",
     "🛠️ Trabalhos/Leitura, História e História da Leitura, Márcia Abreu org.md",
-    "🛠️ Trabalhos/Luiz Carlos Villalta Usos do livro no mundo luso-brasileiro sob as luzes, reformas, censura e contestações.md",
     "🖼️ Imagens/Pasted image 20230531041148.png",
     "🖼️ Imagens/Pasted image 20230225193258.png",
     "🖼️ Imagens/liuSpatialTemporalScales2021_W824HPS3.png",
