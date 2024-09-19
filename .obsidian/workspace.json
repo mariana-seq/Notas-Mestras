@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d74772a1724c178b",
+        "id": "abaeb9f155b3c7a8",
         "type": "tabs",
         "children": [
           {
-            "id": "e957f5cda59494de",
+            "id": "01b1b784da7c8b19",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "707e94e5c5cd37c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inclusão e Diversidade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inclusão e Diversidade.md",
+                "file": "🏡 Olá Mariana!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inclusão e Diversidade.md",
+                "file": "🏡 Olá Mariana!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inclusão e Diversidade.md"
+                "file": "🏡 Olá Mariana!.md"
               }
             }
           }
@@ -171,10 +158,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "707e94e5c5cd37c7",
+  "active": "01b1b784da7c8b19",
   "lastOpenFiles": [
-    "🏡 Olá Mariana!.md",
     "Inclusão e Diversidade.md",
+    "🏡 Olá Mariana!.md",
     "📝 Notas/Sistema de Saberes na Época Moderna.md",
     "📝 Notas/Poder e Instituições em Portugal (séculos XV-XVIII).md",
     "📝 Notas/Descobrimentos e Globalização.md",
