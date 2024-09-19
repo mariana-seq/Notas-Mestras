@@ -12,3 +12,5 @@ Assiduidade e participação - 20%
 - No fim: perguntas a nós própios. 3 questões que são guias para os alunos.
 - Bibliografia (q.b)
 - Limite de 4 páginas (excluindo fotos) e 4 fotos 
+- Entrega do trabalho: 5, 12, 19 de dezembro.
+Não temos aula no dia 24 de outubro -» Visita de estudo no dia 9 de novembro às 11 horas.
