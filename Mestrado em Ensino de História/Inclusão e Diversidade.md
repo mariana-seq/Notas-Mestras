@@ -26,3 +26,8 @@ Nota: Vark - questionário sobre como aprender.
 ### Aula 25/09/2024
 
 ![[Captura de ecrã 2024-09-25 184223.png]]
+
+
+![[Pasted image 20240925184442.png]]
+
+
