@@ -1,4 +1,4 @@
-Professora:
+Professora: *Elisabete Fiel*
 
 **Objetivo da disciplina**: aplicar os princípios da inclusão; adquirir conhecimentos sobre as necessidades educativas especiais; desenvolver competências de intervenção educativa; responder às diferenças individuais.
 **Programa:**
@@ -17,3 +17,4 @@ Professora:
 - Participação, comentários. *20%.*
 
 Nota: Vark - questionário sobre como aprender.
+
