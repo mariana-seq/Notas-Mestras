@@ -44,4 +44,8 @@ Nota: Vark - questionário sobre como aprender.
 - Aprendizagens Essenciais (2018), disponíveis em: http://www.dge.mec.pt/aprendizagens-essenciais-0
 - Estratégia Nacional de Educação para a Cidadania (ENEC), disponível em: https://www.dge.mec.pt/noticias/estrategia-nacional-de-educacao-para-cidadania
 - Programa Nacional de Promoção do Sucesso Escolar: https://www.dge.mec.pt/programa-nacional-de-promocao-do-sucesso-escolar
+![[Pasted image 20240925191852.png]]
+
+![[Pasted image 20240925191924.png]]
+
 
