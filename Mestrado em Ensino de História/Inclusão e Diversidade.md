@@ -22,7 +22,7 @@ Professora: *Elisabete Fiel*
 
 Nota: Vark - questionário sobre como aprender.
 
-
+## Sumários
 ### Aula 25/09/2024
 
 ![[Captura de ecrã 2024-09-25 184223.png]]
@@ -32,4 +32,7 @@ Nota: Vark - questionário sobre como aprender.
 
 
 ![[Captura de ecrã 2024-09-25 184535.png]]
+
+![[Pasted image 20240925185432.png]]
+
 
