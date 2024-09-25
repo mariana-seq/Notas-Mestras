@@ -1,7 +1,11 @@
 Professora: *Elisabete Fiel*
+## Programa e Métodos de avaliação
+
+**Padlet**: https://padlet.com/fiel_elisabete/inclus-o-6hxoyma2o7yl
 
 **Objetivo da disciplina**: aplicar os princípios da inclusão; adquirir conhecimentos sobre as necessidades educativas especiais; desenvolver competências de intervenção educativa; responder às diferenças individuais.
 **Programa:**
+
 1. A filosofia da inclusão: perspectiva histórica e atual.
 2. A educação inclusiva no âmbito nacional e internacional: inclusão, diversidade e equidade.
 3. A inclusão na sala de aula: conceitos de necessidades especiais, risco educacional, sobredotação e NEE.
@@ -17,4 +21,6 @@ Professora: *Elisabete Fiel*
 - Participação, comentários. *20%.*
 
 Nota: Vark - questionário sobre como aprender.
+
+
 
