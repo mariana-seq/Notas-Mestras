@@ -31,3 +31,5 @@ Nota: Vark - questionário sobre como aprender.
 ![[Pasted image 20240925184442.png]]
 
 
+![[Captura de ecrã 2024-09-25 184535.png]]
+
