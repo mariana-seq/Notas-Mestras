@@ -37,3 +37,11 @@ Nota: Vark - questionário sobre como aprender.
 
 ![[Pasted image 20240925185736.png]]
 
+**Legislação e compromissos internacionais:**
+- Decreto-Lei n.º 54/2018 de 06 de julho (https://dre.pt/dre/detalhe/decreto-lei/54-2018-115652961),com as alterações introduzidas pela Lei n.º 116/2021, de 13 de setembro (https://www.dge.mec.pt/legislacao-e-circulares)
+- Decreto-Lei n.º 55/2018, de 06 de julho, como retificado pelo Decreto-Lei n.º 70/2021 de 3 de agosto (https://www.dge.mec.pt/sites/default/files/Curriculo/AFC/dl_55_2018_afc.pdf) Perfil dos alunos à Saída da Escolaridade Obrigatória. (2017). Disponível em: https://www.dge.mec.pt/noticias/perfil-dos-alunos-saida-da-escolaridade-obrigatoria
+- Autonomia e Flexibilidade Curricular: http://dge.mec.pt/autonomia-e-flexibilidade-curricular 
+- Aprendizagens Essenciais (2018), disponíveis em: http://www.dge.mec.pt/aprendizagens-essenciais-0
+- Estratégia Nacional de Educação para a Cidadania (ENEC), disponível em: https://www.dge.mec.pt/noticias/estrategia-nacional-de-educacao-para-cidadania
+- Programa Nacional de Promoção do Sucesso Escolar: https://www.dge.mec.pt/programa-nacional-de-promocao-do-sucesso-escolar
+
