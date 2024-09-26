@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f6607ee397153e22",
+        "id": "70271f8e3310faf3",
         "type": "tabs",
         "children": [
           {
-            "id": "fc9f1b304eba5e5e",
+            "id": "fc7229285ac66d1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mestrado em Ensino de História/Inclusão e Diversidade.md",
+                "file": "🏡 Olá Mariana!.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mestrado em Ensino de História/Inclusão e Diversidade.md",
+                "file": "🏡 Olá Mariana!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mestrado em Ensino de História/Inclusão e Diversidade.md",
+                "file": "🏡 Olá Mariana!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mestrado em Ensino de História/Inclusão e Diversidade.md"
+                "file": "🏡 Olá Mariana!.md"
               }
             }
           }
@@ -158,8 +158,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fc9f1b304eba5e5e",
+  "active": "fc7229285ac66d1d",
   "lastOpenFiles": [
+    "Mestrado em Ensino de História/Inclusão e Diversidade.md",
     "🖼️ Imagens/Pasted image 20240925191924.png",
     "🖼️ Imagens/Pasted image 20240925191852.png",
     "🖼️ Imagens/Pasted image 20240925185736.png",
@@ -168,7 +169,6 @@
     "🖼️ Imagens/Pasted image 20240925184442.png",
     "🖼️ Imagens/Captura de ecrã 2024-09-25 184223.png",
     "🆘 Ajuda.md",
-    "Mestrado em Ensino de História/Inclusão e Diversidade.md",
     "Mestrado em Ensino de História/Didática da História I.md",
     "Mestrado em Ensino de História/Psicologia Educacional.md",
     "Mestrado em Ensino de História/Organização de Projetos Educativos em História.md",
@@ -198,7 +198,6 @@
     "🛠️ Trabalhos/BICALHO, Maria Fernanda, Colónia ou Conquista....md",
     "🛠️ Trabalhos/CURTO, Diogo Ramada, Cultura Imperial e Projetos coloniais (séculos XVI a XVIII).md",
     "Fontes e documentos",
-    "🖼️ Imagens/Pasted image 20230531041148.png",
     "Novo Documento de Texto.txt",
     "Nova pasta"
   ]
