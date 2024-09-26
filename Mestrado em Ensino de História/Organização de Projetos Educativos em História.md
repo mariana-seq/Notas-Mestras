@@ -14,3 +14,9 @@ Assiduidade e participação - 20%
 - Limite de 4 páginas (excluindo fotos) e 4 fotos 
 - Entrega do trabalho: 5, 12, 19 de dezembro.
 Não temos aula no dia 24 de outubro -» Visita de estudo no dia 9 de novembro às 11 horas.
+
+17 de outubro - escolha do tema
+20 de dezembro - apresentação à turma
+5 de janeiro - entrega do trabalho escrito
+
+Trabalho escrito individual - 17 de
