@@ -15,6 +15,7 @@ Professora: *Raquel Pereira Henriques*
 - Criticar recursos construídos para alunos do ensino básico e do ensino secundário 
 - Analisar diversos tipos de planificações 
 - Construir planificações e materiais de diversa natureza 
+
 **Conteúdos e programa:**
 1. Da história ao ensino da História
 - A dimensão formativa da disciplina 
@@ -34,7 +35,10 @@ Professora: *Raquel Pereira Henriques*
 - Análise de materiais de diversa natureza 
 - Análise de alguns manuais escolares adotados nas escolas
 5. As planificações e o ensino da História 
+
 **Metodologia:**
 50% de aulas teórico-práticas e 50% de trabalho exclusivamente prático que se sustenta no que foi lido e discutido antecipadamente. 
 As aulas práticas consistem em: Problematização de informação teórica, comentário da legislação fundamental reguladora do processo educativo mas, igualmente, dos documentos curriculares produzidos pela Direção-Geral da Educação. 
 Análise de materiais construídos para trabalhar alguns temas da disciplina com os alunos. Preparação de tempos letivos e produção dos materiais necessários. 
+
+**Critérios de avaliação:**
