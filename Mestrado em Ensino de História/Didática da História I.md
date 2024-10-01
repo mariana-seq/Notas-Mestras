@@ -49,3 +49,5 @@ Critérios de avaliação para correção desta reflexão:
 - Apresentação do tema/ problematização / reflexão sobre aspetos teóricos e práticos do tema escolhido / Argumentação – 10 Valores. 
 - Relação do tema apresentado com a bibliografia de apoio – 5 valores.
 - Exposição escrita. Clareza e correção metodológica do texto – 5 valores. 
+Data de entrega: 12 de novembro,
+
