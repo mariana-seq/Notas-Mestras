@@ -57,3 +57,14 @@ Critérios de avaliação para correção do trabalho:
 - Construção da planificação Articulação dos diferentes elementos que constituem a planificação Adequação da planificação aos documentos curriculares 10 valores
 - Materiais construídos para aplicação das metodologias referidas Originalidade dos recursos apresentados Adaptação ao tema e ao nível etário proposto Aplicação prática 10 valores 
 Prazo de entrega: 07 de janeiro.
+
+## Aula de 17/09/2024
+Mudança de paradigmas: https://www.youtube.com/watch?v=zDZFcDGpL4U
+Escola da Ponte.
+
+## Aula de 24/10/2024
+Lei de Bases do Sistema Educativo: https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1986-34444975
+Perfil dos alunos à saída obrigatória: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.dge.mec.pt/sites/default/files/Curriculo/Projeto_Autonomia_e_Flexibilidade/perfil_dos_alunos.pdf
+
+
+Escolas e Professores,
