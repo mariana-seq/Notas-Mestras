@@ -43,11 +43,17 @@ Análise de materiais construídos para trabalhar alguns temas da disciplina com
 
 **Critérios de avaliação:**
 1- Discussão da legislação, de documentos curriculares e de outros textos fornecidos previamente (corresponde a 20% da classificação final).  
+
 2- Um trabalho individual que consiste numa reflexão escrita sobre uma proposta de trabalho que possa vir a ser implementada numa escola, construindo «pontes» entre a teoria e a prática, ou seja, entre a História-Ciência e a História Ensinada, num máximo de 7 páginas A4, excluindo a bibliografia e eventuais anexos (corresponde a 35% da classificação final).
 Deve optar por um tema da historiografia presente nos documentos curriculares da disciplina de História, refletindo sobre aspetos teóricos do tema mas, também, sobre aspetos práticos, argumentando como é que poderá trabalhar com os alunos aquela temática.  
 Critérios de avaliação para correção desta reflexão: 
 - Apresentação do tema/ problematização / reflexão sobre aspetos teóricos e práticos do tema escolhido / Argumentação – 10 Valores. 
 - Relação do tema apresentado com a bibliografia de apoio – 5 valores.
 - Exposição escrita. Clareza e correção metodológica do texto – 5 valores. 
-Data de entrega: 12 de novembro,
+Prazo de entrega: 12 de novembro.
 
+3- Um trabalho individual que consiste na construção de uma planificação para dois blocos letivos de 90m, incluindo todos os materiais que se utilizariam nessas aulas. Nesta planificação não são contabilizadas visitas de estudo ou outras saídas fora do espaço escolar, tal como não são contabilizados filmes que ocupem uma aula inteira. Este trabalho (que corresponde a 45% da classificação final) é igualmente apresentado aos colegas. 
+Critérios de avaliação para correção do trabalho: 
+- Construção da planificação Articulação dos diferentes elementos que constituem a planificação Adequação da planificação aos documentos curriculares 10 valores
+- Materiais construídos para aplicação das metodologias referidas Originalidade dos recursos apresentados Adaptação ao tema e ao nível etário proposto Aplicação prática 10 valores 
+Prazo de entrega: 07 de janeiro.
