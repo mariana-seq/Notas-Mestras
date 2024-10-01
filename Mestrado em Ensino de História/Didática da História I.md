@@ -42,3 +42,10 @@ As aulas práticas consistem em: Problematização de informação teórica, com
 Análise de materiais construídos para trabalhar alguns temas da disciplina com os alunos. Preparação de tempos letivos e produção dos materiais necessários. 
 
 **Critérios de avaliação:**
+1- Discussão da legislação, de documentos curriculares e de outros textos fornecidos previamente (corresponde a 20% da classificação final).  
+2- Um trabalho individual que consiste numa reflexão escrita sobre uma proposta de trabalho que possa vir a ser implementada numa escola, construindo «pontes» entre a teoria e a prática, ou seja, entre a História-Ciência e a História Ensinada, num máximo de 7 páginas A4, excluindo a bibliografia e eventuais anexos (corresponde a 35% da classificação final).
+Deve optar por um tema da historiografia presente nos documentos curriculares da disciplina de História, refletindo sobre aspetos teóricos do tema mas, também, sobre aspetos práticos, argumentando como é que poderá trabalhar com os alunos aquela temática.  
+Critérios de avaliação para correção desta reflexão: 
+- Apresentação do tema/ problematização / reflexão sobre aspetos teóricos e práticos do tema escolhido / Argumentação – 10 Valores. 
+- Relação do tema apresentado com a bibliografia de apoio – 5 valores.
+- Exposição escrita. Clareza e correção metodológica do texto – 5 valores. 
