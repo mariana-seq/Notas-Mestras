@@ -80,3 +80,5 @@ Entende-se por estilos de aprendizagem o conjunto de traços cognitivos, afetivo
 9. Recursos e ferramentas
 10. Avaliação
 11. Disseminação
+
+T.P.C: escolher um projeto e comentá-lo no padlet?
