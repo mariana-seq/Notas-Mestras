@@ -20,7 +20,7 @@ Professora: *Elisabete Fiel*
 - Construção de um resumo alargado sobre a temática (2/3 páginas), individual. *30%*
 - Participação, comentários. *20%.*
 
-Nota: Vark - questionário sobre como aprender.
+Nota: Vark - questionário sobre como aprender.kkkkk
 
 ## Sumários
 ### Aula 25/09/2024
@@ -49,3 +49,4 @@ Nota: Vark - questionário sobre como aprender.
 ![[Pasted image 20240925191924.png]]
 
 
+## Aula 02/10/2024
