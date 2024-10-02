@@ -61,3 +61,8 @@ Entende-se por estilos de aprendizagem o conjunto de traços cognitivos, afetivo
 ![[Pasted image 20241002182900.png]]
 
 ==Modelo de Felder e Soloman==
+![[Pasted image 20241002183120.png]]
+==Modelo Vark==
+![[Pasted image 20241002183156.png]]
+[Questionário Vark:](https://vark-learn.com/questionario-vark-2/)
+
