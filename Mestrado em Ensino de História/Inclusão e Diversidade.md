@@ -50,3 +50,5 @@ Nota: Vark - questionário sobre como aprender.kkkkk
 
 
 ## Aula 02/10/2024
+![[Pasted image 20241002182359.png]]
+
