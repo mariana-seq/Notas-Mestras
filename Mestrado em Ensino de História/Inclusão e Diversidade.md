@@ -68,3 +68,15 @@ Entende-se por estilos de aprendizagem o conjunto de traços cognitivos, afetivo
 
 ![[Pasted image 20241002183400.png]]
 
+==Criar um projeto...==
+1. Tema
+2. Sumário
+3. Alunos e alunas - Número /Idades
+4. Disciplinas
+5. Objetivos
+6. Integração Curricular
+7. Metodologia
+8. Plano de Ação
+9. Recursos e ferramentas
+10. Avaliação
+11. Disseminação
