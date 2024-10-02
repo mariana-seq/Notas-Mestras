@@ -16,7 +16,7 @@ Professora: *Elisabete Fiel*
 1. Exposição teórica.
 2. Discussões e dinâmicas em pequenos e grandes grupos de trabalho colaborativo.
 **Avaliação:**
-- Construção de um projeto inclusivo, em grupo. *50%*
+- Construção de um projeto inclusivo, em grupo. *50%* - **3 de janeiro**
 - Construção de um resumo alargado sobre a temática (2/3 páginas), individual. *30%*
 - Participação, comentários. *20%.*
 
