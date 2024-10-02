@@ -67,6 +67,5 @@ Lei de Bases do Sistema Educativo: https://diariodarepublica.pt/dr/legislacao-co
 Perfil dos alunos à saída obrigatória: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.dge.mec.pt/sites/default/files/Curriculo/Projeto_Autonomia_e_Flexibilidade/perfil_dos_alunos.pdf
 
 ## Aula de 01/10/2024
-
-
-Escolas e Professores,
+Ver: Escolas e Professores.
+Ver: Decreto de Lei 55 de 2018.
