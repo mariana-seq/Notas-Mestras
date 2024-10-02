@@ -16,7 +16,7 @@ Professora: *Elisabete Fiel*
 1. Exposição teórica.
 2. Discussões e dinâmicas em pequenos e grandes grupos de trabalho colaborativo.
 **Avaliação:**
-- Construção de um projeto inclusivo, em grupo. *50%* - **3 de janeiro**
+- Construção de um projeto inclusivo, em grupo. *50%* - ==3 de janeiro==
 - Construção de um resumo alargado sobre a temática (2/3 páginas), individual. *30%*
 - Participação, comentários. *20%.*
 
@@ -54,3 +54,10 @@ Nota: Vark - questionário sobre como aprender.kkkkk
 
 ![[Pasted image 20241002182526.png]]
 
+![[Pasted image 20241002182647.png]]
+
+==Estilos de aprendizagem:==
+Entende-se por estilos de aprendizagem o conjunto de traços cognitivos, afetivos e fisiológicos que refletem a forma pessoal como os alunos processam a informação, os sentimentos e comportamentos em situações de aprendizagem. Referem-se a preferências e tendências individualizadas, duradouras, que assumem maior predominância na forma como cada aluno aprende e que se referem à forma de se apropriarem da informação, de a processarem e de construírem novos conhecimentos.
+![[Pasted image 20241002182900.png]]
+
+==Modelo de Felder e Soloman==
