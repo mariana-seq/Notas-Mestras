@@ -66,3 +66,5 @@ Entende-se por estilos de aprendizagem o conjunto de traços cognitivos, afetivo
 ![[Pasted image 20241002183156.png]]
 [Questionário Vark:](https://vark-learn.com/questionario-vark-2/)
 
+![[Pasted image 20241002183400.png]]
+
