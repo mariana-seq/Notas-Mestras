@@ -30,3 +30,5 @@ Nota: Não temos aula no dia 24 de outubro -» Visita de estudo no dia 9 de nove
 Ver: *A Fábrica de Cretinos Digitais*
 ## Aula dia 03/10/2024
 vou morrer
+Eugénio Castro Caldas - A História da Agricultura em Portugal
+Estou ENTENDIADA
