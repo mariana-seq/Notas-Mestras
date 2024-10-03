@@ -81,4 +81,4 @@ Entende-se por estilos de aprendizagem o conjunto de traços cognitivos, afetivo
 10. Avaliação
 11. Disseminação
 
-T.P.C: escolher um projeto e comentá-lo no padlet?
+T.P.C: escolher um projeto e(https://school-education.ec.europa.eu/en/teach/project-kits?prefLang=pt). Comentar os projetos dos coleguinhas.

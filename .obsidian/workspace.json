@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ffa3c65e1fe9435c",
+        "id": "cd56d521d408525a",
         "type": "tabs",
         "children": [
           {
-            "id": "7736fe135fc0a876",
+            "id": "9e316ad448e52dc1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mestrado em Ensino de História/Inclusão e Diversidade.md",
+                "file": "🏡 Olá Mariana!.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mestrado em Ensino de História/Inclusão e Diversidade.md",
+                "file": "🏡 Olá Mariana!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mestrado em Ensino de História/Inclusão e Diversidade.md",
+                "file": "🏡 Olá Mariana!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mestrado em Ensino de História/Inclusão e Diversidade.md"
+                "file": "🏡 Olá Mariana!.md"
               }
             }
           }
@@ -158,8 +158,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7736fe135fc0a876",
+  "active": "9e316ad448e52dc1",
   "lastOpenFiles": [
+    "Mestrado em Ensino de História/Inclusão e Diversidade.md",
     "🖼️ Imagens/Pasted image 20241002183400.png",
     "🖼️ Imagens/Pasted image 20241002183156.png",
     "🖼️ Imagens/Pasted image 20241002183120.png",
@@ -168,7 +169,6 @@
     "🛠️ Trabalhos/LAMEGO, Alberto, A Academia Brazilica dos Renascidos, Sua fundação e trabalhos inéditos.md",
     "🛠️ Trabalhos/Polêmicas sobre o Novo Mundo nas Academias Brasílicas.md",
     "🛠️ Trabalhos/O Índio no Brasil na literatura portuguesa dos séculos XVI, XVII e XVIII.md",
-    "Mestrado em Ensino de História/Inclusão e Diversidade.md",
     "🖼️ Imagens/Pasted image 20241002182900.png",
     "Mestrado em Ensino de História/Didática da História I.md",
     "🆘 Ajuda.md",
@@ -181,7 +181,6 @@
     "🖼️ Imagens/Pasted image 20240925191924.png",
     "🖼️ Imagens/Pasted image 20240925191852.png",
     "🖼️ Imagens/Pasted image 20240925185736.png",
-    "🖼️ Imagens/Pasted image 20240925185432.png",
     "Untitled",
     "Mestrado em Ensino de História",
     "📝 Notas/Sistema de Saberes na Época Moderna.md",
