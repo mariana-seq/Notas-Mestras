@@ -28,3 +28,5 @@ Projeto - ***History From Below*** - criação de materiais.
 Nota: Não temos aula no dia 24 de outubro -» Visita de estudo no dia 9 de novembro às 11 horas.
 ## Aula dia 26/09/2024
 Ver: *A Fábrica de Cretinos Digitais*
+## Aula dia 03/10/2024
+vou morrer
