@@ -32,3 +32,4 @@ Ver: *A Fábrica de Cretinos Digitais*
 vou morrer
 Eugénio Castro Caldas - A História da Agricultura em Portugal
 Estou ENTENDIADA
+carlos fernandez líria
