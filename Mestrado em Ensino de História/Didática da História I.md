@@ -69,3 +69,7 @@ Perfil dos alunos à saída obrigatória: chrome-extension://efaidnbmnnnibpcajpc
 ## Aula de 01/10/2024
 Ver: Escolas e Professores.
 Ver: Decreto de Lei 55 de 2018.
+
+## Aula de dia 08/10/2024
+Para fazer BD (ideia de trabalho) https://www.powtoon.com/
+Ver: MRIR
