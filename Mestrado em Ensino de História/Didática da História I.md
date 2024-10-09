@@ -73,3 +73,6 @@ Ver: Decreto de Lei 55 de 2018.
 ## Aula de dia 08/10/2024
 Para fazer BD (ideia de trabalho) https://www.powtoon.com/
 Ver: MRIR
+
+
+27 a 28 de março. atividades.
