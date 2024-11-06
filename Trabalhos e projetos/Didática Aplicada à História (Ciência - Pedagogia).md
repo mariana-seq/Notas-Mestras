@@ -11,3 +11,4 @@
 "O traje fala, sem dúvida." p. 271
 
 **Para além de cetins e damascos em seda. Indumentária dos pobres durante o período barroco em Portugal. Luís Ferreira Gonçalves**
+"Apesar da roupa ser uma necessidade básica do ser humano e condicionar fortemente a performance do corpo" 659
