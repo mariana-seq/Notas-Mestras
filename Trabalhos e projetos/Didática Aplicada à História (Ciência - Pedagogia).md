@@ -18,3 +18,7 @@ a transparência de um bem de primeira necessidade (vestuário) entre dois agent
 "Também constituíam formas operativas de definir a identidade daquele
 que recebia o bem, pois, através dele, se delimitava a sua aparência." 660
 "A instituição [Santa Casa] assumia-se como um catalisador entre o contexto e o sujeito, porque determinando a sua roupa posicionava-se perante as culturas da indumentária vigentes" 660
+=="Estes signos pretendiam que a posição na hierarquia social fosse facilmente comunicada aos diversos atores sociais para que estes a percecionassem, entendessem e respeitassem. Gesto, postura, atributos físicos e vestido tornavam as inúmeras categorias sociais, género, idade, estado civil, grupo social, raça, religião, percetíveis"== 660
+"Por serem uma proclamação de autoridade com impacto económico, os usos da moda e a capacidade de determinados grupos sociais acederem ao uso de certos indumentos/tecidos/adornos foi alvo da atenção normativa dos poderes
+da monarquia ou dos municípios, que, ao longo do período tardo medieval e moderno, promulgaram leis sumptuárias em Portugal 12 e noutras geografias
+europeias." 660
