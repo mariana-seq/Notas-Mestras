@@ -6,3 +6,4 @@ Eneida Bomfim traje....
 "Na Península Ibérica, usavam-se calções bufantes. Os enchimentos eram presos ao forro de tal maneira que a parte exterior ficava bem esticada. O volume não atrapalhava os movimentos. Prendiam-se aos joelhos por fitas. Na parte superior, eram presos à roupa de baixo ou na parte interior do gibão. Estiveram na moda até o século XVII." p. 25
 "A sobreveste mais comum e que nunca saiu de moda desde a Idade Média foi a capa, usada por todas as classes sociais. Era análoga ao manto, este uma peça especial na indumentária medieval, usado em ocasiões solenes, restrito aos nobres e grandes senhores de ambos os sexos." p. 25
 "As camisas, as roupas mais próximas ao corpo, eram feitas de linho e de seda. Os enfeites e lavores localizavam-se exclusivamente em volta do pescoço ou dos punhos e consistiam em bordados com fios de ouro, prata ou seda." p. 29
+""
