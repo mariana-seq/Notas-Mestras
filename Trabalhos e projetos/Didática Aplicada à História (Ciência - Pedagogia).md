@@ -35,4 +35,23 @@ e carapuça; mulheres – coifas, toucas e mantilhas), peças de sobrepor (capas
 (camisas, ceroulas e faixas), meias e calçado (homens - sapatos e botas; mulheres – sapatos, botinas e chinelas). As peças do alto e baixo corpo masculinas (gibões, casacas, roupetas e calções) e femininas (gibões, saias e mantéus) encontravam-se entre as mais representativas." 661
 "O sistema económico e social do Antigo Regime privilegiava têxteis tecidos com fios finos, porque permitiam elaborar vestuário mais confortável e
 luminoso." 
-"Estes resultados evidenciam a pouca permeabilidade de Portugal à revolução na moda provocada pela massifica􀁯􀁭o dos têxteis em algodão."
+"Estes resultados evidenciam a pouca permeabilidade de Portugal à revolução na moda provocada pela massificação dos têxteis em algodão." 661
+=="As roupas apresentavam uma gama de cores alargada, nomeadamente em tons de azul, preto, branco, verde, vermelho e cor de mel. A maioria da indumentária dos pobres foi inventariada como velha ou em mau estado."== 661
+
+=="Estão documentadas as modificações no consumo dos estratos populares resultantes da introdução de têxteis de algodão no mercado urbano,
+que provocaram um abaixamento do preço dos bens de indumentária e a “democratização da moda”.==" 661
+os tamanhos "standard" disponibilização de roupa manufaturada... (mudar a frase) valor reduzido
+"O mercado de segunda mão também era expressivo entre os profissionais que habitualmente labutavam na capital portuguesa."  661
+=="Conforme destacamos, os centros urbanos europeus conheceram o fenómeno da roupa pronto-a-vestir, isto é, a disponibilização de peças novas manufaturadas em medidas padrão que possibilitaram baixar os custos de produção, diminuir os preços de venda e alargar o fornecimento de indumentária nova a um maior número de pessoas."== 662
+"Estas questões assentem problematizar a amplitude e diversidade das estratégias de compra e venda pelos estratos sociais mais desfavorecidos. O mercado em segunda mão, o crédito, o penhor, o furto, a produção doméstica, os bens legados através dos testamentos dos parentes e as esmolas por caridade eram igualmente estruturais aos consumos populares." 662
+"==Vestir era uma das necessidades básicas do ser humano e um dos bens fundamentais à sobrevivência.== É neste sentido que as instituições de assistência assumem um papel determinante na “economia da
+improvisação e na "cultura das aparências", ==pois a dádiva mantinha os corpos sociais agregados no seio de uma hierarquia social proclamada através
+dos símbolos.==" 663
+"A “dimensão básica” compreendia a proteção conferida pela roupa
+em relação ao corpo biológico, pois protegia-o da atmosfera e prevenia a doença." 664
+"Ter ou não ter indumentária era um elemento da definição da pobreza
+segundo o conceito de privação, na medida em que era pobre todo aquele que se encontrava com acesso limitado a um bem essencial (alojamento, alimentação e vestuário)." 664
+=="A “dimensão moral” relacionava-se com a visão religiosa, segundo a qual o corpo nu era a imagem do pecado original; a roupa atuava como recurso para atenuar/esconder essa mácula."== 664
+"A “dimensão económica” compreendia a indumentária como um objeto com um valor patrimonial de natureza acumulável e transacionável." 664/665
+=="A "dimensão social" prescrevia a aparência do corpo vestido uma função de estabilização dos corpos sociais. A roupa encaixava os indivíduos na(s) identidade(s) visíveis entre os estratos conviventes."== 665
+"A moda, como sistema de interpretação da roupa no tempo, pode ser agregadora, enquanto identifica os sujeitos entre si pelos signos comuns, ou segregadora, na medida em que diferencia os grupos pelos símbolos distintos. ==A indumentária conforma a interação entre os sujeitos, o grupo e o contexto na indagação das mensagens emanadas pelos corpos socialmente vestidos.==" 665
