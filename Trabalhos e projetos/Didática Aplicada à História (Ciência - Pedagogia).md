@@ -30,4 +30,6 @@ de diversos acessórios e joias." 661
 "==A possibilidade de variar, o uso de roupa nova, a exposição à moda e, em
 suma, a quantidade, qualidade e o valor económico da indumentária diferenciavam os corpos vestidos na cultura da consideração==." 661
 "Ao longo do período moderno, as pragmáticas portuguesas enfatizaram o dimorfismo sexual pelo comprimento do vestuário e proibiram, na generalidade, o uso de vestes talares a todos os homens, mas estatuíram-nas como privilégio a determinadas profissões intelectuais, como magistrados judiciais, professores e estudantes universitários." 661
-
+"A sua indumentária [pobres que deram entrada no hospital D. Lopo de Almeida] compunha-se de indumentos diversificados com inúmeras funções, nomeadamente coberturas de cabeça (homens - chapéu, sombreiro
+e carapuça; mulheres – coifas, toucas e mantilhas), peças de sobrepor (capas, capotes, ferragoulos e mantos), roupas exteriores, semi-interiores, interiores
+(camisas, ceroulas e faixas), meias e calçado (homens - sapatos e botas; mulheres – sapatos, botinas e chinelas). As peças do alto e baixo corpo masculinas (gibões, casacas, roupetas e calções) e femininas (gibões, saias e mantéus) encontravam-se entre as mais representativas." 661
