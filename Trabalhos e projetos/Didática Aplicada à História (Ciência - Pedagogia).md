@@ -14,3 +14,7 @@
 "Apesar da roupa ser uma necessidade básica do ser humano e condicionar fortemente a performance do corpo" 659
 "Esta investigação abrangeu um dos recursos principais da construção da aparência das camadas populares (esmola), e, através dela, problematizamos
 a transparência de um bem de primeira necessidade (vestuário) entre dois agentes com poder desigual." 660
+"Defendemos a tese de que os objetos de indumentária transferidos no âmbito das relações hierarquizadas, desiguais e polarizadas, sintetizavam, através da dádiva, vínculos de poder e redes de capital social entre os envolvidos na troca." 660
+"Também constituíam formas operativas de definir a identidade daquele
+que recebia o bem, pois, através dele, se delimitava a sua aparência." 660
+"A instituição [Santa Casa] assumia-se como um catalisador entre o contexto e o sujeito, porque determinando a sua roupa posicionava-se perante as culturas da indumentária vigentes" 660
