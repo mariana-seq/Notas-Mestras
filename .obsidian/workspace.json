@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏡 Olá Mariana!.md",
+                "file": "Mestrado em Ensino de História/Didática da História I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🏡 Olá Mariana!"
+              "title": "Didática da História I"
+            }
+          },
+          {
+            "id": "b7dd5ff4ef3a43c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trabalhos e projetos/Didática Aplicada à História (Ciência - Pedagogia).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Didática Aplicada à História (Ciência - Pedagogia)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c195449eb9a13397",
@@ -176,13 +192,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2c05950a2c6351aa",
+  "active": "b7dd5ff4ef3a43c6",
   "lastOpenFiles": [
+    "Mestrado em Ensino de História/Didática da História I.md",
+    "Trabalhos e projetos/Didática Aplicada à História (Ciência - Pedagogia).md",
+    "Trabalhos e projetos",
+    "Fontes e documentos/Desagravos do Brasil.md",
+    "Fontes e documentos/3a Parte - festejos públicos e comemorativos - vol. III, Tomo I - O Movimento Academicista no Brasil 1641-1822, José Aderaldo Castello.md",
+    "🏡 Olá Mariana!.md",
     "📝 Notas/Descobrimentos e Globalização.md",
     "📝 Notas/Sistema de Saberes na Época Moderna.md",
     "📝 Notas/Poder e Instituições em Portugal (séculos XV-XVIII).md",
-    "🏡 Olá Mariana!.md",
-    "Mestrado em Ensino de História/Didática da História I.md",
     "Mestrado em Ensino de História/Organização de Projetos Educativos em História.md",
     "Mestrado em Ensino de História/Inclusão e Diversidade.md",
     "Mestrado em Ensino de História/Psicologia Educacional.md",
@@ -190,7 +210,6 @@
     "🖼️ Imagens/Pasted image 20241002183156.png",
     "🖼️ Imagens/Pasted image 20241002183120.png",
     "🛠️ Trabalhos/TAVARES, Rui, O Censor Iluminado.md",
-    "Fontes e documentos/3a Parte - festejos públicos e comemorativos - vol. III, Tomo I - O Movimento Academicista no Brasil 1641-1822, José Aderaldo Castello.md",
     "🛠️ Trabalhos/LAMEGO, Alberto, A Academia Brazilica dos Renascidos, Sua fundação e trabalhos inéditos.md",
     "🛠️ Trabalhos/Polêmicas sobre o Novo Mundo nas Academias Brasílicas.md",
     "🛠️ Trabalhos/O Índio no Brasil na literatura portuguesa dos séculos XVI, XVII e XVIII.md",
@@ -202,7 +221,6 @@
     "🖼️ Imagens/Pasted image 20240925191924.png",
     "🖼️ Imagens/Pasted image 20240925191852.png",
     "🖼️ Imagens/Pasted image 20240925185736.png",
-    "Untitled",
     "Mestrado em Ensino de História",
     "🛠️ Trabalhos/Leitura, História e História da Leitura, Márcia Abreu org.md",
     "🛠️ Trabalhos/MOTA, Isabel Ferreira, Tese A Academia Real da História....md",
@@ -211,7 +229,6 @@
     "🛠️ Trabalhos/Caramuru Berty Ruth Rothstein Biron.md",
     "🪶 Citações/bentleyCambridgeWorldHistory2015.md",
     "📝 Notas/Dissertação de Mestrado.md",
-    "Fontes e documentos/Desagravos do Brasil.md",
     "🛠️ Trabalhos/A Colonia Portugueza no Brazil, Á literatura portugueza.md",
     "🪶 Citações/silveiraTEATRODOSOUVIDOS2009.md",
     "🛠️ Trabalhos/Presença da Literatura Brasileira, das origens ao romantismo. Antonio Candido e j. aderaldo castello 9ª ed..md",
