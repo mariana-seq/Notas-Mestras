@@ -12,3 +12,5 @@
 
 **Para além de cetins e damascos em seda. Indumentária dos pobres durante o período barroco em Portugal. Luís Ferreira Gonçalves**
 "Apesar da roupa ser uma necessidade básica do ser humano e condicionar fortemente a performance do corpo" 659
+"Esta investigação abrangeu um dos recursos principais da construção da aparência das camadas populares (esmola), e, através dela, problematizamos
+a transparência de um bem de primeira necessidade (vestuário) entre dois agentes com poder desigual." 660
