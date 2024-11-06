@@ -26,6 +26,8 @@ europeias." 660
 quantidade da roupa interior; abundância de peças de uso público – como capas e mantos; utilização de indumentos elaborados com têxteis finos tingidos
 com cores luminosas e densas, uso de rendas, fitas, passamanarias e fios de metais preciosos na decoração dos elementos estruturais (casas dos botões, debruns ou bandas das peças) preferência por peças forradas
 que garantiam a estruturação da silhueta; acumulação
-de diversos acessórios e joias." 660
+de diversos acessórios e joias." 661
 "==A possibilidade de variar, o uso de roupa nova, a exposição à moda e, em
-suma, a quantidade, qualidade e o valor económico da indumentária diferenciavam os corpos vestidos na cultura da consideração==." 660
+suma, a quantidade, qualidade e o valor económico da indumentária diferenciavam os corpos vestidos na cultura da consideração==." 661
+"Ao longo do período moderno, as pragmáticas portuguesas enfatizaram o dimorfismo sexual pelo comprimento do vestuário e proibiram, na generalidade, o uso de vestes talares a todos os homens, mas estatuíram-nas como privilégio a determinadas profissões intelectuais, como magistrados judiciais, professores e estudantes universitários." 661
+
