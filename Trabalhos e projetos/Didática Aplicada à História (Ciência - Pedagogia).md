@@ -9,3 +9,5 @@
 
 **Maria José Palla, Traje e semiótica**
 "O traje fala, sem dúvida." p. 271
+
+**Para além de cetins e damascos em seda. Indumentária dos pobres durante o período barroco em Portugal. Luís Ferreira Gonçalves**
