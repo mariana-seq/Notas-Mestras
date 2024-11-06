@@ -33,3 +33,6 @@ suma, a quantidade, qualidade e o valor económico da indumentária diferenciava
 "A sua indumentária [pobres que deram entrada no hospital D. Lopo de Almeida] compunha-se de indumentos diversificados com inúmeras funções, nomeadamente coberturas de cabeça (homens - chapéu, sombreiro
 e carapuça; mulheres – coifas, toucas e mantilhas), peças de sobrepor (capas, capotes, ferragoulos e mantos), roupas exteriores, semi-interiores, interiores
 (camisas, ceroulas e faixas), meias e calçado (homens - sapatos e botas; mulheres – sapatos, botinas e chinelas). As peças do alto e baixo corpo masculinas (gibões, casacas, roupetas e calções) e femininas (gibões, saias e mantéus) encontravam-se entre as mais representativas." 661
+"O sistema económico e social do Antigo Regime privilegiava têxteis tecidos com fios finos, porque permitiam elaborar vestuário mais confortável e
+luminoso." 
+"Estes resultados evidenciam a pouca permeabilidade de Portugal à revolução na moda provocada pela massifica􀁯􀁭o dos têxteis em algodão."
