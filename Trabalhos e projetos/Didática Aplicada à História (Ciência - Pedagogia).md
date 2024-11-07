@@ -67,4 +67,4 @@ segundo o conceito de privação, na medida em que era pobre todo aquele que se 
 "devido ao Terremoto, pouco ou nada chegou até nós do mobiliário, da ourivesaria ou dos trajos usados na Corte." 967
 "Quando os reis apareciam em público, as suas equipagens e os seus trajos eram magníficos, sobretudo quando se tratava de festas religiosas." 967
 "Todas as testemunhas parecem estar de acordo em que tanto a família real como os nobres vestem bem, de acordo com a moda francesa, sendo o guarda-roupa real mesmo excessivamente rico" 967
-
+""
