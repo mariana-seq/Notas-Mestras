@@ -37,5 +37,7 @@ carlos fernandez líria
 Escola Queremos: ver
 
 Visita de Estudo
-1. Falar do tema, o que vamos fazer, etc...
-2. 
+ 1. Parte regulamentar da escola (orçamento,)
+ 2. Ter em conta se o tema está adequada às idades.
+ 3. Falar do tema, o que vamos fazer, etc...
+ 4. Planificar a visita
