@@ -40,4 +40,8 @@ Visita de Estudo
  1. Parte regulamentar da escola (orçamento,)
  2. Ter em conta se o tema está adequada às idades.
  3. Falar do tema, o que vamos fazer, etc...
- 4. Planificar a visita
+ 4. Planificar a visita (ver se já tem serviço educativo incluído)
+
+
+	Museu do Neorrealismo (exemplo)
+	Museu do Trabalho
