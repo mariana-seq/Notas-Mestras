@@ -61,3 +61,9 @@ segundo o conceito de privação, na medida em que era pobre todo aquele que se 
 "Os vestidos deixaram de ser usados por inteiro e passaram a ser compostos por corpete e saia em cores diversas." 19
 "Com o advento do novo rococó, a partir do ano de 1835, após o período Miguelista, o vestuário feminino acabar por perder um pouco da sua graciosidade. Nesta fase, os vestidos foram alongados até ao chão e passaram a esconder os pés e o calçado, que até então eram visíveis." 22
 "Por volta de 1820 o traje masculino seguia, na medida do possível, devido à instabilidade ainda reinante, a mesma evolução do período anterior, passando no entanto a sofrer maiores alterações a partir deste momento." 24
+
+**Arte e Sociedade na Época de D. João V. Maria Margarida Teixeira Barradas Calado**
+"O estilo de vida na Corte joanina implicava uma pompa, aparato e etiqueta idênticos, por exemplo, ao da Corte de Luís XIV," 967
+"devido ao Terremoto, pouco ou nada chegou até nós do mobiliário, da ourivesaria ou dos trajos usados na Corte." 967
+"Quando os reis apareciam em público, as suas equipagens e os seus trajos eram magníficos, sobretudo quando se tratava de festas religiosas." 967
+"Todas as testemunhas parecem estar de acordo em que tanto a família real como os nobres vestem bem, de acordo com a moda francesa, sendo o guarda-roupa real mesmo excessivamente rico" 967
