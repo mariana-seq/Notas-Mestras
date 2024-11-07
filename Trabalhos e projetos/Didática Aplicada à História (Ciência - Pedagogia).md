@@ -55,3 +55,7 @@ segundo o conceito de privação, na medida em que era pobre todo aquele que se 
 "A “dimensão económica” compreendia a indumentária como um objeto com um valor patrimonial de natureza acumulável e transacionável." 664/665
 =="A "dimensão social" prescrevia a aparência do corpo vestido uma função de estabilização dos corpos sociais. A roupa encaixava os indivíduos na(s) identidade(s) visíveis entre os estratos conviventes."== 665
 "A moda, como sistema de interpretação da roupa no tempo, pode ser agregadora, enquanto identifica os sujeitos entre si pelos signos comuns, ou segregadora, na medida em que diferencia os grupos pelos símbolos distintos. ==A indumentária conforma a interação entre os sujeitos, o grupo e o contexto na indagação das mensagens emanadas pelos corpos socialmente vestidos.==" 665
+
+**A Moda em Portugal, Valter Carlos Cardim - 1807 a 1914, Valter Carlos Cardim**
+"Em termos de vestuário, com o advento da primeira Constituição, em 1820, dá-se início a um novo ciclo, adoptando-se como moda as cores por ela promulgadas, ou seja, o azul e o branco." 18
+"Os vestidos deixaram de ser usados por inteiro e passaram a ser compostos por corpete e saia em cores diversas." 19
