@@ -36,12 +36,14 @@ carlos fernandez líria
 
 Escola Queremos: ver
 
-Visita de Estudo
+## Aula dia 07/11/2024
+Guia de uma visita de Estudo
  1. Parte regulamentar da escola (orçamento,)
  2. Ter em conta se o tema está adequada às idades.
  3. Falar do tema, o que vamos fazer, etc...
  4. Planificar a visita (ver se já tem serviço educativo incluído)
-
+ 5. Dar-lhes algum objetivo para que mobilizem a sua atenção no sentido das aprendizagens.
+ 6. Balanço (em sala de aula)
 
 	Museu do Neorrealismo (exemplo)
 	Museu do Trabalho
