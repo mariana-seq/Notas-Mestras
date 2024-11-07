@@ -67,4 +67,7 @@ segundo o conceito de privação, na medida em que era pobre todo aquele que se 
 "devido ao Terremoto, pouco ou nada chegou até nós do mobiliário, da ourivesaria ou dos trajos usados na Corte." 967
 "Quando os reis apareciam em público, as suas equipagens e os seus trajos eram magníficos, sobretudo quando se tratava de festas religiosas." 967
 "Todas as testemunhas parecem estar de acordo em que tanto a família real como os nobres vestem bem, de acordo com a moda francesa, sendo o guarda-roupa real mesmo excessivamente rico" 967
-""
+"Sendo o referido álbum unta colecção de gravuras de moda [Sinphonie
+du Tympanam du luth et de la flute d'Allemâgne], mais uma vez se demonstra a relação existente entre a moda e o azulejo, como fonte iconográfica para o seu estudo." 1029
+
+
