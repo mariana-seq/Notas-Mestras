@@ -60,3 +60,4 @@ segundo o conceito de privação, na medida em que era pobre todo aquele que se 
 "Em termos de vestuário, com o advento da primeira Constituição, em 1820, dá-se início a um novo ciclo, adoptando-se como moda as cores por ela promulgadas, ou seja, o azul e o branco." 18
 "Os vestidos deixaram de ser usados por inteiro e passaram a ser compostos por corpete e saia em cores diversas." 19
 "Com o advento do novo rococó, a partir do ano de 1835, após o período Miguelista, o vestuário feminino acabar por perder um pouco da sua graciosidade. Nesta fase, os vestidos foram alongados até ao chão e passaram a esconder os pés e o calçado, que até então eram visíveis." 22
+"Por volta de 1820 o traje masculino seguia, na medida do possível, devido à instabilidade ainda reinante, a mesma evolução do período anterior, passando no entanto a sofrer maiores alterações a partir deste momento." 24
