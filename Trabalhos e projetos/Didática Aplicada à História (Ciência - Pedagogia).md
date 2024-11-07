@@ -71,3 +71,4 @@ segundo o conceito de privação, na medida em que era pobre todo aquele que se 
 du Tympanam du luth et de la flute d'Allemâgne], mais uma vez se demonstra a relação existente entre a moda e o azulejo, como fonte iconográfica para o seu estudo." 1029
 
 
+
