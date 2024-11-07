@@ -35,3 +35,7 @@ Estou ENTENDIADA
 carlos fernandez líria
 
 Escola Queremos: ver
+
+Visita de Estudo
+1. Falar do tema, o que vamos fazer, etc...
+2. 
