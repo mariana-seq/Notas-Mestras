@@ -69,6 +69,6 @@ segundo o conceito de privação, na medida em que era pobre todo aquele que se 
 "Todas as testemunhas parecem estar de acordo em que tanto a família real como os nobres vestem bem, de acordo com a moda francesa, sendo o guarda-roupa real mesmo excessivamente rico" 967
 "Sendo o referido álbum unta colecção de gravuras de moda [Sinphonie
 du Tympanam du luth et de la flute d'Allemâgne], mais uma vez se demonstra a relação existente entre a moda e o azulejo, como fonte iconográfica para o seu estudo." 1029
-
-
+"verificamos que o penteado em caracóis sobrepostos, a que Matos Sequeira chama de "trouxas", é ornamentado por uma joia e já bastante diferente da fontange, acentuando no entanto, a verticalidade da cabeça, aparecendo igualmente a sugestão de duplo queixo, de acordo com os cânones de beleza da época." 1029
+"O vestido de mangas largas, descobrindo a camisa com folhos de renda e grande decote parece indicar uma maior liberdade de movimentos." 1030
 
