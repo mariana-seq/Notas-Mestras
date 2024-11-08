@@ -99,3 +99,6 @@ final do século XVIII."== 1031
 por inteiro, como a cota52 e o saio53 l. (sayo ou brial, com corpo e saia); nas de sobrepor conta-se a galera, a roupa54 n. ou o roupão, nas de apoiar temos a mantilha55 g., o manto56 h. ‑p. e a capa, e nas inferiores o mantéu57 b. ou fraldelim, o verdugado58 f. e a vasquinha59 j., que se lhes sobrepunha." 102-103
 "Para além da lei, nesse mesmo dia fez o rei publicar uma provisão pela qual
 esclarece das penas em que cada um incorreria caso se desse por provado o seu incumprimento (quer os que usassem das coisas defesas como os que as fizessem de novo ou as consertassem), do trâmite legal que o feito crime levaria, das responsabilidades dos meirinhos e alcaides de todo o reino ou mesmo do destino a dar aos objectos defesos apreendidos". 104
+
+"Mas voltemos ao primeiro texto legal. O preâmbulo da lei de 1609 é claro quanto às motivações e cabimento de uma nova lei sumptuária dada (…) a grande demasia e excesso que ha nos trajes e feitio deles (…) e referindo -se às leis dos reis seus antecessores, que (…) todas não bastaram, para deixar de haver os ditos excessos (…), o que, em grande medida, corresponde a um topos legal muitas vezes repetido." 105
+""
