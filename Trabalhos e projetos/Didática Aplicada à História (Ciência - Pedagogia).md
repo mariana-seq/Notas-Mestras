@@ -67,8 +67,22 @@ segundo o conceito de privação, na medida em que era pobre todo aquele que se 
 "devido ao Terremoto, pouco ou nada chegou até nós do mobiliário, da ourivesaria ou dos trajos usados na Corte." 967
 "Quando os reis apareciam em público, as suas equipagens e os seus trajos eram magníficos, sobretudo quando se tratava de festas religiosas." 967
 "Todas as testemunhas parecem estar de acordo em que tanto a família real como os nobres vestem bem, de acordo com a moda francesa, sendo o guarda-roupa real mesmo excessivamente rico" 967
-"Sendo o referido álbum unta colecção de gravuras de moda [Sinphonie
-du Tympanam du luth et de la flute d'Allemâgne], mais uma vez se demonstra a relação existente entre a moda e o azulejo, como fonte iconográfica para o seu estudo." 1029
+=="Sendo o referido álbum unta colecção de gravuras de moda [Sinphonie
+du Tympanam du luth et de la flute d'Allemâgne], mais uma vez se demonstra a relação existente entre a moda e o azulejo, como fonte iconográfica para o seu estudo."== 1029
 "verificamos que o penteado em caracóis sobrepostos, a que Matos Sequeira chama de "trouxas", é ornamentado por uma joia e já bastante diferente da fontange, acentuando no entanto, a verticalidade da cabeça, aparecendo igualmente a sugestão de duplo queixo, de acordo com os cânones de beleza da época." 1029
 "O vestido de mangas largas, descobrindo a camisa com folhos de renda e grande decote parece indicar uma maior liberdade de movimentos." 1030
-
+"A estes vestidos sucederam-se, de novo, os que acentuavam o busto delgado, através de barbas de baleia, e de uma cintura baixa, terminando era V, conto se encontra no retrato da Rainha D. Maria Ana de Áustria, pertencente à colecção do Conde de S. Tiago, ou o de D. Maria Bárbara, existente n Museu do Prado." 1030/1031
+"Para acentuar o adelgaçamento da cintura, alargaram-se as ancas através de
+uma armação artificial, que era colocada sob o vestido, o *panier*. A armação era igualmente de barbas de baleia, sobre a qual se punha uma saída de baixo (polheira) e a de cima, em seda. " 1031
+=="A princípio estes vestidos criavam uma silhueta arredondada, mas, a partir de 1733, em França, esta é substituída por un *panier* achatado atrás, e que
+acentua a linha horizontal das ancas. Esta moda deve ter ainda tardado a chegar a Portugal, sendo, no entanto, visível, no retrato da Infanta D. Carlota Joaquina, futura mulher de D. João VI, que está no Museu do Prado, já do
+final do século XVIII."== 1031
+"As cabeleiras, embora postiças e empoadas, são de formato reduzido, adornadas com lagos e flores. No alto, usava-se uma jóia oscilante, designada por *tremulo*." 1031
+- Retratos de D. Maria de Áustria, quer nos de D. Maria Bárbara
+- D. Maria Bárbara;
+- D. Mariana Vitória, pintado por Jean Ranc, em 1725, talvez por a infanta ser mais novinha, mostra um penteado ornamentado com flores." 1031
+=="Também o vestuário feminino é enriquecido com joias: brincos, anéis, broches e pulseiras, em que as pérolas são frequentes, aparecem em quase todos os retratos régios."== 1031
+- Peitoral/laça, do primeiro quartel do século XVIII, em prata, brilhantes e esmeraldas, que é tradição ter pertencido a D. Maria Ana de Áustria, e que aparece num retrato da sua neta, segunda filha de D. José, a infanta D. Maria Francisca Josefa.
+"Os retratos de aparato da rainha mostram ainda, tal como os do rei, o manto forrado a pele, mas deixando normalmente os ombros descobertos, como acontece no da colecção do Museu Nacional dos Coches." 1032
+=="Os vestidos de cintura estreita e grande decote, que estiveram em moda no segundo quartel do século XVIII, aparecem igualmente nalguns azulejos, representando cagadas e cenas galantes."== 1032
+"em que se vêem os homens com os usuais véstia, colete e calção, e cabeleiras baixas, quando as usam." 1032
