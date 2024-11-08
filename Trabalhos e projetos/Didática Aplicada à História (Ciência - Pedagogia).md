@@ -92,4 +92,5 @@ final do século XVIII."== 1031
 =="No entanto, e segundo o que nos foi dado averiguar, a moda portuguesa da Corte - entendendo-se por tal a nobreza que vivia em Lisboa, na entourage do rei - vestia bem, de acordo com a moda francesa, que aqui chegava com a possível brevidade." ==1035
 "É também de salientar que dada a vida relativamente reservada das damas, as fontes relativas ao seu vestuário, nomeadamente as de carácter documental, são bastante mais escassas." 1035
 "A importação de vestuário de Franga insere-se no gosto da época, que procurava actualizar o país, isolado demasiado tempo, relativamente às nações mais avançadas da Europa." 1036
-""
+
+**Trajar as Aparências, Vestir para Ser: o Testemunho da Pragmática de 1609**
