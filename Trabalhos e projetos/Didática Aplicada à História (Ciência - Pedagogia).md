@@ -86,3 +86,9 @@ final do século XVIII."== 1031
 "Os retratos de aparato da rainha mostram ainda, tal como os do rei, o manto forrado a pele, mas deixando normalmente os ombros descobertos, como acontece no da colecção do Museu Nacional dos Coches." 1032
 =="Os vestidos de cintura estreita e grande decote, que estiveram em moda no segundo quartel do século XVIII, aparecem igualmente nalguns azulejos, representando cagadas e cenas galantes."== 1032
 "em que se vêem os homens com os usuais véstia, colete e calção, e cabeleiras baixas, quando as usam." 1032
+=="o azulejo representa, portanto, uma excelente fonte iconográfica para o estudo do traje em Portugal, que se ressente da quase ausência de retrato, em particular no período a que nos reportamos.== Além disso, por um lado, a maioria dos retratos régios são de aparato, a meio-corpo, envergando o rei a couraça, o manto e as écharpes , e a rainha mostrando igualmente o manto e pouco mais que o corpo decotado do vestido." 1035
+"restam-nos os próprios originais, necessariamente limitados e, segundo cremos, em grande parte da segunda metade do século XVIII, ==quando se generalizou o uso de bordados policromos, a matiz e ponto pé-de-flor, sobre fundo de damasco branco.==" 1035
+
+=="No entanto, e segundo o que nos foi dado averiguar, a moda portuguesa da Corte - entendendo-se por tal a nobreza que vivia em Lisboa, na entourage do rei - vestia bem, de acordo com a moda francesa, que aqui chegava com a possível brevidade." ==1035
+"É também de salientar que dada a vida relativamente reservada das damas, as fontes relativas ao seu vestuário, nomeadamente as de carácter documental, são bastante mais escassas." 1035
+"A importação de vestuário de Franga insere-se no gosto da época, que procurava actualizar o país, isolado demasiado tempo, relativamente às nações mais avançadas da Europa." 1036
