@@ -111,3 +111,5 @@ esclarece das penas em que cada um incorreria caso se desse por provado o seu in
 "No que diz respeito às suas mulheres e ilhas permitia -se o uso [§9 -10], dentro de casa, de todo o tipo de vestidos de seda decorados com até quatro barras direitas ou pestanas de outra seda ou passamanaria, podendo os saios ser forrados, apenas nos quartos dianteiros, a outra seda e, não o sendo, poderiam ser guarnecidos por dentro ou por fora de duas barras ou dois debruns;" 112
 "não esqueçamos –, alheamento às vaidades cortesãs e um certo provincianismo pequeno -burguês (que veremos), seja por fraca capacidade económica para investir em indumentária rica, a contrastar com a grande quantidade de jóias de ouro esmaltado e prata dourada de aparato que parece
 permear todas as camadas sociais portuenses, sem dúvida pela qualidade de entesouramento e fácil penhora ou mesmo venda – que tais objectos possuíam." 118
+"saudade do velho idalgo pelas capas azuis de Bristol, da indumentária de
+cor e o desprezo pelo vestir de preto, então transversal à sociedade, desde o criado ao amo, esse negro próprio dos momentos de dó e tornado também trajo nacional e pação, típico do
