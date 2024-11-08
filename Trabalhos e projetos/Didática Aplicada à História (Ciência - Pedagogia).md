@@ -94,3 +94,6 @@ final do século XVIII."== 1031
 "A importação de vestuário de Franga insere-se no gosto da época, que procurava actualizar o país, isolado demasiado tempo, relativamente às nações mais avançadas da Europa." 1036
 
 **Trajar as Aparências, Vestir para Ser: o Testemunho da Pragmática de 1609**
+"Quanto ao universo do masculino33 [Fig. 1] há que separar peças superiores e inferiores; das primeiras é de destrinçar entre as de “vestir” (camisa, gibão a. e coura), as de sobrepor (saio e. e roupeta f.) e as de apoiar (ferragoulo k., capa l., capote, boémio. d., tudesco42, manto43 i., capuz44 e loba45); nas inferiores contam -se as calças46 b. (com sua braguilha, que tende a desaparecer nos finais do século XVI) e suas meias c., ou os calções g. com suas meias e ligas h." 100-101
+"No que toca às femininas48 [Fig. 2], as superiores de “vestir” dividem -se entre as que cobrem apenas uma parte do corpo, o torso (camisa a. ‑a’., gorjeira49 d., gibão i., mangas, manguitos50, corpinho51 e. e sainho – o sayuelo, i.e. o corpo ou coura do saio), e as que o cobrem
+por inteiro, como a cota52 e o saio53 l. (sayo ou brial, com corpo e saia); nas de sobrepor conta-se a galera, a roupa54 n. ou o roupão, nas de apoiar temos a mantilha55 g., o manto56 h. ‑p. e a capa, e nas inferiores o mantéu57 b. ou fraldelim, o verdugado58 f. e a vasquinha59 j., que se lhes sobrepunha." 102-103
