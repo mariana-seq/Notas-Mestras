@@ -150,3 +150,4 @@ Ex. de Luis XIV: "desde o cabelo, que é agora uma cascata de inumeráveis carac
 [robe à la française]"este indumento de aparato consistia num fato de corpo justo, "baileiné" e cónico em ponta e grande decote, abrindo-se sobre o saiote pela frente, ou de uma saia só, e vai desde o "robe volante" de c. 1730, passa pelo "watteau" e fixa-se num modelo característico destes dois; sendo o fundamental, sempre, a ampla armação central." 180
 "Como avançar do século e a afirmação de um outro modelo (o vestido á inglesa) pelo último quartel do século XVIII, o suporte volumoso deslocar-se-
 a para trás, adelgaçando a figura e pronunciando a "tournure" que, retomada um século mais tarde, seria mais acentuada e provocadora." 180
+""
