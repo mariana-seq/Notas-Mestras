@@ -124,4 +124,16 @@ permear todas as camadas sociais portuenses, sem dúvida pela qualidade de entes
 =="Se o retrato é uma sombra pintada, o traje é um invólucro. A um e a outro falta quase tudo: falta-lhes o corpo vivo que informa, movimenta, distorce amarrota e gasta. É, pois, a partir destes documentos *enganadores* que investigamos e que, investigando, ficcionamos também."==
 =="A moda intervinha, pois, directamente, na encenação/representação pública do poder, mais que não fosse a um nível de representação simbólica.== E neste domínio do simbólico, serão tanto de analisar os atributos do poder explícito expostos no vestuário feminino; ambos se sobrepõem ao traje e ambos são exibidos." 172
 "A dominante espanhola na moda de corte portuguesa haveria que ir buscá-la mais atrás, ao século XVI, com as raízes consorciais, tão importantes neste domínio, dos sucessivos casamentos de D. Manuel com princesas de Espanha (...); mas é sobretudo à corte de Filipe II que se atribui o carácter austero, elegante e sóbrio." 172-174
-""
+Moda do Homem no tempo de Filipe II até ao séc. XVII
+- capa curta, gibão cintado com gorgeira alta de linho, calções tufados e espada, cabeça bem modelada por corte de cabelo muito curto e pernas igualmente modeladas por meias.
+Moda do homem no decurso do século XVII por influência francesa
+- véstia (no lugar do gibão)
+- o calção desce até abaixo do joelho
+- botas
+- gola deitada sobre os ombros
+- gravata de renda
+- sem elementos alusivos ao bélico na sua vestimenta
+"O homem perde a sua "allure" militar para se tornar num gentil homem"
+
+"Com efeito, a influência espanhola decrescerá pelo fim do século sendo necessário, neste tempo de acentuada influência da corte francesa, reflectir que a moda é muito a afirmação mundana de uma política, rememorando nomes como os de Luís XIV e Pompadour." 174
+"A elegância, sobriedade e austeridade da moda filipina encontra a sua mais alta expressão na elegantíssima silhueta feminina composta de saia designativo de verdugo (.francês "vertugadin") por ser também suportada por vime verde, corpete rígido cosido a varetas metálicas com duas ordens de mangas e alta gorgeira branca sobre esta estrutura de cones invertidos, frequentemente negros, pentuados de vermelho ou de branco em rendas, pérolas ou pedras." 174
