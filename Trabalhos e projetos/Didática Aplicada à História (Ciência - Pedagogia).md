@@ -157,3 +157,5 @@ a para trás, adelgaçando a figura e pronunciando a "tournure" que, retomada um
 =="Muito embora o traje segundo o cânone convencional "à francesa" continue com uso reservado para à corte, a partir dos alvores da Revolução a história será outra. Prenuncia-se já, através do esquematizado traje Império, o aproximar do século XIX, e da sua marcha industrializante e uniformizadora, correspondente de uma necessidade de maior solidez e menos fantasia." ==184
 "A partir de agora, (...) a moderna dominante quantidade irá sobrepor-se ao antigo valor de qualidade"185
 =="Mutação implica envelhecimento, substituição, desuso, gasto, mecanização e fabrico múltiplo. Quantidade."== 185
+
+**A moda em movimento: a obra de Antoine Watteau (1684-1721) e as origens modernas de uma fenômeno**
