@@ -160,3 +160,7 @@ a para trás, adelgaçando a figura e pronunciando a "tournure" que, retomada um
 
 **A moda em movimento: a obra de Antoine Watteau (1684-1721) e as origens modernas de uma fenômeno**
 "O vestido volante deve seu nome às suas grandes pregas, muito características. Elas partiam dos ombros do manto, desenrolavam-se sobre a saia e flutuavam livremente até o solo, podendo ser unicamente nas costas e, algumas vezes, também na parte frontal." 12
+"==A moda, apesar de exaltar a novidade, nunca é completamente nova; existem sobrevivências bem como permanências, como no caso dos tecidos, das estruturas do traje, entre outras. ==Porém, novos tecidos podem surgir, assim como novas técnicas, cores e formas." 15
+"Uma vez que o homem constrói seu pensamento como uma montagem de
+referências visuais e a moda é uma manifestação visual, analisar imagens de
+moda torna-se importante para compreender o próprio funcionamento da memória humana." 16
