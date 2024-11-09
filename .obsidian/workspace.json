@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🏡 Olá Mariana!.md",
+                "file": "Trabalhos e projetos/Didática Aplicada à História (Ciência - Pedagogia).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🏡 Olá Mariana!"
+              "title": "Didática Aplicada à História (Ciência - Pedagogia)"
             }
           }
         ]
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c195449eb9a13397",
@@ -178,6 +179,7 @@
   },
   "active": "23f4816ffd4a3776",
   "lastOpenFiles": [
+    "🏡 Olá Mariana!.md",
     "📝 Notas/Sistema de Saberes na Época Moderna.md",
     "📝 Notas/Dissertação de Mestrado.md",
     "🛠️ Trabalhos/O Índio no Brasil na literatura portuguesa dos séculos XVI, XVII e XVIII.md",
@@ -193,7 +195,6 @@
     "Trabalhos e projetos/Didática Aplicada à História (Ciência - Pedagogia).md",
     "Mestrado em Ensino de História/Didática da História I.md",
     "📝 Notas/Poder e Instituições em Portugal (séculos XV-XVIII).md",
-    "🏡 Olá Mariana!.md",
     "Mestrado em Ensino de História/Organização de Projetos Educativos em História.md",
     "Trabalhos e projetos",
     "Mestrado em Ensino de História/Inclusão e Diversidade.md",

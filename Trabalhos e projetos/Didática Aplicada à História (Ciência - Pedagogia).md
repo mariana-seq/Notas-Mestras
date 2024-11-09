@@ -117,4 +117,4 @@ permear todas as camadas sociais portuenses, sem dúvida pela qualidade de entes
 **Modelos e Modas - traje de corte em Portugal nos séculos XVII e XVIII**
 "Falar de traje de corte em Portugal nos séculos XVII e XVIII é, antes de mais, falar de protótipos e de modelos, modelos que não se restringem ao figurino, mas são, por exemplos, derivados da história, da sociologia, da estética, da política." 171
 "nos séculos XVII e XVIII e no respeitante à moda, era a nobreza quem ditava as leis, seguida de perto, e imitada, pela alta burguesia." 171
-"No outro extremo situava-se o povo, que reproduzia o quase sem alteração o seu próprio tipo de vestuário transmitido em herança de uma geração à outra. Neste sentido, o traje "
+"No outro extremo situava-se o povo, que reproduzia o quase sem alteração o seu próprio tipo de vestuário transmitido em herança de uma geração à outra. Neste sentido, o traje popular situava-se fora de moda, uma vez que s reproduzia a si mesmo, sem alteração, correspondendo às necessidades básicas do vestuário"
