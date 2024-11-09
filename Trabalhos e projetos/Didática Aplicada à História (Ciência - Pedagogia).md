@@ -159,3 +159,4 @@ a para trás, adelgaçando a figura e pronunciando a "tournure" que, retomada um
 =="Mutação implica envelhecimento, substituição, desuso, gasto, mecanização e fabrico múltiplo. Quantidade."== 185
 
 **A moda em movimento: a obra de Antoine Watteau (1684-1721) e as origens modernas de uma fenômeno**
+""
