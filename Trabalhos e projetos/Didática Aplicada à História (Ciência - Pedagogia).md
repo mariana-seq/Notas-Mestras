@@ -151,3 +151,4 @@ Ex. de Luis XIV: "desde o cabelo, que é agora uma cascata de inumeráveis carac
 "Como avançar do século e a afirmação de um outro modelo (o vestido á inglesa) pelo último quartel do século XVIII, o suporte volumoso deslocar-se-
 a para trás, adelgaçando a figura e pronunciando a "tournure" que, retomada um século mais tarde, seria mais acentuada e provocadora." 180
 "Em Portugal, a nobreza e a corte vestiram-se pelo figurino francês, muito embora, a julgar pela iconografia correta, sem as, chamemos-lhes assim, ousadia e desproporção de outros meios cortesãos da Europa." 182
+"Os elementos fundamentais da moda vigente haviam sido assimilados, sim, mas administrados à nossa escala e com alguma parcimónia. O que poderá significar, a meu ver, sentido de proporcionalidade e inteligente aplicação das formas." 182
