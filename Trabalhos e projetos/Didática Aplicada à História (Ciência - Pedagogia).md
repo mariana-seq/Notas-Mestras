@@ -164,3 +164,5 @@ a para trás, adelgaçando a figura e pronunciando a "tournure" que, retomada um
 "Uma vez que o homem constrói seu pensamento como uma montagem de
 referências visuais e a moda é uma manifestação visual, analisar imagens de
 moda torna-se importante para compreender o próprio funcionamento da memória humana." 16
+
+**O Luxo e as Modas em textos de cordel da segunda metade do século XVIII**
