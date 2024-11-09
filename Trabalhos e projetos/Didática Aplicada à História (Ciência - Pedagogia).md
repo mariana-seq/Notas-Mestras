@@ -159,4 +159,4 @@ a para trás, adelgaçando a figura e pronunciando a "tournure" que, retomada um
 =="Mutação implica envelhecimento, substituição, desuso, gasto, mecanização e fabrico múltiplo. Quantidade."== 185
 
 **A moda em movimento: a obra de Antoine Watteau (1684-1721) e as origens modernas de uma fenômeno**
-""
+"O vestido volante deve seu nome às suas grandes pregas, muito características. Elas partiam dos ombros do manto, desenrolavam-se sobre a saia e flutuavam livremente até o solo, podendo ser unicamente nas costas e, algumas vezes, também na parte frontal." 12
