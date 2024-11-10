@@ -359,3 +359,15 @@ séc. xix "Já em finais de setecentos nasce um novo critério de beleza, aliado
 
 "Em Portugal, após a Guerra da Restauração segue-se uma depressão económica de teor bastante acentuado mas, D. João V, graças às riquezas que vinham do Brasil – os diamantes, o ouro, o açúcar, as madeiras exóticas – ==segue uma politica externa de afirmação do prestigio e poder da coroa portuguesa e, como tal, faz revestir e rodear a sua corte de fausto, requinte e ostentação==."  34
 "e, assim, o nosso século XVIII vestir-se-ia de sumptuosidade, mais ou menos à imagem do século XVII francês mesmo a nível estético" 34
+"Espalhava-se um sentido de festa permanente, em touradas de gala, fogos de artifício, recitais operáticos, concertos de câmara, jogos domésticos, danças cortesãs, bastante afectadas e cheias de piruetas; 2 caçadas e montarias…" 34
+=="iam vigorando a pompa e a circunstância, desenvolvendo regras de protocolo rigorosas, em jogos cénicos de postura e acção cada vez mais complexos, mas em definições hierárquicas sempre patentes."== 35
+
+SOBRE VESTUÁRIO: "Brilhariam, então, peças de vestuário cheias de alamares de ouro; constelações de sinais, dos quais *franças e casquilhos* tinham caixinhas cheias; diamantes ostentosos em brincos, atilhos do corpete ou nos alfinetes de cabelo; sapatos bordados a lantejoulas, punhos de folhos e os polvilhos3 nos cabelos muito empoados…"35
+"Assim, e tendo-se em conta que esse luxo não poderia manter-se muito tempo, sobretudo após o terramoto, tal facto ==despoletaria a necessidade de reforçar a contenção nos gastos, embora já desde o século XVII se defendesse a austeridade pelo meio de éditos."== 35
+- O excesso e ostentação agravam-se
+IMPORTANTE!!! =="A mentalidade barroca aguçava racionalidades e exuberâncias sensoriais. Marcava-se a ondulação das linhas e o apelo ao dinamismo. Acentuava-se a preferência pela diagonal e pela curva, pelo contraste claro/escuro, valorizando-se o ênfase do movimento pela cor." ==35
+"D. João V, estaria sempre atento às variações da moda francesa, dialogando com os seus embaixadores e encomendando sempre os últimos produtos e subprodutos." 36
+
+DESDE O ROCOCÓ 1720 "Surgiam as cabeleiras postiças, aquando de calvície de Luís XIV, na raiz e fundamentalmente porque esse monarca procurara sempre manter uma figura jovem e solar. Para tal efeito, aderia-se também ao uso de maquillage. Os apelativos saltos surgiam, também para os homens, para empolar a figura, e usavam-se meias de seda." 36-27
+
+IMPORTANTEEEEE!!!!!! A==s portuguesas apertavam-se, então, em corpetes; armavam-se em anquinhas postiças; empoavam os cabelos, auxiliadas pelo “ferro de encrespar”; 1 usavam maquilhagem para enrubescer as maças do rosto e não dispensavam os sinaizinhos de cetim, “humas modernas, outras muito idozas / humas languidas, ternas, desmaiadas, /Outras já carcomidas, mas pintadas”.=="  37
