@@ -186,3 +186,5 @@ moda torna-se importante para compreender o próprio funcionamento da memória h
 "Um dos fatores de êxito dos folhetos sobre as Modas era a actualidade das suas críticas. O público gostava de ver caricaturada, na ficção, a realidade com que deparava no seu quotidiano." 153
 "==união indissociável entre a moda e as práticas de sociabilidade. A moda liga-se à exibição, à teatralidade. ==«A França», veste as suas melhores galas para a Missa, para os Sermões da Quaresma, para as Novenas, com a mesma devoção com que se põe à janela, para mostrar a sua «bandarrice»." 154
 =="As mulheres, mas também os homens disputam num cenário de festa - religiosa ou profana - o direito ao reconhecimento social, à honra, que lhe será conferida pela imagem que pretendem transmitir."== 154
+=="Toda a mudança inclui desvio, no mínimo, de um padrão convencional que, por antigo, se tornará digno, respeitável, exemplar."== 154
+""
