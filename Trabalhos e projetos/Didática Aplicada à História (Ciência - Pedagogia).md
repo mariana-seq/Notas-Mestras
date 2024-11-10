@@ -334,3 +334,4 @@ sobre o último quartel do século XVII: "Começa-se a retomar o gosto do exotis
 "Esse século [XVIII], tantas vezes tomado como tendo a face gelada da racionalidade, foi também o século dos libertinos, um período onde o sentimento – muito longe disso – não foi abandonado ou esquecido! É também neste século que se toma a devida consciência das paixões." 12
 "Enquanto isso, os romances setecentistas enchem-se, seguindo o mesmo rumo, de temas amorosos com recurso abundante a adultério, incesto e fornicação, criticando directa ou indirectamente a estética da sociedade de então." 13
 "Valoriza-se, assim um dinamismo estético que alie arte e sensibilidade, numa fórmula natural e muito orgânica." 13
+SOBRE VERSALHES =="O prestígio da corte de Versalhes permitira que a França pudesse ditar influências pela Europa, com conhecidas marcas de elegância e sumptuosidade."== 16
