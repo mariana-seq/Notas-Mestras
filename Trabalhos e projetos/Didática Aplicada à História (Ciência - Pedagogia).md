@@ -218,3 +218,4 @@ Importante: =="Se nunca fora capaz de exportar as suas próprias modas, acomodan
 "Regente a partir de 1667, D. Pedro seguia, pois, as modas francesas, usando
 diariamente uma peruca negra153, com que se fez retratar; no entanto, adopta o preto como cor de eleição para o fabrico do seu vestuário, colocando limites à exuberância, e servindo ele próprio de exemplo do cumprimento das pragmáticas." 114
 "==Por outro, o corte de relações com Madrid teve a sua influência na preferência pelos modos afrancesados, forma de estar que será característica das classes superiores portuguesas até muito tarde==, excepção feita, talvez, ao gosto britânico da alta burguesia portuense — que leva, por exemplo, à escolha da combinação entre ouro e safiras, em detrimento do ouro e esmeraldas. Passo a passo, dá-se uma simbiose entre a rigidez da Corte e a maneira francesa." 114-115
+"A modéstia "
