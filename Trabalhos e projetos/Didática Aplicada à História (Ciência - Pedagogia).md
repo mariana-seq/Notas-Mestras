@@ -241,3 +241,6 @@ seda amarela." 127
 =="O cerimonial da Corte, com as suas precedências, séquitos e entradas régias,
 complexos beija-mão e comemorações matrimoniais, originou todo um código de conduta inspirado nos modelos franceses, em que o poder da elite representada pela alta-nobreza se impunha aos restantes corpos da sociedade."== 128
 "A presença de estrangeiras nos palácios, desde mulheres de embaixadores e outros diplomatas, às mulheres do país de origem da rainha, pertencentes ao seu séquito, influíram na introdução de novas formas de estar e de vestir." 130
+"Torna-se, assim, evidente como a Corte portuguesa entrou no século XVIII mais
+receptiva às modas francesas. Isto não invalidou que tivesse em conta a herança
+tradicional acumulada pela experiência das centúrias anteriores. O conservadorismo religioso e moral e as limitações das leis pragmáticas (que nunca atingiram, no entanto, os resultados esperados) combinavam-se com outros factores, em que se incluía a proximidade da Espanha e o acesso mais condicionado aos grandes centros da moda, de que Paris e a corte de Versalhes se tornara paradigma." 131-132
