@@ -298,3 +298,5 @@ velhas" 17
 "O fenômeno da mobilidade social despertava a repulsa nos setores mais conservadores da sociedade. Consequentemente, a melhoria do trato de si
 quanto à imagem a ser apresentada nos diferentes espaços, como decorrência
 dessa mobilidade, gerava críticas ácidas." 23
+
+O conceito central aqui é o de honestidade. A honestidade é a virtude que procura o bem racional (bonum rationale); e que, por isso, tem como raiz a regra da razão
