@@ -432,3 +432,7 @@ dependente dos autores dos textos. Todavia, grande parte das obras publicadas su
 "E, se na conexão entre oralidade e escrita no “Cordel”, devido ao nível geralmente pouco elevado de literacia dos compradores acabaria por permitir que se atingisse um grupo mais alargado de interessados, isso não implica que dele fizessem parte apenas os populares." 70
 "Numa perspectiva pragmática, a questão da aparência importaria mais à mulher solteira, que necessitaria de seduzir um possível marido. Note-se a importância da aparência neste século." 80
 =="A importância das aparências, enganosas, tantas vezes, fazia com que homens e mulheres se apaixonassem por formosuras físicas em detrimento das espirituais. O trajar à moda, implicava, desta forma, um rompimento com o passado, incitando a uma subversão, num ímpeto de novidade que geraria uma dicotomia entre fascínios e recusas."== 80
+
+"Os moralistas defendiam uma relação estreita entre “traje e dignidade pessoal”. Para que se mantivesse a tal dignidade usava-se até de exemplos das sagradas escrituras para condenar excessos e profanidades da moda." 87
+	Ainda que pareça à primeira vista contraditório, estes textos de Cordel iam de encontro aos objetivos do Estado... veja-se a publicação de sucessivas pragmáticas contra o luxo, até mesmo no reinado de D. João V.
+"Acresce que isto era, também, um assunto de interesse para o estado, uma vez que a usurpação de certos símbolos de qualidade podia pôr em causa a organização da hierarquia social com os excessos sumptuários." 87
