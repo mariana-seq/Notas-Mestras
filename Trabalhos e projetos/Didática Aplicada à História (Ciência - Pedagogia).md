@@ -240,3 +240,4 @@ seda amarela." 127
 "A sua exigência conduziria, de certo, à marginalização das pragmáticas que obrigavam à diminuição das importações têxteis, aliás, necessárias para o equilíbrio das relações comerciais portuguesas." 128
 =="O cerimonial da Corte, com as suas precedências, séquitos e entradas régias,
 complexos beija-mão e comemorações matrimoniais, originou todo um código de conduta inspirado nos modelos franceses, em que o poder da elite representada pela alta-nobreza se impunha aos restantes corpos da sociedade."== 128
+"A presença de estrangeiras nos palácios, desde mulheres de embaixadores e outros diplomatas, às mulheres do país de origem da rainha, pertencentes ao seu séquito, influíram na introdução de novas formas de estar e de vestir." 130
