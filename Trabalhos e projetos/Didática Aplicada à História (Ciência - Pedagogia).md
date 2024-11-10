@@ -231,3 +231,7 @@ ainda rígidos, remete para um estatismo e contenção corporais muito presentes
 "Repare-se que, neste período, Portugal já assinara a paz com Espanha, e a Casa
 de Bragança fora reconhecida pelo papado, razões que levaram a uma maior segurança reflectida nos processos de afirmação da Corte." 123
 =="É conhecida, sem dúvida, a inclinação do monarca para a cultura francesa, que se vinha impondo, de resto, um pouco por toda a parte. Este fenómeno do domínio francês em muito se deveu ao requinte cultural e, em particular, ao vestuário, estando Versalhes, nesse campo, no centro do mundo." ==123
+"Este tipo de arranjo esteve muito em voga na corte francesa do final do
+século, o que mostra como a rainha, tendo em consideração o carácter oficial do retrato, estaria informada sobre as modas de Versalhes." 125
+"Note-se a delicadeza da decoração do coordenado; ==a rigidez de outrora parece dar lugar a uma aparência mais “humanizada”, delicada e feminina.== A proliferação das fitas como acessório e os penteados que parecem desafiar as leis da gravidade contribuem para a impressão de movimento da moda barroca." 126
+"As formas fortes anteriormente impostas ao corpo feminino são substituídas pelo uso de corpinhos e jaquetas reforçados por barbas de baleia, arames e finas talas de madeira, e as saias caem livremente até aos pés, em sedutores e estruturados drapeados de seda." 126
