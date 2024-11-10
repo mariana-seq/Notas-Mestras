@@ -318,3 +318,5 @@ sobre o colo"O decote costumava ser profundo nos corpetes, mas se permitia até 
 **Moda em Cordel, Isabel Cristina Silva da Costa Moura**
 "A moda, essa, não incide apenas sobre o uso dos bens móveis e, nomeadamente, as roupas, mas, também sobre “o ar”, “a atitude”, o aspecto, os gestos, “o porte”, numa atitude estética que reclama o belo através “dos imaginários que afloram à superfície corporal, os das tonicidades, dos ritmos, das mobilidades"." 4
 "Além de necessitar de se cobrir, para defender o corpo, desde sempre o Homem parece ter sentido o “impulso narcisista” de querer enfeitá-lo." 5
+"Embora aconteça, por outro lado, que usando da sua autonomia, o Homem se inspire bastante no mundo animal para criar moda, assim como para se adequar, a nível individual ou colectivo, às diferentes circunstâncias: culturais, físicas, climatéricas, sociais…" 5-6
+Sobre os críticos: =="No século XVIII, os conservadores quanto às modas, por exemplo, eram bastante acusados de terem mau gosto, por não concordarem com as novidades da moda e não quererem, por exemplo, usar grandes fivelas nos sapatos."== 6 
