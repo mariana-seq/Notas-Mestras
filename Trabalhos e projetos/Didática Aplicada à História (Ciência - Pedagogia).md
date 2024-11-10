@@ -404,3 +404,12 @@ Opção de um estilo mais confortável. Apesar desta atitude "moderadora", Pomba
 "O que demorou a ser moderado foi o volume das grandes armações laterais nas saias, as chamadas “anquinhas”, também conhecidas por “guarda-infantes” e, que tão criticadas foram na literatura de cordel." 46
 "Os vestidos tinham de ser claramente amplos. Quando as anquinhas passassem de moda, usar-se-iam sobre os espartilhos os vestidos redingotes, de saias muito abertas e corpetes bastante justos ao corpo." 46
 GIROOO!!! =="figura espartilhada pela pièce d'estomac mantinha-se, pelo que a atitude feminina permanecia condicionada, controlada, pausada e rítmica. Procurava-se manifestar a beleza e o esplendor dos pés, a graciosidade do caminhar." ==47
+"À medida que as perucas iam diminuindo em volume, tanto para a esfera masculina como para a feminina, as roupas iam tomando também volumes mais moderados. Faziam-se debruns mais estreitos e mais simples nos casacos e, por volta de 1770, a casaca masculina ajustava-se mais ao corpo, com as extremidades da frente cortadas, à imagem de um fraque, seguindo as linhas do casaco de equitação inglês. Também o colete, como o calção seguiriam
+o mesmo sentido simplificador." 48
+- Só no final do século se denota uma verdadeira simplificação do vestuário e dos adornos, visível nas "cabeleiras mais curas e as infantas sem "panier".". 48
+Antes disso, aumentou tudo........ maria antonieta
+
+"Enquanto não soavam os festejos da “liberdade”, adoptavam-se outras formas de dar volume às ancas, ainda que não tão desmedidos, os poches3 ou o cul.4 As saias, lisas ou franzidas, seguiam a mesma tendência de se enfeitarem excessivamente, com pregueados, rendas, volants e outros ornamentos." 49
+
+APÓS O TERRAMOTO: =="Dado este contexto de precariedade, compreende-se que os vaidosos estivessem famintos de luxos. Fome essa que, despertou mais ávida do que nunca, pelo que, pouco tempo depois, já se disputavam sedas, rendas, gaze, tafetás e bugigangas, incentivando muito ao contrabando."== 50
+No tempo do marquês de Pombal... "Os portugueses continuavam as apreciar as festas, os arraiais, as corridas de touros, os teatros e, quando iam merendar fora, as damas aprumavam-se, mesmo as burguesas mais simples, usando saiotes curtos, bordados de raminhos florais e, por cima, saias tesas de goma." 50
