@@ -197,4 +197,5 @@ moda torna-se importante para compreender o próprio funcionamento da memória h
 - masculino - chapéus
 
 "O vestuário terá aqui uma função essencial, pondo em relevo a natureza, ou ultrapassando-a mesmo, sempre que esta não se mostre pródiga em encantos, criando, para isso, enganosas aparências." 159
-"Mas, tal como o vestuário, a higiene participava na arte de representação. Estar na moda significava"
+"Mas, tal como o vestuário, a higiene participava na arte de representação. Estar na moda significava estar, ou parecer, limpo. Uma vez que o banho não fazia parte dos hábitos de cada um, a roupa limpa era sinónimo de higiene e esta sinal de distinção." 160
+"É notório que a preocupação de limpeza se fica apenas por aquilo que pode ser visto da camisa, isto é, a gravata de rendas. Há assim uma fraude na representação que está de acordo com o estereótipo da figura representada." 161
