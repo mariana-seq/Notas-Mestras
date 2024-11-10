@@ -430,3 +430,5 @@ dependente dos autores dos textos. Todavia, grande parte das obras publicadas su
 "LITERATURA PLANFETÁRIA" 69
 "Mas, nem sempre seria lida apenas pelos menos cultos e nem sempre se encheria só de noções simples, sendo que na literatura dramática de cordel há linguagem, temas e estilos bastante diferentes do vulgo e gosto popular." 70
 "E, se na conexão entre oralidade e escrita no “Cordel”, devido ao nível geralmente pouco elevado de literacia dos compradores acabaria por permitir que se atingisse um grupo mais alargado de interessados, isso não implica que dele fizessem parte apenas os populares." 70
+"Numa perspectiva pragmática, a questão da aparência importaria mais à mulher solteira, que necessitaria de seduzir um possível marido. Note-se a importância da aparência neste século." 80
+=="A importância das aparências, enganosas, tantas vezes, fazia com que homens e mulheres se apaixonassem por formosuras físicas em detrimento das espirituais. O trajar à moda, implicava, desta forma, um rompimento com o passado, incitando a uma subversão, num ímpeto de novidade que geraria uma dicotomia entre fascínios e recusas."== 80
