@@ -228,3 +228,6 @@ estatismo da sua função primordial— proteger o corpo das agressões externas
 tradições de um país que não primava pelas liberdades das mulheres, especialmente no que respeitava às classes superiores. (...)A diferenciação das actividades permitidas a cada género, associada ao ainda rigoroso traje de corte, em muito contrasta com a realidade britânica (...)." 121
 "A atitude das retratadas portuguesas, escolhendo para a pose trajes escuros e
 ainda rígidos, remete para um estatismo e contenção corporais muito presentes, que D. Catarina de Bragança já não mostra, preferindo atitudes mais soltas e novas formas de trajar que, apesar do carácter cénico, aportam liberdade à composição." 121
+"Repare-se que, neste período, Portugal já assinara a paz com Espanha, e a Casa
+de Bragança fora reconhecida pelo papado, razões que levaram a uma maior segurança reflectida nos processos de afirmação da Corte." 123
+=="É conhecida, sem dúvida, a inclinação do monarca para a cultura francesa, que se vinha impondo, de resto, um pouco por toda a parte. Este fenómeno do domínio francês em muito se deveu ao requinte cultural e, em particular, ao vestuário, estando Versalhes, nesse campo, no centro do mundo." ==123
