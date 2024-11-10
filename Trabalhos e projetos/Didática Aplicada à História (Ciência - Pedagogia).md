@@ -355,3 +355,7 @@ Maria Antonieta: "Momentos antes do seu declínio, a aristocracia francesa, cont
 REVOLUÇÃO FRANCESA: "Urge ainda realçar que, apesar de prevalecer o gosto do luxo em muitos aspectos, no final do século XVIII, já se sentia em França o fascínio pela Inglaterra, e, ==desde a Tomada da Bastilha se geraria o desejo de uma lufada de simplicidade, contrariando o fausto em que haviam vivido os mais privilegiados antes da Revolução.==" 24
 **SOBRE O ALARGAMENTO DA ESTRUTURA DAS ANCAS** "no século estudado nos deparamos com um ==alargamento significativo no que toca às ancas da silhueta feminina, em termos de vestuário, o que longe de ser prático, representa a sua “função” de gestação e subliminarmente um estatismo que seria propício por ser natural à mulher.==" 25
 séc. xix "Já em finais de setecentos nasce um novo critério de beleza, aliado também a uma preocupação com a saúde e rasgos de pragmatismo, apelando à naturalidade, enfatizando sobretudo linhas rectas e tecidos leves e flutuantes" 27
+
+
+"Em Portugal, após a Guerra da Restauração segue-se uma depressão económica de teor bastante acentuado mas, D. João V, graças às riquezas que vinham do Brasil – os diamantes, o ouro, o açúcar, as madeiras exóticas – ==segue uma politica externa de afirmação do prestigio e poder da coroa portuguesa e, como tal, faz revestir e rodear a sua corte de fausto, requinte e ostentação==."  34
+"e, assim, o nosso século XVIII vestir-se-ia de sumptuosidade, mais ou menos à imagem do século XVII francês mesmo a nível estético" 34
