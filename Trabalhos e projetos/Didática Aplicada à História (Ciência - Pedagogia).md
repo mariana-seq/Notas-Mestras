@@ -179,4 +179,5 @@ moda torna-se importante para compreender o próprio funcionamento da memória h
 "==clara referência à usurpação de símbolos de qualidade que reflectiam o desejo de uma pretendida ascensão social, transgressão que provoca uma reprovação imediata e o apelo à necessidade de leis disciplinadoras que obstariam à repetição de tais abusos==." 142
 "Trajar vem é agora sinónimo de vestir à moda, moda que vem do estrangeiro e de que são os primeiros consumidores os membros dos grupos sociais elevados. A corte era, por excelência, o centro difusor dessas modas (...)" 144
 "Mas, se de início o traje de moda estava circunscrito  à nobreza de Corte, lentamente ele irá introduzir-se em grupos sociais inferiores, até à pequena burguesia, num processo normal de imitação que se limita, no entanto, às populações urbanas, excluindo sempre o mundo rural." 145
-
+"A mulher será, assim, o alvo preferencial das críticas, pela ousadia dos seus trajes, pelos seus gastos excessivos, pela bizarria dos adornos, num rol quase infindável de acusações." 151
+=="As modas são condenáveis quando arrastam atitudes ou provocam comportamentos que ultrapassam «os limites da Modéstia e da Temperança»."== 151
