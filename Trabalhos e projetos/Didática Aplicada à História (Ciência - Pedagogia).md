@@ -324,3 +324,7 @@ Sobre os críticos: =="No século XVIII, os conservadores quanto às modas, por 
 "Apesar do desnível económico, da precariedade dos povos, das classes, dos tempos, parece que dificilmente se apagará o impulso de aquisição de vestuário de moda, de enfeitar a nossa insegurança com criações subjectivamente apetecíveis e bonitas, mais ou menos estranhas ou bastante “ortodoxas”, mas, nunca perdendo de vista o espírito do que é a moda, muitas vezes arte decorativa, de enfeite e até de camuflagem." 7
 "Constantemente atacada por oscilações periódicas, fenómeno que faz parte da sua ==instabilidade natural==, a moda, todavia, foi e vai mantendo, por entre as redes da tal instabilidade, determinados períodos históricos que se caracterizam por um maior ou menor grau de solidez de uma moda (...)" 7
 "Não devemos negligenciar esta importante ferramenta social e económica, que não deixa de, para além de tudo, ser um ==relevante indicador do gosto de cada época, indicando a valoração estética de cada período histórico==." 7
+"Assim, no século seguinte, o XVII, em continuidade desse
+processo antropocêntrico, desperta a Revolução científica, fomentando um período de transformação intelectual." 9
+BARROCO: =="Nas artes, ergue-se um estilo rebuscado e grandioso, o Barroco,
+que tendo dado os primeiros passos em Itália, facilmente se expandiria um pouco por toda a Europa ocidental, caminhando até meados do século XVIII, expressivo, em jogos de luz e sombra, opulento e ornamental, trazendo um novo retrato das emoções humanas."== 9-10
