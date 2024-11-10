@@ -222,3 +222,4 @@ diariamente uma peruca negra153, com que se fez retratar; no entanto, adopta o p
 se diferenciar do traje mais contido do dia-a-dia. ==Seria indispensável, aquando da sua apresentação aos súbditos ou aos visitantes estrangeiros, que a família real afectasse um certo distanciamento físico e psicológico, objectivo conseguido pelo uso simbólico do traje, ferramenta da construção da sua imagem pública."== 118
 "Ao longo do período em estudo, verificamos como o vestuário ultrapassa o
 estatismo da sua função primordial— proteger o corpo das agressões externas e dos olhares indiscretos — para se converter num autêntico instrumento de propaganda, símbolo que coloca cada um no lugar que deve ocupar na hierarquia social." 118
+"quase contínua promulgação de leis pragmáticas tentou limitar o acesso de certas classes a certos tecidos, cores e acessórios, ao mesmo tempo que visava impulsionar a indústria têxtil nacional." 118-119
