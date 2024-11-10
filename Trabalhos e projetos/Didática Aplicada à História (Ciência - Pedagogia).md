@@ -316,3 +316,4 @@ Sobre a transição para o sec. XIX: "A manufactura da indumentária já é, em 
 sobre o colo"O decote costumava ser profundo nos corpetes, mas se permitia até “meios peitos”, de forma que não interferissem na moral das damas, como percebido na figura 30. No entanto, as lusitanas praticavam o oposto. Montesquieu surpreende-se com a permissividade dos portugueses ao deixar suas senhoras saírem com os seios descobertos, enquanto os calcanhares eram mais resguardados." 125
 
 **Moda em Cordel, Isabel Cristina Silva da Costa Moura**
+"A moda, essa, não incide apenas sobre o uso dos bens móveis e, nomeadamente, as roupas, mas, também sobre “o ar”, “a atitude”, o aspecto, os gestos, “o porte”, numa atitude estética que reclama o belo através “dos imaginários que afloram à superfície corporal, os das tonicidades, dos ritmos, das mobilidades"." 4
