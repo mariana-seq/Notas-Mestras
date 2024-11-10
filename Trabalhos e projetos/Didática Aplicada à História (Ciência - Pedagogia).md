@@ -201,3 +201,8 @@ moda torna-se importante para compreender o próprio funcionamento da memória h
 "É notório que a preocupação de limpeza se fica apenas por aquilo que pode ser visto da camisa, isto é, a gravata de rendas. Há assim uma fraude na representação que está de acordo com o estereótipo da figura representada." 161
 "Alguns Folhetos de Cordel divulgaram as perfeições que deviam assistir numa Senhora para ser verdadeiramente formosa. Para isso, os olhos deveriam ser grandes e negros, as faces coradas, a testa branca e lisa, a boca pequena e cor de cravo, as sobrancelhas negras e espessas, as pestanas pretas e compridas, os dentes alvos, miudos e unidos, o pescoço alto, roliço e branco..." 161
 =="A efiminação do homem não podia ser mais explícita. Afinal eram as mesmas sedas, as mesmas rendas, os mesmos adereços que ornamentavam os dois sexos."== 162
+
+- Primeiro aspeto a ter em conta em relação a estes textos. "tendência normativa (...) que incluem uma expressiva «lição de moral», por vezes dirigida ao próprio leitor, ou se assumem como sátiras e reconhecem o seu papel na moralização do costumes." 163
+- Segundo aspeto: "relacionar as críticas contra os excessos a que conduzia a moda, não apenas com o reflexo do «discurso oficial» do poder, mas também com valores próprios da burguesia: utilidade, prudência, poupança e decência." 163
+"Estes valores constrastavam fortemente com os estereótipos do homem e da mulher da moda que percorriam todos os textos,==neles ressaltando um comportamento que tem na ostentação, no luxo no ócio, referências fundamentais.==" 163
+=="Sobre a Moda de Setecentos (...), ficaram-nos os ecos da sedução que exerceu, através do irresistível fascínio da sua própria efemeridade." ==164
