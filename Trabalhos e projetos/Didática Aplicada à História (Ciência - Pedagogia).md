@@ -423,3 +423,7 @@ INTERESSANTE=="É à imagem desta duplicidade artística e ideológica que, em s
 Por outro lado, =="temos toda uma elite emergente de novos intelectuais, músicos, arquitectos, pintores, que usam um penteado mais simples, assentando em dois simples canudos sobre as orelhas, complementados com um laço, a apertar o remanescente cabelo."== 57
 "Sem deixarmos de realçar que a pragmática contra o luxo já se ia operando no nosso país desde 1749, pelo que as formas já deveriam estar a ponto de poder atingir “uma pureza e a uma elegância que se afastavam da sumptuosidade antiga (…) uma simplicidade de maior gosto”." 58
 Sobre o século XIX: "==não tardaria muito e a maioria das mulheres portuguesas adeririam mais e mais ao ímpeto da exteriorização de valores revolucionários através do traje, com uma tendência que teria o seu ponto máximo em 1800, visível no estilo à la sauvage==." 58
+
+DEFINIÇÃO DE LITERATURA DE CORDEL =="Ora, por literatura de cordel entender-se-á, então, o imenso e diverso conjunto de textos que se destinavam a ser dependurados em cordéis suportados por preguinhos ou alfinetes, em paredes de madeira ou a circular pendentes de vendedores ambulantes, para que expostos ao público o pudessem aliciar à compra.==" 66
+"No que toca à relação entre o conteúdo e a qualidade, essa estaria claramente
+dependente dos autores dos textos. Todavia, grande parte das obras publicadas surgia sob autoria anónima. Outra condicionante qualitativa era o “ controlo efectivo à cultura escrita, o que, como é sabido, marcaria profundamente a produção literária”."  67
