@@ -305,3 +305,4 @@ dessa mobilidade, gerava críticas ácidas." 23
 **Traje regional português e o folclore, Madalena Braz Teixeira**
 "Na época barroca, as festas políticas passaram a manifestar o poder absoluto
 do rei, engrandecendo a figura do monarca e da família real." 363
+"A indumentária define-se no seio do tecido social, tendo o seu lugar na encenação e no espectáculo de rigorosa regulamentação." 364
