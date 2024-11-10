@@ -376,3 +376,16 @@ IMPORTANTEEEEE!!!!!! A==s portuguesas apertavam-se, então, em corpetes; armavam
 assemelhava a galochas, quando chovia muito; leques de marfim8 e diamantes, que viriam substituir as pérolas do período anterior…" 38
 
 sobre os homens: "A casaca usava-se comprida, de gola enorme, 2 sem cós, com punhos altos e largos, de modo a facilitar a liberdade de movimentos. A camisa era, geralmente, confeccionada em linho, com folhos. O colete era então comprido, não muito justo, ainda, e dele sobressaía um jabot, que parecia pender de uma jóia. Denominava-se mais frequentemente de “vestia” e acompanhava o comprimento da casaca. Os calções apertavam-se pelos joelhos, com agulhetas ou fitas em rosetas fininhas." 29
+"Seria D. João V a introduzir – de vez – o gosto exacerbado da cultura francesa na nossa corte." 39
+
+SOBRE O TRAJE DE D. JOÃO V "==Refere-se, então o uso de uma longa peruca negra e encaracolada e, de entre roupas de grande magnificência, sobressaía um grande manto de cor negra, bordado a ouro."== 39-40
+"O ciclo do ouro e das pedras preciosas permitiu a D. João V conciliar estes aspectos com uma política de prestígio e afirmação de Portugal na cena internacional." 40
+- Guerras se sucessão... política prudente de neutralidade em relação a conflitos internacionais e reafirmação da aliança luso-inglesa, "como por uma série de medidas reformistas que implementaria na área das
+manufacturas, do comércio, da arquitectura, das artes decorativas, como da cultura, em geral." 40
+Tanto que... "==Na primeira metade do século observavam-se, com evidência, os requintes de manufactura. Assistia-se ao incremento de formas crescentes, empoladas, policromáticas, nas rendas, nos lavrados dos tecidos."== 40
+"Contudo, admirando Luís XIV, o nosso rei, não lhe seguiria os passos em todas as suas atitudes, já que, enquanto aquele tentara moderar os excessos das damas da sua corte, este ==seria aparentemente mais permissivo, entranhando-se tanto na nossa corte tais hábitos que, mesmo depois do terramoto prevaleceria tal gosto exuberante, intensificando-se, até, nalguns aspectos e pormenores==."
+HOMENS: "Lâminas e contas de prata e ouro3 cobriam vestes e adereços. Diamantes e toda uma variedade de pedras preciosas davam graça a fivelas e botões."
+
+"O vestido feminino passava a usar-se geralmente em duas peças: corpete e saia. Era grande o aparato de proporções proporcionado pela armação interior, a que chamavam panier. ==O objectivo seria avolumar substancialmente as ancas. Nas costas, dispunham-se, normalmente, pregas, formando um enorme concheado que terminava numa espécie de cauda. O jogo de volume lateral e traseiro exibia toda a exuberância do barroco."== 41
+"Durante o Rocócó, nos tecidos, via-se numa série de coloridos, que variavam do ==rosa intenso, ao azul, o amarelo, ou ainda o listrado==, bastante querido, adquirindo novo significado." 41
+"O gosto pelos enfeites era tal que, os laços se usavam também no pescoço, como acessório ou ainda pregados, muitas vezes em número considerável, por todo o vestido ou apenas nas mangas, rematando as longas e as meias mangas, para suavizar a linguagem gestual." 41
