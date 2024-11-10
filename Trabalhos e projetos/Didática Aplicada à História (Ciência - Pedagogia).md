@@ -190,3 +190,8 @@ moda torna-se importante para compreender o próprio funcionamento da memória h
 "as transformações da moda feminina conduzirão durante este período, como é sabido, a profundas alterações na silhueta." 155
 - Os homens criticavam as anquinhas.
 "No tempo de D. Maria e seguindo os modelos franceses, os toucados altos atingem espantosas proporções, tornando-se, por isso, alvos preferidos das sátiras contra as modas." 156
+"A estrutura, tanto do traje feminino como do masculino e as suas formas erais mantêm-se com muito mais durabilidade." 158 
+- uso de tecidos estampados
+- adoção de xailes
+- extravagancia de adreços
+- masculino - chapéus
