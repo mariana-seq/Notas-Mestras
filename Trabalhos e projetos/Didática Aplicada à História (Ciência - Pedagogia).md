@@ -309,3 +309,5 @@ do rei, engrandecendo a figura do monarca e da família real." 363
 Sobre a transição para o sec. XIX: "A manufactura da indumentária já é, em certa medida, industrial. Raros são os lugares onde se semeia, colhe, fia e tece o linho. Os teares manuais deixaram de ser caseiros e passaram a fazer-se em grupos de famílias ou em cooperativas." 369
 =="É com o movimento da expansão e com a descoberta do caminho marítimo para a Índia que a seda entra em quantidade no nosso país e, logo de seguida, o algodão." ==381
 **SOBRE A COR**:=="cores garridas, o que exprime sentimentos positivos de alegria, de prazer, de desejo de viver e do sentido da festa."== 381-82
+
+**Moda e Política: Influências e consequências deixadas pela moda francesa e inglesa nos trajes de corte de Portugal durante 1789 a 1807. Manoela Bernardi Ferreira de Azevedo**
