@@ -302,4 +302,6 @@ dessa mobilidade, gerava críticas ácidas." 23
 **António Manuel Hespanha mobilidade social**
 "O conceito central aqui é o de honestidade. A honestidade é a virtude que procura o bem racional (bonum rationale); e que, por isso, tem como raiz a regra da razão" 125
 
-
+**Traje regional português e o folclore, Madalena Braz Teixeira**
+"Na época barroca, as festas políticas passaram a manifestar o poder absoluto
+do rei, engrandecendo a figura do monarca e da família real." 363
