@@ -244,3 +244,9 @@ complexos beija-mão e comemorações matrimoniais, originou todo um código de 
 "Torna-se, assim, evidente como a Corte portuguesa entrou no século XVIII mais
 receptiva às modas francesas. Isto não invalidou que tivesse em conta a herança
 tradicional acumulada pela experiência das centúrias anteriores. O conservadorismo religioso e moral e as limitações das leis pragmáticas (que nunca atingiram, no entanto, os resultados esperados) combinavam-se com outros factores, em que se incluía a proximidade da Espanha e o acesso mais condicionado aos grandes centros da moda, de que Paris e a corte de Versalhes se tornara paradigma." 131-132
+
+**Ser e parecer: a indumentária e hierarquia social na sátira de frei Lucas de Santa Catarina, Portugal, século XVIII, de Luciana da Silva**
+"Por meio dos elementos materiais que circundavam os sujeitos em
+suas vivências cotidianas é possível conhecer estilos de vida que variavam
+conforme diferentes níveis de riqueza e posições sociais, bem como pensar nos
+significados da posse e do uso de objetos." 3
