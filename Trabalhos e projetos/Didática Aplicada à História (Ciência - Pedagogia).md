@@ -306,3 +306,6 @@ dessa mobilidade, gerava críticas ácidas." 23
 "Na época barroca, as festas políticas passaram a manifestar o poder absoluto
 do rei, engrandecendo a figura do monarca e da família real." 363
 "A indumentária define-se no seio do tecido social, tendo o seu lugar na encenação e no espectáculo de rigorosa regulamentação." 364
+Sobre a transição para o sec. XIX: "A manufactura da indumentária já é, em certa medida, industrial. Raros são os lugares onde se semeia, colhe, fia e tece o linho. Os teares manuais deixaram de ser caseiros e passaram a fazer-se em grupos de famílias ou em cooperativas." 369
+=="É com o movimento da expansão e com a descoberta do caminho marítimo para a Índia que a seda entra em quantidade no nosso país e, logo de seguida, o algodão." ==381
+**SOBRE A COR**:=="cores garridas, o que exprime sentimentos positivos de alegria, de prazer, de desejo de viver e do sentido da festa."== 381-82
