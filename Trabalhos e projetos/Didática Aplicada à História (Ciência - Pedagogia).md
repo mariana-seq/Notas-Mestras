@@ -333,3 +333,4 @@ sobre o último quartel do século XVII: "Começa-se a retomar o gosto do exotis
 =="Ao desenrolar do século XVIII, a importância dada à captação dos pormenores é cada vez maior e mesmo o detalhe mais insignificante seria considerado crucial à avaliação de uma composição bela."== 12
 "Esse século [XVIII], tantas vezes tomado como tendo a face gelada da racionalidade, foi também o século dos libertinos, um período onde o sentimento – muito longe disso – não foi abandonado ou esquecido! É também neste século que se toma a devida consciência das paixões." 12
 "Enquanto isso, os romances setecentistas enchem-se, seguindo o mesmo rumo, de temas amorosos com recurso abundante a adultério, incesto e fornicação, criticando directa ou indirectamente a estética da sociedade de então." 13
+"Valoriza-se, assim um dinamismo estético que alie arte e sensibilidade, numa fórmula natural e muito orgânica." 13
