@@ -295,3 +295,6 @@ interior da temática da dissimulação social." 17
 "Ao longo do século XVIII, entretanto, um deslocamento afetou a desconfiança moral que pairava sobre o artifício: não se tratava apenas de enganar a Deus, mas, também, de mentir para os outros. A maquiagem passava, assim, a ser vista como um obstáculo à transparência social." 17
 "O vestuário de casa era mais simples, com menos peças sobrepostas e mais
 velhas" 17
+"O fenômeno da mobilidade social despertava a repulsa nos setores mais conservadores da sociedade. Consequentemente, a melhoria do trato de si
+quanto à imagem a ser apresentada nos diferentes espaços, como decorrência
+dessa mobilidade, gerava críticas ácidas." 23
