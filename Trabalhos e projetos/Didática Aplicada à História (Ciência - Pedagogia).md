@@ -224,3 +224,7 @@ se diferenciar do traje mais contido do dia-a-dia. ==Seria indispensável, aquan
 estatismo da sua função primordial— proteger o corpo das agressões externas e dos olhares indiscretos — para se converter num autêntico instrumento de propaganda, símbolo que coloca cada um no lugar que deve ocupar na hierarquia social." 118
 "quase contínua promulgação de leis pragmáticas tentou limitar o acesso de certas classes a certos tecidos, cores e acessórios, ao mesmo tempo que visava impulsionar a indústria têxtil nacional." 118-119
 =="A camisa era comum ao traje de Corte, sobre a qual as nobres usariam uma armação para a saia (com tendência a simplificar-se em relação aos verdugados e guardinfantes) e um grande número de saiotes e fraldelins." ==120
+"Aos olhos ingleses, o traje português pareceria deveras antiquado, apegado às
+tradições de um país que não primava pelas liberdades das mulheres, especialmente no que respeitava às classes superiores. (...)A diferenciação das actividades permitidas a cada género, associada ao ainda rigoroso traje de corte, em muito contrasta com a realidade britânica (...)." 121
+"A atitude das retratadas portuguesas, escolhendo para a pose trajes escuros e
+ainda rígidos, remete para um estatismo e contenção corporais muito presentes, que D. Catarina de Bragança já não mostra, preferindo atitudes mais soltas e novas formas de trajar que, apesar do carácter cénico, aportam liberdade à composição." 121
