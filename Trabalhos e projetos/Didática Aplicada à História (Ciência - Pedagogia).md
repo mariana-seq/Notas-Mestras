@@ -299,4 +299,5 @@ velhas" 17
 quanto à imagem a ser apresentada nos diferentes espaços, como decorrência
 dessa mobilidade, gerava críticas ácidas." 23
 
-O conceito central aqui é o de honestidade. A honestidade é a virtude que procura o bem racional (bonum rationale); e que, por isso, tem como raiz a regra da razão
+**António Manuel Hespanha mobilidade social**
+"O conceito central aqui é o de honestidade. A honestidade é a virtude que procura o bem racional (bonum rationale); e que, por isso, tem como raiz a regra da razão" 125
