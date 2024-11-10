@@ -199,4 +199,5 @@ moda torna-se importante para compreender o próprio funcionamento da memória h
 "O vestuário terá aqui uma função essencial, pondo em relevo a natureza, ou ultrapassando-a mesmo, sempre que esta não se mostre pródiga em encantos, criando, para isso, enganosas aparências." 159
 "Mas, tal como o vestuário, a higiene participava na arte de representação. Estar na moda significava estar, ou parecer, limpo. Uma vez que o banho não fazia parte dos hábitos de cada um, a roupa limpa era sinónimo de higiene e esta sinal de distinção." 160
 "É notório que a preocupação de limpeza se fica apenas por aquilo que pode ser visto da camisa, isto é, a gravata de rendas. Há assim uma fraude na representação que está de acordo com o estereótipo da figura representada." 161
-""
+"Alguns Folhetos de Cordel divulgaram as perfeições que deviam assistir numa Senhora para ser verdadeiramente formosa. Para isso, os olhos deveriam ser grandes e negros, as faces coradas, a testa branca e lisa, a boca pequena e cor de cravo, as sobrancelhas negras e espessas, as pestanas pretas e compridas, os dentes alvos, miudos e unidos, o pescoço alto, roliço e branco..." 161
+=="A efiminação do homem não podia ser mais explícita. Afinal eram as mesmas sedas, as mesmas rendas, os mesmos adereços que ornamentavam os dois sexos."== 162
