@@ -166,3 +166,5 @@ referências visuais e a moda é uma manifestação visual, analisar imagens de
 moda torna-se importante para compreender o próprio funcionamento da memória humana." 16
 
 **O Luxo e as Modas em textos de cordel da segunda metade do século XVIII**
+"Confirmando a enorme receptividade do público para com estas produções menores - lançadas a público a baixo preço - recordem-se os numerosos locais de venda existentes na cidade de Lisboa, nesta segunda metade do século" 138
+"A multiplicidade dos temas e a qualidade tão variável do seu tratamento permite-nos supor que os textos atrairiam gostos e interesses muito distintos." 139
