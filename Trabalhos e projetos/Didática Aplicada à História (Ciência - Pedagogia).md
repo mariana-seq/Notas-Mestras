@@ -195,3 +195,6 @@ moda torna-se importante para compreender o próprio funcionamento da memória h
 - adoção de xailes
 - extravagancia de adreços
 - masculino - chapéus
+
+"O vestuário terá aqui uma função essencial, pondo em relevo a natureza, ou ultrapassando-a mesmo, sempre que esta não se mostre pródiga em encantos, criando, para isso, enganosas aparências." 159
+"Mas, tal como o vestuário, a higiene participava na arte de representação. Estar na moda significava"
