@@ -439,3 +439,7 @@ dependente dos autores dos textos. Todavia, grande parte das obras publicadas su
 
 **Os alfaiates e as modistas em Lisboa (1775-1850): subsídio para a História do traje e da moda, de Maria Antonieta Lopes Vilão Vaz de Morais**
 Pôr em cf e mencionar o regimento dos alfaites e modistas... para dar resposta ao luxos.... p. 199
+
+
+"Num relance ainda que circunstancial pela História do Traje, é indubitável que o poder tende a condicionar e por vezes,  embora mais raramente, a determinar o que irá ser usado." 142
+=="talvez de todos os motivos vestimentares o menos importante seja exactamente a necessidade de cobrir o corpo." ==142
