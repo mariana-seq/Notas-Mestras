@@ -427,3 +427,4 @@ Sobre o século XIX: "==não tardaria muito e a maioria das mulheres portuguesas
 DEFINIÇÃO DE LITERATURA DE CORDEL =="Ora, por literatura de cordel entender-se-á, então, o imenso e diverso conjunto de textos que se destinavam a ser dependurados em cordéis suportados por preguinhos ou alfinetes, em paredes de madeira ou a circular pendentes de vendedores ambulantes, para que expostos ao público o pudessem aliciar à compra.==" 66
 "No que toca à relação entre o conteúdo e a qualidade, essa estaria claramente
 dependente dos autores dos textos. Todavia, grande parte das obras publicadas surgia sob autoria anónima. Outra condicionante qualitativa era o “ controlo efectivo à cultura escrita, o que, como é sabido, marcaria profundamente a produção literária”."  67
+"LITERATURA PLANFETÁRIA" 69
