@@ -235,4 +235,8 @@ de Bragança fora reconhecida pelo papado, razões que levaram a uma maior segur
 século, o que mostra como a rainha, tendo em consideração o carácter oficial do retrato, estaria informada sobre as modas de Versalhes." 125
 "Note-se a delicadeza da decoração do coordenado; ==a rigidez de outrora parece dar lugar a uma aparência mais “humanizada”, delicada e feminina.== A proliferação das fitas como acessório e os penteados que parecem desafiar as leis da gravidade contribuem para a impressão de movimento da moda barroca." 126
 "As formas fortes anteriormente impostas ao corpo feminino são substituídas pelo uso de corpinhos e jaquetas reforçados por barbas de baleia, arames e finas talas de madeira, e as saias caem livremente até aos pés, em sedutores e estruturados drapeados de seda." 126
-""
+"Outro exemplar do mesmo período é um corpinho174 (Fig. 83) de damasco de
+seda amarela." 127
+"A sua exigência conduziria, de certo, à marginalização das pragmáticas que obrigavam à diminuição das importações têxteis, aliás, necessárias para o equilíbrio das relações comerciais portuguesas." 128
+=="O cerimonial da Corte, com as suas precedências, séquitos e entradas régias,
+complexos beija-mão e comemorações matrimoniais, originou todo um código de conduta inspirado nos modelos franceses, em que o poder da elite representada pela alta-nobreza se impunha aos restantes corpos da sociedade."== 128
