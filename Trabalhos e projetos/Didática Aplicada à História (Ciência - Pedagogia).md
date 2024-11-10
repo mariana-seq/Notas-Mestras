@@ -436,3 +436,6 @@ dependente dos autores dos textos. Todavia, grande parte das obras publicadas su
 "Os moralistas defendiam uma relação estreita entre “traje e dignidade pessoal”. Para que se mantivesse a tal dignidade usava-se até de exemplos das sagradas escrituras para condenar excessos e profanidades da moda." 87
 	Ainda que pareça à primeira vista contraditório, estes textos de Cordel iam de encontro aos objetivos do Estado... veja-se a publicação de sucessivas pragmáticas contra o luxo, até mesmo no reinado de D. João V.
 "Acresce que isto era, também, um assunto de interesse para o estado, uma vez que a usurpação de certos símbolos de qualidade podia pôr em causa a organização da hierarquia social com os excessos sumptuários." 87
+
+**Os alfaiates e as modistas em Lisboa (1775-1850): subsídio para a História do traje e da moda, de Maria Antonieta Lopes Vilão Vaz de Morais**
+Pôr em cf e mencionar o regimento dos alfaites e modistas... para dar resposta ao luxos.... p. 199
