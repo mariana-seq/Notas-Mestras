@@ -206,3 +206,6 @@ moda torna-se importante para compreender o próprio funcionamento da memória h
 - Segundo aspeto: "relacionar as críticas contra os excessos a que conduzia a moda, não apenas com o reflexo do «discurso oficial» do poder, mas também com valores próprios da burguesia: utilidade, prudência, poupança e decência." 163
 "Estes valores constrastavam fortemente com os estereótipos do homem e da mulher da moda que percorriam todos os textos,==neles ressaltando um comportamento que tem na ostentação, no luxo no ócio, referências fundamentais.==" 163
 =="Sobre a Moda de Setecentos (...), ficaram-nos os ecos da sedução que exerceu, através do irresistível fascínio da sua própria efemeridade." ==164
+
+**O traje de corte feminino em Portugal da época de D. Manuel I a D: Pedro II**
+"Os modos de Versalhes, adequados ao novo requinte cultural e do traje, difundem-se entre os membros da Corte. ==No entanto, as tradições nacionais, porque fortemente enraizadas, fazem com que a predominância dos tons escuros — preto, azul, roxo — se mantenha na hora de escolher as cores dos tecidos."== 113
