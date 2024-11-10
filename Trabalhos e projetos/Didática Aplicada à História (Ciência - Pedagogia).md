@@ -314,3 +314,5 @@ Sobre a transição para o sec. XIX: "A manufactura da indumentária já é, em 
 "Com motivos mais ornamentais e decorativos - devido ao gosto pelo exotismo dos países distantes - os tecidos expunham tons abertos e coloridos." 120
 **SOBRE AS ANQUINHAS:** =="As anquinhas, também denominadas de guard-infants ou paniers, eram um tipo de armação responsável por aumentar consideravelmente o volume lateral das saias e dos vestidos, habitualmente usados pela corte francesa, valorizando assim as ancas femininas.==" 121
 sobre o colo"O decote costumava ser profundo nos corpetes, mas se permitia até “meios peitos”, de forma que não interferissem na moral das damas, como percebido na figura 30. No entanto, as lusitanas praticavam o oposto. Montesquieu surpreende-se com a permissividade dos portugueses ao deixar suas senhoras saírem com os seios descobertos, enquanto os calcanhares eram mais resguardados." 125
+
+**Moda em Cordel, Isabel Cristina Silva da Costa Moura**
