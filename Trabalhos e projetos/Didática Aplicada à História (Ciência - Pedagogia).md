@@ -398,3 +398,9 @@ SOBRE POMBAL E O ILUMINISMO: "Apercebendo-se da necessidade urgente de reformas 
 "==Este contexto sócio-político ia operando uma reorganização da sociedade. A
 aristocracia perdia o seu anterior sentido de hegemonia única, dando-se a ascensão de toda uma burguesia comercial, endinheirada.== E, seria fundamentalmente destas burguesias que fariam parte os “estrangeirados”, esses intelectuais que chegavam a Portugal cheios da aura do Iluminismo, trazendo no espírito novidades, nas ideias, ideais e aspirações de modernização." 44
 excessos: =="Todo o excesso patente nos inícios do século XVIII, polvilhado de perucas, pedras preciosas, artifícios de decoração e pormenores rendilhados, via-se também no auge dos jogos de volume, na vivacidade festiva, numa proclamação clara do excessivo, mas sempre conciliado com preocupações de harmonia e rigor."== 45
+- não podia durar muito...
+Opção de um estilo mais confortável. Apesar desta atitude "moderadora", Pombal optou pela mesma cabeleira...
+
+"O que demorou a ser moderado foi o volume das grandes armações laterais nas saias, as chamadas “anquinhas”, também conhecidas por “guarda-infantes” e, que tão criticadas foram na literatura de cordel." 46
+"Os vestidos tinham de ser claramente amplos. Quando as anquinhas passassem de moda, usar-se-iam sobre os espartilhos os vestidos redingotes, de saias muito abertas e corpetes bastante justos ao corpo." 46
+GIROOO!!! =="figura espartilhada pela pièce d'estomac mantinha-se, pelo que a atitude feminina permanecia condicionada, controlada, pausada e rítmica. Procurava-se manifestar a beleza e o esplendor dos pés, a graciosidade do caminhar." ==47
