@@ -177,3 +177,4 @@ moda torna-se importante para compreender o próprio funcionamento da memória h
 - em consonância com as pragmáticas.
 "Se as estruturas do poder se preocupavam com a defesa da sociedade hierarquizada: - ==o que se traduzia, ao nível do vestuário, pela manutenção dos seus símbolos identificadores que garantiam a estabilidade, a permanência, identificando cada indivíduo e garantindo-lhe o lugar que lhe competia dentro da sociedade==." 141
 "==clara referência à usurpação de símbolos de qualidade que reflectiam o desejo de uma pretendida ascensão social, transgressão que provoca uma reprovação imediata e o apelo à necessidade de leis disciplinadoras que obstariam à repetição de tais abusos==." 142
+"Trajar vem é agora sinónimo de vestir à moda, moda que vem do estrangeiro e de que são os primeiros consumidores os membros dos grupos sociais elevados"
