@@ -223,3 +223,4 @@ se diferenciar do traje mais contido do dia-a-dia. ==Seria indispensável, aquan
 "Ao longo do período em estudo, verificamos como o vestuário ultrapassa o
 estatismo da sua função primordial— proteger o corpo das agressões externas e dos olhares indiscretos — para se converter num autêntico instrumento de propaganda, símbolo que coloca cada um no lugar que deve ocupar na hierarquia social." 118
 "quase contínua promulgação de leis pragmáticas tentou limitar o acesso de certas classes a certos tecidos, cores e acessórios, ao mesmo tempo que visava impulsionar a indústria têxtil nacional." 118-119
+=="A camisa era comum ao traje de Corte, sobre a qual as nobres usariam uma armação para a saia (com tendência a simplificar-se em relação aos verdugados e guardinfantes) e um grande número de saiotes e fraldelins." ==120
