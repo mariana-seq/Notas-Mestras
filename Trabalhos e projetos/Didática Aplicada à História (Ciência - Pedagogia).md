@@ -428,3 +428,5 @@ DEFINIÇÃO DE LITERATURA DE CORDEL =="Ora, por literatura de cordel entender-se
 "No que toca à relação entre o conteúdo e a qualidade, essa estaria claramente
 dependente dos autores dos textos. Todavia, grande parte das obras publicadas surgia sob autoria anónima. Outra condicionante qualitativa era o “ controlo efectivo à cultura escrita, o que, como é sabido, marcaria profundamente a produção literária”."  67
 "LITERATURA PLANFETÁRIA" 69
+"Mas, nem sempre seria lida apenas pelos menos cultos e nem sempre se encheria só de noções simples, sendo que na literatura dramática de cordel há linguagem, temas e estilos bastante diferentes do vulgo e gosto popular." 70
+"E, se na conexão entre oralidade e escrita no “Cordel”, devido ao nível geralmente pouco elevado de literacia dos compradores acabaria por permitir que se atingisse um grupo mais alargado de interessados, isso não implica que dele fizessem parte apenas os populares." 70
