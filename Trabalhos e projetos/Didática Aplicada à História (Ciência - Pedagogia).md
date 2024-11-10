@@ -250,3 +250,10 @@ tradicional acumulada pela experiência das centúrias anteriores. O conservador
 suas vivências cotidianas é possível conhecer estilos de vida que variavam
 conforme diferentes níveis de riqueza e posições sociais, bem como pensar nos
 significados da posse e do uso de objetos." 3
+"aquela entre o ser e o parecer, relação que deve ser destacada na análise de
+práticas e mecanismos de transmissão de gostos, modas, padrões de conduta e
+símbolos de ascendência social.==Essa tensão imanente à aparência, como
+prática cultural cotidiana, sugere a complexidade da realidade à qual pertenceu."== 3
+"As aparências viabilizavam certos comportamentos sociais pertinentes às civilidades e, simultaneamente, reforçavam a instabilidade das hierarquias sociais em seus segmentos visuais, criando confusão acerca do lugar de cada um na sociedade." 4
+=="Escolher o que vestir era, na maior parte do tempo, algo devotado à exterioridade, à leitura que os outros fariam de si e ao atendimento das expectativas alheias, com o objetivo de aguçar nos outros um sentimento de
+admiração e viabilizar uma série de comportamentos fundamentados nas hierarquias sociais."== 4
