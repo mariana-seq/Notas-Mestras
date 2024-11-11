@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "amarelo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
