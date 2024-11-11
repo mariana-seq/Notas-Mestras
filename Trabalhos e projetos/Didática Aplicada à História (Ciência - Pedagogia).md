@@ -286,8 +286,7 @@ relação entre ser e parecer, condenando usos e gestos considerados impertinent
 =="A materialidade dos vestidos deveria compor uma imagem condizente com cada estado, corroborando as hierarquias correspondentes a um modelo conservador de estrutura social."== 14
 Sobre a arte do cortesão: "A habilidade, ou arte, deveria ser imperceptível, pois deixar transparecer o referido esforço colocaria em causa a verdade do conteúdo. ==Qualquer desequilíbrio entre ser e parecer transformava a representação em um fim em si mesmo, o que era considerado uma degeneração, constituindo um tema amplamente aproveitado pelos pensadores e moralistas para afrontarem os excessos de ornamentos sem substância.==" 14
 "As características materiais pesavam no julgar das aparências alheias tanto quanto o modelo das roupas ou a maneira de empregar tais elementos materiais sobre o corpo." 15
-**O QUE É A MODA?** =="A moda legítima nasceria na corte, inspirada em modelos internacionais
-diversos, e era difundida em outros locais por meio de pessoas que transitassem por esse espaço, como trabalhadores e criados, ==por exemplo. A informação sobre as modas era fundamental para que as escolhas das vestimentas e adornos resultasse em uma aparência que afirmasse o bom gosto."
+**O QUE É A MODA?** =="A moda legítima nasceria na corte, inspirada em modelos internacionais diversos, e era difundida em outros locais por meio de pessoas que transitassem por esse espaço, como trabalhadores e criados, ==por exemplo. A informação sobre as modas era fundamental para que as escolhas das vestimentas e adornos resultasse em uma aparência que afirmasse o bom gosto."
 "O detalhamento do que se usava para melhorar a aparência feminina pela
 manhã sugeria o tamanho do embuste empregado pelas senhoras. Os artifícios
 femininos, como a maquiagem e os sinais, configuravam um núcleo distinto no
