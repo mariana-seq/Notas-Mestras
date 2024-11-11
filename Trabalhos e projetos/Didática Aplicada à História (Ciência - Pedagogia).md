@@ -440,11 +440,11 @@ dependente dos autores dos textos. Todavia, grande parte das obras publicadas su
 **Os alfaiates e as modistas em Lisboa (1775-1850): subsídio para a História do traje e da moda, de Maria Antonieta Lopes Vilão Vaz de Morais**
 Pôr em cf e mencionar o regimento dos alfaites e modistas... para dar resposta ao luxos.... p. 199
 
-
+**O poder e a moda vestimentar, Paulo Morais Alexandre**
 "Num relance ainda que circunstancial pela História do Traje, é indubitável que o poder tende a condicionar e por vezes,  embora mais raramente, a determinar o que irá ser usado." 142
 =="talvez de todos os motivos vestimentares o menos importante seja exactamente a necessidade de cobrir o corpo." ==142
 
 
-
+***How to Read a Dress, Lydia Edwards***
 "This is partly due to a lack of geographical unity, which meant that countries such as Germany and Italy—the latter especially—were far smaller players on the world stage, dominated by regional influences in dress and, in Italy, by that of Austria and Spain." 46
 
