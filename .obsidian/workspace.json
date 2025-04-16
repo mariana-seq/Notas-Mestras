@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5aa551a818439986",
+        "id": "5af7f7f41ade1124",
         "type": "tabs",
         "children": [
           {
-            "id": "423c4c7adfa5fa4b",
+            "id": "3664fda5abf5030a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -176,11 +177,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "423c4c7adfa5fa4b",
+  "active": "3664fda5abf5030a",
   "lastOpenFiles": [
+    "🏡 Olá Mariana!.md",
     "Mestrado em Ensino de História/Didática da História I.md",
     "Trabalhos e projetos/Didática Aplicada à História (Ciência - Pedagogia).md",
-    "🏡 Olá Mariana!.md",
     "🛠️ Trabalhos/ARAÚJO, Ana Cristina, A Cultura das Luzes em Portugal, Temas e Problemas,.md",
     "🛠️ Trabalhos/Introdução à literatura no Brasil Afrânio Coutinho.md",
     "🛠️ Trabalhos/BICALHO, Maria Fernanda, Colónia ou Conquista....md",
