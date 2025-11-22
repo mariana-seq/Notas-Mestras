@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "97e9a219914e936e",
+        "id": "daa38c2c28b39e14",
         "type": "tabs",
         "children": [
           {
-            "id": "b767f08bc02d1e61",
+            "id": "b5a347be5d11ccd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,8 +70,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -166,6 +166,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
@@ -177,7 +178,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b767f08bc02d1e61",
+  "active": "b5a347be5d11ccd8",
   "lastOpenFiles": [
     "🏡 Olá Mariana!.md",
     "Mestrado em Ensino de História/Didática da História I.md",
