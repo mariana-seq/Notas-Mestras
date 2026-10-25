@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "399d46750a573dce",
+        "id": "24080778b8de66d4",
         "type": "tabs",
         "children": [
           {
-            "id": "7b53c8984f1eaf94",
+            "id": "8f2a1e40ae8522c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -178,7 +180,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7b53c8984f1eaf94",
+  "active": "8f2a1e40ae8522c5",
   "lastOpenFiles": [
     "🏡 Olá Mariana!.md",
     "Mestrado em Ensino de História/Didática da História I.md",
